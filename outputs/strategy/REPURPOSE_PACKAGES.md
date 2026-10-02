@@ -1,6 +1,6 @@
 # P05 — GÓI ĐA NỀN TẢNG (24 video × 5 định dạng)
 
-**Sinh:** 2026-10-02 08:57 UTC  
+**Sinh:** 2026-10-02 09:13 UTC  
 **Nguồn:** 24 chủ đề từ EVERGREEN_PLAN · quote thật từ comment khán giả
 
 > Nguyên tắc: **5 định dạng phải có 5 GÓC khác nhau**, không lặp nội dung. Mỗi cái có hook riêng, CTA riêng.

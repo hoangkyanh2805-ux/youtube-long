@@ -1,6 +1,6 @@
 # Điểm mù kênh — phân tích từ dữ liệu thật
 
-*Sinh: 2026-10-02 08:57 UTC*  •  Cửa sổ: 2026-09-02 → 2026-09-30 (28 ngày)
+*Sinh: 2026-10-02 09:13 UTC*  •  Cửa sổ: 2026-09-02 → 2026-09-30 (28 ngày)
 
 Nguồn: YouTube Analytics API (OAuth, private metrics) + YouTube Data API v3 (public stats). Không có số liệu nhập tay.
 

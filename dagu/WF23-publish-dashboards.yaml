@@ -89,5 +89,9 @@ steps:
   - id: report_health
     run: Set-Location C:\Users\Admin\youtube; python scripts\telegram_reporter.py --report pipeline_health --send --approve APPROVE
 
+  # Gửi KẾT QUẢ dây chuyền sản xuất vào topic EDIT — không chỉ báo "pipeline sống"
+  - id: report_production_pipeline
+    run: Set-Location C:\Users\Admin\youtube; python scripts\telegram_reporter.py --report production_pipeline --send --approve APPROVE
+
   - id: final_note
     run: Write-Host "WF23 complete. Mo REPORT_HUB.html de vao tat ca bao cao."

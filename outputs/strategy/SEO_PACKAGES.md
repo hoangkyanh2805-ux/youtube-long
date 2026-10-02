@@ -1,6 +1,6 @@
 # P10 — GÓI SEO YOUTUBE (24 video)
 
-**Sinh:** 2026-10-02 08:57 UTC  
+**Sinh:** 2026-10-02 09:13 UTC  
 **Nguồn:** 200 long-tail thật từ comment khán giả · 99 tag đối thủ · 24 chủ đề plan
 
 > Guardrail: không nhồi keyword rác, không title gây hiểu sai. Tag lấy từ ngôn ngữ thật của khán giả, không thêm cho đủ số.

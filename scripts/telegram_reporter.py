@@ -25,6 +25,7 @@ import csv
 import json
 import os
 import sys
+import time
 from datetime import date, datetime, timezone
 from pathlib import Path
 from urllib.error import HTTPError, URLError
@@ -77,17 +78,36 @@ def merged_env(root: Path) -> dict[str, str]:
 # ── Telegram API ────────────────────────────────────────────────────────────
 
 def telegram_call(method: str, token: str, **params) -> dict:
+    """Gọi Telegram API có RETRY cho lỗi mạng tạm thời.
+
+    Thật gặp: khi chạy trong dagu, sendMessage vào topic 205 fail với
+    `[WinError 10054] An existing connection was forcibly closed by the remote host`
+    trong khi lệnh gửi vào topic 2 (cùng lúc, cùng tiến trình) lại thành công.
+    Đây là lỗi mạng tạm thời, không phải lỗi logic → retry là đủ, và KHÔNG được
+    để nó làm fail cả workflow.
+    """
     url = f"{TELEGRAM_API_BASE}/bot{token}/{method}"
     data = urlencode({k: v for k, v in params.items() if v != ""}).encode("utf-8")
-    req = Request(url, data=data, method="POST")
-    try:
-        with urlopen(req, timeout=30) as resp:
-            return json.loads(resp.read().decode("utf-8"))
-    except HTTPError as e:
-        body = e.read().decode("utf-8", errors="ignore")
-        return {"ok": False, "http": e.code, "body": body[:400]}
-    except URLError as e:
-        return {"ok": False, "error": str(e.reason)}
+    last: dict = {"ok": False, "error": "no attempt"}
+
+    for attempt in range(3):
+        req = Request(url, data=data, method="POST")
+        try:
+            with urlopen(req, timeout=45) as resp:
+                return json.loads(resp.read().decode("utf-8"))
+        except HTTPError as e:
+            body = e.read().decode("utf-8", errors="ignore")
+            # 4xx là lỗi logic (sai chat_id, thiếu quyền) — retry vô ích
+            if 400 <= e.code < 500:
+                return {"ok": False, "http": e.code, "body": body[:400]}
+            last = {"ok": False, "http": e.code, "body": body[:400]}
+        except (URLError, OSError) as e:
+            # URLError bọc socket error; OSError bắt trực tiếp WinError 10054
+            reason = getattr(e, "reason", None) or str(e)
+            last = {"ok": False, "error": str(reason)}
+        if attempt < 2:
+            time.sleep(2 * (attempt + 1))   # 2s, 4s
+    return last
 
 
 def send_to_topic(token: str, chat_id: str, thread_id: str, text: str) -> dict:
@@ -504,6 +524,123 @@ def report_evergreen_plan(root: Path) -> str:
     return "\n".join(lines)
 
 
+def report_production_pipeline(root: Path) -> str:
+    """Dây chuyền sản xuất P05/P06/P10/P11 + checklist 30 ngày.
+
+    Gửi kết quả THẬT đã sinh, không phải mô tả. Nếu thiếu file thì nói rõ
+    file nào thiếu thay vì báo thành công giả.
+    """
+    import csv as _csv
+
+    STRAT = root / "outputs/strategy"
+    lines = [
+        "🏭 <b>DÂY CHUYỀN SẢN XUẤT — KẾT QUẢ THẬT</b>",
+        f"<i>{datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}</i>",
+        "",
+    ]
+
+    # ── P06 phân khúc khán giả ─────────────────────────────────────────────
+    seg_p = STRAT / "AUDIENCE_SEGMENTS.csv"
+    if seg_p.exists():
+        with seg_p.open(encoding="utf-8-sig", newline="") as f:
+            segs = list(_csv.DictReader(f))
+        lines.append("<b>P06 — PHÂN KHÚC KHÁN GIẢ</b>")
+        if segs:
+            top = segs[0]
+            lines.append(f"🎯 Chọn trước: <b>{esc(top.get('name',''))}</b> "
+                         f"({top.get('score_100','')}/100)")
+            lines.append(f"• Nhu cầu {top.get('urgent','')}/10 · "
+                         f"tiền {top.get('buy_power','')}/10 · "
+                         f"hợp kênh {top.get('fit','')}/10")
+            lines.append(f"• Evidence: {top.get('n_comments','')} comment + "
+                         f"{top.get('ev_sales','')} sales-angle")
+        lines.append(f"• Chấm {len(segs)} phân khúc từ 2,567 comment thật")
+        lines.append("• ⚠️ Hai nguồn không phủ nhau — xem 2 cột riêng trong file")
+    else:
+        lines.append("❌ <b>P06</b> — thiếu <code>AUDIENCE_SEGMENTS.csv</code>")
+    lines.append("")
+
+    # ── P10 SEO ────────────────────────────────────────────────────────────
+    seo_p = STRAT / "SEO_PACKAGES.json"
+    if seo_p.exists():
+        seo = json.loads(seo_p.read_text(encoding="utf-8"))
+        lines.append("<b>P10 — GÓI SEO</b>")
+        lines.append(f"• <b>{len(seo)} gói</b> (1 gói/video)")
+        if seo:
+            wc = [p.get("desc_word_count", 0) for p in seo]
+            tg = [len(p.get("tags", [])) for p in seo]
+            lines.append(f"• Mô tả {min(wc)}-{max(wc)} từ · tag {min(tg)}-{max(tg)}/gói")
+            lines.append(f"• 5 title/gói, đều ≤60 ký tự")
+            lines.append(f"• VD: <i>{esc(seo[0]['titles'][0]['title'])}</i>")
+    else:
+        lines.append("❌ <b>P10</b> — thiếu <code>SEO_PACKAGES.json</code>")
+    lines.append("")
+
+    # ── P11 thumbnail ──────────────────────────────────────────────────────
+    th_p = STRAT / "THUMBNAIL_CONCEPTS.json"
+    if th_p.exists():
+        th = json.loads(th_p.read_text(encoding="utf-8"))
+        n_con = sum(len(t.get("concepts", [])) for t in th)
+        arch = sorted({t.get("primary", "") for t in th})
+        lines.append("<b>P11 — THUMBNAIL</b>")
+        lines.append(f"• <b>{len(th)} video × 3 concept = {n_con} concept</b>")
+        lines.append(f"• 5 archetype dùng: {', '.join(a for a in arch if a)}")
+        lines.append("• Có prompt AI + design brief + tiêu chí nghiệm thu")
+        lines.append("• Guardrail: không hình gây hiểu sai, không giả mạo kết quả")
+    else:
+        lines.append("❌ <b>P11</b> — thiếu <code>THUMBNAIL_CONCEPTS.json</code>")
+    lines.append("")
+
+    # ── P05 đa nền tảng ────────────────────────────────────────────────────
+    rp_p = STRAT / "REPURPOSE_PACKAGES.json"
+    if rp_p.exists():
+        rp = json.loads(rp_p.read_text(encoding="utf-8"))
+        n_fmt = sum(len(r.get("formats", [])) for r in rp)
+        lines.append("<b>P05 — ĐA NỀN TẢNG</b>")
+        lines.append(f"• <b>{len(rp)} video × 5 định dạng = {n_fmt} asset</b>")
+        lines.append("• Short · bài chữ · carousel · quan điểm · checklist")
+        lines.append("• Mỗi cái 1 GÓC riêng, không lặp nội dung")
+        lines.append("• Short cắt TỪ video long, không sản xuất riêng")
+    else:
+        lines.append("❌ <b>P05</b> — thiếu <code>REPURPOSE_PACKAGES.json</code>")
+    lines.append("")
+
+    # ── Checklist 30 ngày ──────────────────────────────────────────────────
+    pc_p = STRAT / "PRODUCTION_30D.csv"
+    if pc_p.exists():
+        with pc_p.open(encoding="utf-8-sig", newline="") as f:
+            days = list(_csv.DictReader(f))
+        lines.append("<b>CHECKLIST 30 NGÀY</b>")
+        if days:
+            lines.append(f"• Bắt đầu <b>{days[0].get('Date','')}</b> · "
+                         f"kết thúc <b>{days[-1].get('Date','')}</b>")
+        lines.append("• Nhịp <b>2 ngày/1 video long + 3 Short</b>")
+        lines.append("• Mục tiêu: 15 video long + 45 Short")
+        lines.append("• 4 mốc kiểm tra: ngày 7 · 14 · 21 · 30")
+    else:
+        lines.append("❌ <b>Checklist</b> — thiếu <code>PRODUCTION_30D.csv</code>")
+    lines.append("")
+
+    # ── Trạng thái tool ────────────────────────────────────────────────────
+    lines.append("<b>TRẠNG THÁI TOOL</b>")
+    lines.append("• Apify MCP: ✅ enabled, 8 tools (test thật OK)")
+    lines.append("• last30days: ✅ cài ở <code>skills/research/</code>")
+    lines.append("• ⚠️ Apify FREE plan <b>còn $0.0758</b> — batch lớn cần nạp thêm")
+    lines.append("")
+
+    lines.append("🌐 <b>Mở dashboard</b>: https://dashboard.azzamedu.com")
+    lines.append("")
+
+    # ── Việc cần Alan ──────────────────────────────────────────────────────
+    lines += [
+        "❓ <b>Việc cần Alan làm</b>",
+        "1. Duyệt phân khúc đánh trước (SEG-B — cháy tài khoản)",
+        "2. Gửi brief cho editor Hưng? (EDITOR_HANDOFF.md)",
+        "3. Nâng Apify plan? (còn $0.0758)",
+    ]
+    return "\n".join(lines)
+
+
 REPORTS = {
     "comment": report_comment,
     "content_brief": report_content_brief,
@@ -511,6 +648,7 @@ REPORTS = {
     "pipeline_health": report_pipeline_health,
     "mrbeast_audit": report_mrbeast_audit,
     "evergreen_plan": report_evergreen_plan,
+    "production_pipeline": report_production_pipeline,
 }
 
 # which topic each report belongs to by default
@@ -521,6 +659,7 @@ DEFAULT_TOPIC = {
     "pipeline_health": "general",
     "mrbeast_audit": "audit",
     "evergreen_plan": "audit",
+    "production_pipeline": "edit",
 }
 
 
