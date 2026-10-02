@@ -132,9 +132,11 @@ def main() -> int:
     # Trước đây guide trỏ về Drive folder root → bấm cái nào cũng ra cùng thư mục.
     # Giờ host file thật dưới /files/ giữ nguyên cấu trúc outputs/... để link
     # trong guide trỏ thẳng tới đúng file.
-    # Lấy danh sách file từ registry của build_sop_guides.py (nguồn sự thật duy nhất).
+    # Nguồn sự thật: extract data-rel từ REPORT_HUB.html (mọi file đều phải có).
+    hub_html = (DASH / "REPORT_HUB.html").read_text(encoding="utf-8") if (DASH / "REPORT_HUB.html").exists() else ""
+    reg_files = sorted(set(re.findall(r'data-rel="([^"]+)"', hub_html)))
+    # Bổ sung từ GUIDES_REGISTRY (file trong guide nhưng không nằm trong REPORT_HUB)
     import importlib.util as _ilu
-    reg_files = []
     try:
         spec = _ilu.spec_from_file_location("_bsg", ROOT / "scripts" / "build_sop_guides.py")
         mod = _ilu.module_from_spec(spec)
@@ -148,10 +150,12 @@ def main() -> int:
         print(f"  ⚠ không đọc được registry: {e}")
 
     n_files = 0
+    n_missing = 0
     for rel in reg_files:
         src = ROOT / rel
         if not src.exists():
             print(f"  ✗ thiếu {rel}")
+            n_missing += 1
             continue
         if is_blocked(src):
             print(f"  ⛔ CHẶN {rel}")
@@ -169,7 +173,7 @@ def main() -> int:
         shutil.copy2(src, dst)
         n_files += 1
     if reg_files:
-        print(f"  ✓ files/  → files/  ({n_files}/{len(reg_files)} file host trực tiếp)")
+        print(f"  ✓ files/  → files/  ({n_files}/{len(reg_files)} file host trực tiếp, {n_missing} thiếu)")
 
     # ── 2. Copy dữ liệu công khai ─────────────────────────────────────────
     for rel in PUBLIC_DATA:

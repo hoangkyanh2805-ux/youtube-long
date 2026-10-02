@@ -7,14 +7,14 @@
     "pain_category": "risk_management",
     "hook_3s": "Câu hỏi trực diện về stop loss trong 3 giây đầu",
     "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
-    "evidence_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
+    "evidence_quote": "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL to breakeven. Return overall was 24.53% which is decent however most of the prof",
     "formats": [
       {
         "id": "F1",
         "name": "Short",
         "script_beat": [
           "[0-3s] HOOK: Câu hỏi trực diện về stop loss trong 3 giây đầu",
-          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2",
           "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
           "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
           "[45-60s] CTA: comment con số bạn đang mắc"
@@ -34,7 +34,7 @@
       {
         "id": "F2",
         "name": "Bài chữ",
-        "body": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về stop loss đúng cách:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "body": "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL \n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về stop loss đúng cách:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
         "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
         "en_version": "You moved your stop loss. That's why you're still losing."
       },
@@ -412,14 +412,14 @@
     "pain_category": "risk_management",
     "hook_3s": "Câu hỏi trực diện về risk management trong 3 giây đầu",
     "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
-    "evidence_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
+    "evidence_quote": "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL to breakeven. Return overall was 24.53% which is decent however most of the prof",
     "formats": [
       {
         "id": "F1",
         "name": "Short",
         "script_beat": [
           "[0-3s] HOOK: Câu hỏi trực diện về risk management trong 3 giây đầu",
-          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2",
           "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
           "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
           "[45-60s] CTA: comment con số bạn đang mắc"
@@ -439,7 +439,7 @@
       {
         "id": "F2",
         "name": "Bài chữ",
-        "body": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về risk management cho tài khoản nhỏ:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "body": "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL \n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về risk management cho tài khoản nhỏ:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
         "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
         "en_version": "Risk management won't save you if you size like this."
       },
@@ -1762,14 +1762,14 @@
     "pain_category": "psychology",
     "hook_3s": "Câu hỏi trực diện về profitable trader trong 3 giây đầu",
     "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
-    "evidence_quote": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain. Ask questions, learn from people doing it, don't let fear stop you. I used to ",
+    "evidence_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
     "formats": [
       {
         "id": "F1",
         "name": "Short",
         "script_beat": [
           "[0-3s] HOOK: Câu hỏi trực diện về profitable trader trong 3 giây đầu",
-          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Stop being scared of losing money lol. That fear is why most people never even start. We w",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m",
           "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
           "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
           "[45-60s] CTA: comment con số bạn đang mắc"
@@ -1789,7 +1789,7 @@
       {
         "id": "F2",
         "name": "Bài chữ",
-        "body": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về vì sao trader thua:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "body": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về vì sao trader thua:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
         "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
         "en_version": "Most people get vì sao trader thua wrong. Here's the version that works."
       },
@@ -2167,14 +2167,14 @@
     "pain_category": "psychology",
     "hook_3s": "Câu hỏi trực diện về trading journey trong 3 giây đầu",
     "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
-    "evidence_quote": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain. Ask questions, learn from people doing it, don't let fear stop you. I used to ",
+    "evidence_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
     "formats": [
       {
         "id": "F1",
         "name": "Short",
         "script_beat": [
           "[0-3s] HOOK: Câu hỏi trực diện về trading journey trong 3 giây đầu",
-          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Stop being scared of losing money lol. That fear is why most people never even start. We w",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m",
           "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
           "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
           "[45-60s] CTA: comment con số bạn đang mắc"
@@ -2194,7 +2194,7 @@
       {
         "id": "F2",
         "name": "Bài chữ",
-        "body": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về trading journal — nhật ký lệnh:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "body": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về trading journal — nhật ký lệnh:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
         "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
         "en_version": "Most people get trading journal — nhật ký lệnh wrong. Here's the version that works."
       },
@@ -2707,14 +2707,14 @@
     "pain_category": "risk_management",
     "hook_3s": "Câu hỏi trực diện về per day trong 3 giây đầu",
     "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
-    "evidence_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
+    "evidence_quote": "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL to breakeven. Return overall was 24.53% which is decent however most of the prof",
     "formats": [
       {
         "id": "F1",
         "name": "Short",
         "script_beat": [
           "[0-3s] HOOK: Câu hỏi trực diện về per day trong 3 giây đầu",
-          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2",
           "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
           "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
           "[45-60s] CTA: comment con số bạn đang mắc"
@@ -2734,7 +2734,7 @@
       {
         "id": "F2",
         "name": "Bài chữ",
-        "body": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về số lệnh mỗi ngày:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "body": "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL \n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về số lệnh mỗi ngày:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
         "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
         "en_version": "Most people get số lệnh mỗi ngày wrong. Here's the version that works."
       },
@@ -2842,14 +2842,14 @@
     "pain_category": "psychology",
     "hook_3s": "Câu hỏi trực diện về trading without trong 3 giây đầu",
     "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
-    "evidence_quote": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain. Ask questions, learn from people doing it, don't let fear stop you. I used to ",
+    "evidence_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
     "formats": [
       {
         "id": "F1",
         "name": "Short",
         "script_beat": [
           "[0-3s] HOOK: Câu hỏi trực diện về trading without trong 3 giây đầu",
-          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Stop being scared of losing money lol. That fear is why most people never even start. We w",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m",
           "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
           "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
           "[45-60s] CTA: comment con số bạn đang mắc"
@@ -2869,7 +2869,7 @@
       {
         "id": "F2",
         "name": "Bài chữ",
-        "body": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về tâm lý khi thua liên tiếp:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "body": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về tâm lý khi thua liên tiếp:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
         "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
         "en_version": "Most people get tâm lý khi thua liên tiếp wrong. Here's the version that works."
       },

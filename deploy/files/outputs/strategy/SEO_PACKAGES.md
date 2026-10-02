@@ -1,6 +1,6 @@
 # P10 — GÓI SEO YOUTUBE (24 video)
 
-**Sinh:** 2026-10-02 09:27 UTC  
+**Sinh:** 2026-10-02 09:36 UTC  
 **Nguồn:** 200 long-tail thật từ comment khán giả · 99 tag đối thủ · 24 chủ đề plan
 
 > Guardrail: không nhồi keyword rác, không title gây hiểu sai. Tag lấy từ ngôn ngữ thật của khán giả, không thêm cho đủ số.
@@ -46,7 +46,7 @@ Bạn đang tìm: stop loss, stop losses, move stop, move stop loss.
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-stop loss, stop loss xauusd, stop loss trading, stop loss strategy, xauusd, gold trading, forex trading, trading for beginners, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm, every day
+stop loss, stop loss xauusd, stop loss trading, stop loss strategy, xauusd, gold trading, forex trading, trading for beginners, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm, entry model
 ```
 
 ### Hashtag
@@ -107,7 +107,7 @@ Bạn đang tìm: supply demand, demand supply, supply demand zones, supply dema
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-supply demand, supply demand xauusd, supply demand trading, supply demand strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm, every day
+supply demand, supply demand xauusd, supply demand trading, supply demand strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm, entry model
 ```
 
 ### Hashtag
@@ -156,7 +156,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: stop loss, supply demand, market structure, risk management.
+Bạn đang tìm: stop loss, supply demand, market structure, daily bias.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -168,7 +168,7 @@ Bạn đang tìm: stop loss, supply demand, market structure, risk management.
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-market structure, market structure xauusd, market structure trading, market structure strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm, every day
+market structure, market structure xauusd, market structure trading, market structure strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm, entry model
 ```
 
 ### Hashtag
@@ -227,7 +227,7 @@ Bạn đang tìm: risk management, risk reward, provided risk, risk assessments.
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-risk management, risk management xauusd, risk management trading, risk management strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm, every day
+risk management, risk management xauusd, risk management trading, risk management strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm, entry model
 ```
 
 ### Hashtag
@@ -276,7 +276,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: stop loss, supply demand, market structure, risk management.
+Bạn đang tìm: stop loss, supply demand, market structure, daily bias.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -288,7 +288,7 @@ Bạn đang tìm: stop loss, supply demand, market structure, risk management.
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-daily bias, daily bias xauusd, daily bias trading, daily bias strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm, every day
+daily bias, daily bias xauusd, daily bias trading, daily bias strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm, entry model
 ```
 
 ### Hashtag
@@ -337,7 +337,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: stop loss, supply demand, market structure, risk management.
+Bạn đang tìm: stop loss, supply demand, market structure, daily bias.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -349,7 +349,7 @@ Bạn đang tìm: stop loss, supply demand, market structure, risk management.
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-swing trading, swing trading xauusd, swing trading trading, swing trading strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm, every day
+swing trading, swing trading xauusd, swing trading trading, swing trading strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, started trading, trading strategy, paper trading, prop firms, order block, prop firm, entry model
 ```
 
 ### Hashtag
@@ -397,7 +397,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: stop loss, supply demand, market structure, risk management.
+Bạn đang tìm: stop loss, supply demand, market structure, daily bias.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -409,7 +409,7 @@ Bạn đang tìm: stop loss, supply demand, market structure, risk management.
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-paper trading, paper trading xauusd, paper trading trading, paper trading strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, prop firms, support resistance, prop firm, every day
+paper trading, paper trading xauusd, paper trading trading, paper trading strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, prop firms, order block, prop firm, entry model
 ```
 
 ### Hashtag
@@ -470,7 +470,7 @@ Bạn đang tìm: prop firms, prop firm, trading without proper, trading without
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-prop firms, prop firms xauusd, prop firms trading, prop firms strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, support resistance, prop firm, every day
+prop firms, prop firms xauusd, prop firms trading, prop firms strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, order block, prop firm, entry model
 ```
 
 ### Hashtag
@@ -519,7 +519,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: stop loss, supply demand, market structure, risk management.
+Bạn đang tìm: stop loss, supply demand, market structure, daily bias.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -531,7 +531,7 @@ Bạn đang tìm: stop loss, supply demand, market structure, risk management.
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-order block, order block xauusd, order block trading, order block strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+order block, order block xauusd, order block trading, order block strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, prop firm, entry model
 ```
 
 ### Hashtag
@@ -592,7 +592,7 @@ Bạn đang tìm: liquidity sweep, draw liquidity, liquidity strategy, liquidity
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-liquidity sweep, liquidity sweep xauusd, liquidity sweep trading, liquidity sweep strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+liquidity sweep, liquidity sweep xauusd, liquidity sweep trading, liquidity sweep strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag
@@ -653,7 +653,7 @@ Bạn đang tìm: minute scalping, different minute scalping, minute scalping st
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-minute scalping, minute scalping xauusd, minute scalping trading, minute scalping strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+minute scalping, minute scalping xauusd, minute scalping trading, minute scalping strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag
@@ -702,7 +702,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: entry points, entry model, strategic entry, pinpointed strategic entry.
+Bạn đang tìm: entry model, entry points, strategic entry, pinpointed strategic entry.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -714,7 +714,7 @@ Bạn đang tìm: entry points, entry model, strategic entry, pinpointed strateg
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-entry model, entry model xauusd, entry model trading, entry model strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+entry model, entry model xauusd, entry model trading, entry model strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag
@@ -762,7 +762,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: swing trading, trading strategy, started trading, paper trading.
+Bạn đang tìm: swing trading, started trading, trading strategy, paper trading.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -774,7 +774,7 @@ Bạn đang tìm: swing trading, trading strategy, started trading, paper tradin
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-trading without proper guidance, trading without proper guidance xauusd, trading without proper guidance trading, trading without proper guidance strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+trading without proper guidance, trading without proper guidance xauusd, trading without proper guidance trading, trading without proper guidance strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag
@@ -823,7 +823,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: stop loss, supply demand, market structure, risk management.
+Bạn đang tìm: stop loss, supply demand, market structure, daily bias.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -835,7 +835,7 @@ Bạn đang tìm: stop loss, supply demand, market structure, risk management.
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-profitable trader, profitable trader xauusd, profitable trader trading, profitable trader strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+profitable trader, profitable trader xauusd, profitable trader trading, profitable trader strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag
@@ -884,19 +884,19 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: ict concepts, ict concept, ict himself.
+Bạn đang tìm: ict concepts, best ict, ict concept, ict himself.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
 ⚠️ Nội dung mang tính giáo dục. Không phải lời khuyên đầu tư. Trading có rủi ro mất vốn.
 ```
 
-*182 từ — mục tiêu 150-200 từ.*
+*184 từ — mục tiêu 150-200 từ.*
 
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-ict concepts, ict concepts xauusd, ict concepts trading, ict concepts strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+ict concepts, ict concepts xauusd, ict concepts trading, ict concepts strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag
@@ -945,7 +945,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: stop loss, supply demand, market structure, risk management.
+Bạn đang tìm: stop loss, supply demand, market structure, daily bias.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -957,7 +957,7 @@ Bạn đang tìm: stop loss, supply demand, market structure, risk management.
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-support resistance, support resistance xauusd, support resistance trading, support resistance strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, prop firm, every day
+support resistance, support resistance xauusd, support resistance trading, support resistance strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag
@@ -1005,7 +1005,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: swing trading, trading strategy, started trading, paper trading.
+Bạn đang tìm: swing trading, started trading, trading strategy, paper trading.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -1017,7 +1017,7 @@ Bạn đang tìm: swing trading, trading strategy, started trading, paper tradin
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-trading journey, trading journey xauusd, trading journey trading, trading journey strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+trading journey, trading journey xauusd, trading journey trading, trading journey strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag
@@ -1078,7 +1078,7 @@ Bạn đang tìm: started trading, first started trading, started trading mistak
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-started trading, started trading xauusd, started trading trading, started trading strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, paper trading, prop firms, support resistance, prop firm, every day
+started trading, started trading xauusd, started trading trading, started trading strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, trading strategy, paper trading, prop firms, order block, prop firm, entry model
 ```
 
 ### Hashtag
@@ -1127,7 +1127,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: candle candle, daily candle, min candle, last candle.
+Bạn đang tìm: candle candle, daily candle, hour candle, min candle.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -1139,7 +1139,7 @@ Bạn đang tìm: candle candle, daily candle, min candle, last candle.
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-candle candle, candle candle xauusd, candle candle trading, candle candle strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+candle candle, candle candle xauusd, candle candle trading, candle candle strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag
@@ -1188,7 +1188,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: swing trading, trading strategy, started trading, paper trading.
+Bạn đang tìm: swing trading, started trading, trading strategy, paper trading.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -1200,7 +1200,7 @@ Bạn đang tìm: swing trading, trading strategy, started trading, paper tradin
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-trading strategy, trading strategy xauusd, trading strategy trading, trading strategy strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, started trading, paper trading, prop firms, support resistance, prop firm, every day
+trading strategy, trading strategy xauusd, trading strategy trading, trading strategy strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, paper trading, prop firms, order block, prop firm, entry model
 ```
 
 ### Hashtag
@@ -1249,19 +1249,19 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: paper trading, per day, trading without proper, trading without proper guidance.
+Bạn đang tìm: paper trading, per trade, per day, trading without proper.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
 ⚠️ Nội dung mang tính giáo dục. Không phải lời khuyên đầu tư. Trading có rủi ro mất vốn.
 ```
 
-*186 từ — mục tiêu 150-200 từ.*
+*184 từ — mục tiêu 150-200 từ.*
 
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-per day, per day xauusd, per day trading, per day strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+per day, per day xauusd, per day trading, per day strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag
@@ -1310,7 +1310,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: swing trading, trading strategy, started trading, paper trading.
+Bạn đang tìm: swing trading, started trading, trading strategy, paper trading.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -1322,7 +1322,7 @@ Bạn đang tìm: swing trading, trading strategy, started trading, paper tradin
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-trading without, trading without xauusd, trading without trading, trading without strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+trading without, trading without xauusd, trading without trading, trading without strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag
@@ -1371,7 +1371,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: swing trading, trading strategy, started trading, paper trading.
+Bạn đang tìm: swing trading, started trading, trading strategy, paper trading.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -1383,7 +1383,7 @@ Bạn đang tìm: swing trading, trading strategy, started trading, paper tradin
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-trading real, trading real xauusd, trading real trading, trading real strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+trading real, trading real xauusd, trading real trading, trading real strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag
@@ -1432,7 +1432,7 @@ Tôi đi qua: định nghĩa rõ ràng, cách nhận diện trên chart, điều
 06:10 — Quản lý rủi ro khi sai
 08:00 — Checklist áp dụng ngay
 
-Bạn đang tìm: learning trade, learn trade, learn trading, learned trade.
+Bạn đang tìm: learning trade, learn trade, learn trading, learning trading.
 
 Đăng ký kênh nếu bạn muốn học trading bài bản — tôi đăng video hướng dẫn XAUUSD và forex mỗi tuần, giải thích đơn giản để ai cũng làm được.
 
@@ -1444,7 +1444,7 @@ Bạn đang tìm: learning trade, learn trade, learn trading, learned trade.
 ### Tag (20 cái — copy dòng dưới)
 
 ```
-learn trade, learn trade xauusd, learn trade trading, learn trade strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, risk management, daily bias, swing trading, trading strategy, started trading, paper trading, prop firms, support resistance, prop firm
+learn trade, learn trade xauusd, learn trade trading, learn trade strategy, xauusd, gold trading, forex trading, trading for beginners, stop loss, supply demand, market structure, daily bias, risk management, swing trading, started trading, trading strategy, paper trading, prop firms, order block, prop firm
 ```
 
 ### Hashtag

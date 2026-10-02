@@ -235,24 +235,13 @@ def main() -> int:
         stat("CapCut MCP", "Chạy" if mcp else "Tắt", "port 9001"),
     ])
 
-    groups_html = ""
-    for title, items in GROUPS:
-        rows = ""
-        for name, rel, desc, kind in items:
-            p = ROOT / rel
-            ok = p.exists()
-            # data-rel: JS sẽ ghép prefix đúng (file:// khi local, / khi online)
-            attr = f'data-rel="{escape(rel)}" data-kind="{kind}"'
-            name_html = (f'<a {attr} href="#" target="_blank" rel="noopener">{escape(name)}</a>'
-                         if ok else f'<span class="miss">{escape(name)}</span>')
-            badge = ('<span class="bd">tải</span>' if kind == "dl" and ok else "")
-            rows += (f'<tr><td>{name_html} {badge}</td><td class="d">{escape(desc)}</td>'
-                     f'<td class="sz">{size_of(p)}</td>'
-                     f'<td class="mt">{mtime(p)}</td></tr>')
-        groups_html += (f'<h2>{escape(title)}</h2><table>'
-                        f'<thead><tr><th>Tài liệu</th><th>Nội dung</th><th>Size</th>'
-                        f'<th>Cập nhật</th></tr></thead><tbody>{rows}</tbody></table>')
+    # ── TABS ───────────────────────────────────────────────────────────────
+    TAB_GUIDES = "guides"
+    TAB_PRODUCTION = "production"
+    TAB_REPORTS = "reports"
+    TAB_DATA = "data"
 
+    # Các biến cần thiết cho overview tab
     topics_html = "".join(
         f'<div class="topic"><b>{escape(n)}</b>'
         f'<code>thread {escape(t)}</code>'
@@ -262,7 +251,7 @@ def main() -> int:
 
     sev_cls = {"CRITICAL": "c", "HIGH": "h", "MEDIUM": "m", "INFO": "i"}
     blind_html = "".join(
-        f'<div class="fd {sev_cls.get(f.get("severity"),"")}">'
+        f'<div class="fd {sev_cls.get(f.get("severity",""))}">'
         f'<span class="sev">{escape(f.get("severity",""))}</span>'
         f'{escape(f.get("title",""))}</div>' for f in findings)
 
@@ -272,6 +261,108 @@ def main() -> int:
         f'<td class="num">{r.get("freq_comment","")}</td>'
         f'<td class="small">{escape(r.get("doi_thu_da_lam",""))}</td></tr>'
         for r in ever[:24])
+
+    def tab_btn(tab_id, label, active=False):
+        cls = "tab-btn active" if active else "tab-btn"
+        return f'<button class="{cls}" data-tab="{tab_id}" onclick="switchTab(\'{tab_id}\')">{escape(label)}</button>'
+
+    def tab_panel(tab_id, content, active=False):
+        cls = "tab-panel active" if active else "tab-panel"
+        return f'<div class="{cls}" id="tab-{tab_id}">{content}</div>'
+
+    # Tab 1: Tổng quan
+    overview_html = f"""
+<h2>Số liệu chính</h2>
+<div class="stats">{stat_html}</div>
+<h2>Điểm mù ({len(findings)})</h2>
+{blind_html}
+<h2>Evergreen plan — {len(ever)} video</h2>
+<table>
+  <thead><tr><th>#</th><th>Chủ đề</th><th>Keyword chính</th><th>Freq</th>
+  <th>Đối thủ đã làm</th></tr></thead>
+  <tbody>{ever_html}</tbody>
+</table>
+<h2>Topic Telegram</h2>
+{topics_html}
+"""
+
+    # Tab 2: Hướng dẫn
+    guides_items = GROUPS[0][1]
+    guides_rows = ""
+    for name, rel, desc, kind in guides_items:
+        p = ROOT / rel
+        ok = p.exists()
+        attr = f'data-rel="{escape(rel)}" data-kind="{kind}"'
+        name_html = (f'<a {attr} href="#" target="_blank" rel="noopener">{escape(name)}</a>'
+                     if ok else f'<span class="miss">{escape(name)}</span>')
+        guides_rows += (f'<tr><td>{name_html}</td><td class="d">{escape(desc)}</td>'
+                        f'<td class="sz">{size_of(p)}</td><td class="mt">{mtime(p)}</td></tr>')
+    guides_html = f"""<h2>Hướng dẫn SOP — click là biết làm</h2>
+<table><thead><tr><th>Tài liệu</th><th>Nội dung</th><th>Size</th><th>Cập nhật</th></tr></thead>
+<tbody>{guides_rows}</tbody></table>"""
+
+    # Tab 3: Sản xuất
+    prod_items = GROUPS[2][1]
+    prod_rows = ""
+    for name, rel, desc, kind in prod_items:
+        p = ROOT / rel
+        ok = p.exists()
+        attr = f'data-rel="{escape(rel)}" data-kind="{kind}"'
+        name_html = (f'<a {attr} href="#" target="_blank" rel="noopener">{escape(name)}</a>'
+                     if ok else f'<span class="miss">{escape(name)}</span>')
+        badge = '<span class="bd">tải</span>' if kind == "dl" and ok else ""
+        prod_rows += (f'<tr><td>{name_html} {badge}</td><td class="d">{escape(desc)}</td>'
+                      f'<td class="sz">{size_of(p)}</td><td class="mt">{mtime(p)}</td></tr>')
+    production_html = f"""<h2>Dây chuyền sản xuất (P05/P06/P10/P11)</h2>
+<table><thead><tr><th>Tài liệu</th><th>Nội dung</th><th>Size</th><th>Cập nhật</th></tr></thead>
+<tbody>{prod_rows}</tbody></table>"""
+
+    # Tab 4: Báo cáo
+    report_items = GROUPS[3][1] + GROUPS[4][1]
+    report_rows = ""
+    for name, rel, desc, kind in report_items:
+        p = ROOT / rel
+        ok = p.exists()
+        attr = f'data-rel="{escape(rel)}" data-kind="{kind}"'
+        name_html = (f'<a {attr} href="#" target="_blank" rel="noopener">{escape(name)}</a>'
+                     if ok else f'<span class="miss">{escape(name)}</span>')
+        badge = '<span class="bd">tải</span>' if kind == "dl" and ok else ""
+        report_rows += (f'<tr><td>{name_html} {badge}</td><td class="d">{escape(desc)}</td>'
+                        f'<td class="sz">{size_of(p)}</td><td class="mt">{mtime(p)}</td></tr>')
+    reports_html = f"""<h2>Báo cáo Word + Excel + Markdown</h2>
+<table><thead><tr><th>Tài liệu</th><th>Nội dung</th><th>Size</th><th>Cập nhật</th></tr></thead>
+<tbody>{report_rows}</tbody></table>"""
+
+    # Tab 5: Dữ liệu
+    data_items = GROUPS[5][1]
+    data_rows = ""
+    for name, rel, desc, kind in data_items:
+        p = ROOT / rel
+        ok = p.exists()
+        attr = f'data-rel="{escape(rel)}" data-kind="{kind}"'
+        name_html = (f'<a {attr} href="#" target="_blank" rel="noopener">{escape(name)}</a>'
+                     if ok else f'<span class="miss">{escape(name)}</span>')
+        badge = '<span class="bd">tải</span>' if kind == "dl" and ok else ""
+        data_rows += (f'<tr><td>{name_html} {badge}</td><td class="d">{escape(desc)}</td>'
+                      f'<td class="sz">{size_of(p)}</td><td class="mt">{mtime(p)}</td></tr>')
+    data_html = f"""<h2>Dữ liệu (CSV/JSON — để lọc, import sheet)</h2>
+<table><thead><tr><th>Tài liệu</th><th>Nội dung</th><th>Size</th><th>Cập nhật</th></tr></thead>
+<tbody>{data_rows}</tbody></table>"""
+
+    tabs_html = f"""
+<div class="tabs">
+  {tab_btn("overview", "📊 Tổng quan", active=True)}
+  {tab_btn(TAB_GUIDES, "📖 Hướng dẫn")}
+  {tab_btn(TAB_PRODUCTION, "🏭 Sản xuất")}
+  {tab_btn(TAB_REPORTS, "📄 Báo cáo")}
+  {tab_btn(TAB_DATA, "📦 Dữ liệu")}
+</div>
+{tab_panel("overview", overview_html, active=True)}
+{tab_panel(TAB_GUIDES, guides_html)}
+{tab_panel(TAB_PRODUCTION, production_html)}
+{tab_panel(TAB_REPORTS, reports_html)}
+{tab_panel(TAB_DATA, data_html)}
+"""
 
     html = f"""<!doctype html>
 <html lang="vi"><head><meta charset="utf-8">
@@ -333,6 +424,14 @@ code {{ font-family:ui-monospace,"Cascadia Code",Consolas,monospace; font-size:1
 .online code {{ background:#0a1a12; border-color:#1e5c3a; color:#86efac; }}
 footer {{ margin-top:34px; padding-top:14px; border-top:1px solid var(--bd);
   font-size:12px; color:var(--mu); }}
+.tabs {{ display:flex; gap:6px; margin:20px 0 0; flex-wrap:wrap; }}
+.tab-btn {{ background:var(--sf); border:1px solid var(--bd); color:var(--mu);
+  padding:8px 16px; border-radius:8px; cursor:pointer; font-size:13px; font-weight:500;
+  transition:all .15s; }}
+.tab-btn:hover {{ background:var(--sf2); color:var(--tx); }}
+.tab-btn.active {{ background:var(--bl); color:#fff; border-color:var(--bl); }}
+.tab-panel {{ display:none; padding-top:20px; }}
+.tab-panel.active {{ display:block; }}
 </style></head><body><div class="wrap">
 
 <header>
@@ -371,7 +470,7 @@ footer {{ margin-top:34px; padding-top:14px; border-top:1px solid var(--bd);
 <h2>Topic Telegram</h2>
 {topics_html}
 
-{groups_html}
+{tabs_html}
 
 <footer>
   Sinh tự động từ dữ liệu thật trong repo — không có số nhập tay.<br>
@@ -394,10 +493,10 @@ footer {{ margin-top:34px; padding-top:14px; border-top:1px solid var(--bd);
     var rel = a.getAttribute("data-rel");
     var kind = a.getAttribute("data-kind");
     if (online) {{
-      // dashboard cùng thư mục → tên file; file khác → tải qua /download/
+      // dashboard cùng thư mục → tên file; file khác → tải qua /files/
       a.href = (kind === "dash")
         ? BASE + rel.split("/").pop()
-        : BASE + "download/" + rel;
+        : BASE + "files/" + rel;
     }} else {{
       a.href = LOCAL + rel;
     }}
@@ -409,6 +508,14 @@ footer {{ margin-top:34px; padding-top:14px; border-top:1px solid var(--bd);
     if (s) s.innerHTML += " • <b style='color:#4ade80'>ONLINE</b>";
   }}
 }})();
+function switchTab(tabId) {{
+  document.querySelectorAll(".tab-btn").forEach(function (btn) {{
+    btn.classList.toggle("active", btn.getAttribute("data-tab") === tabId);
+  }});
+  document.querySelectorAll(".tab-panel").forEach(function (panel) {{
+    panel.classList.toggle("active", panel.id === "tab-" + tabId);
+  }});
+}}
 </script>
 </body></html>"""
 

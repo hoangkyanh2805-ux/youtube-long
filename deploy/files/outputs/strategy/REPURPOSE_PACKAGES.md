@@ -1,6 +1,6 @@
 # P05 — GÓI ĐA NỀN TẢNG (24 video × 5 định dạng)
 
-**Sinh:** 2026-10-02 09:27 UTC  
+**Sinh:** 2026-10-02 09:36 UTC  
 **Nguồn:** 24 chủ đề từ EVERGREEN_PLAN · quote thật từ comment khán giả
 
 > Nguyên tắc: **5 định dạng phải có 5 GÓC khác nhau**, không lặp nội dung. Mỗi cái có hook riêng, CTA riêng.
@@ -20,14 +20,14 @@
 **Tiêu đề gốc:** Stop Loss đúng cách — 3 Bước Cho Người Mới 2026  
 **Nỗi đau:** risk_management
 
-> "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt"
+> "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL "
 
 ### F1 — Short
 
 **Nhịp kịch bản:**
 
 - [0-3s] HOOK: Câu hỏi trực diện về stop loss trong 3 giây đầu
-- [3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m
+- [3-10s] Vấn đề: đa số trader mắc lỗi này vì Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2
 - [10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA
 - [35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ
 - [45-60s] CTA: comment con số bạn đang mắc
@@ -41,7 +41,7 @@
 ### F2 — Bài chữ
 
 ```
-Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt
+Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL 
 
 Tôi cũng từng ở đó. Và tôi nhận ra 3 điều về stop loss đúng cách:
 
@@ -321,14 +321,14 @@ Nếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.
 **Tiêu đề gốc:** Tại Sao Bạn Vẫn Thua Với Risk Management cho tài khoản nhỏ  
 **Nỗi đau:** risk_management
 
-> "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt"
+> "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL "
 
 ### F1 — Short
 
 **Nhịp kịch bản:**
 
 - [0-3s] HOOK: Câu hỏi trực diện về risk management trong 3 giây đầu
-- [3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m
+- [3-10s] Vấn đề: đa số trader mắc lỗi này vì Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2
 - [10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA
 - [35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ
 - [45-60s] CTA: comment con số bạn đang mắc
@@ -342,7 +342,7 @@ Nếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.
 ### F2 — Bài chữ
 
 ```
-Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt
+Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL 
 
 Tôi cũng từng ở đó. Và tôi nhận ra 3 điều về risk management cho tài khoản nhỏ:
 
@@ -1325,14 +1325,14 @@ Nếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.
 **Tiêu đề gốc:** Vì sao trader thua — 3 Bước Cho Người Mới 2026  
 **Nỗi đau:** psychology
 
-> "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain"
+> "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt"
 
 ### F1 — Short
 
 **Nhịp kịch bản:**
 
 - [0-3s] HOOK: Câu hỏi trực diện về profitable trader trong 3 giây đầu
-- [3-10s] Vấn đề: đa số trader mắc lỗi này vì Stop being scared of losing money lol. That fear is why most people never even start. We w
+- [3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m
 - [10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA
 - [35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ
 - [45-60s] CTA: comment con số bạn đang mắc
@@ -1346,7 +1346,7 @@ Nếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.
 ### F2 — Bài chữ
 
 ```
-Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain
+Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt
 
 Tôi cũng từng ở đó. Và tôi nhận ra 3 điều về vì sao trader thua:
 
@@ -1628,14 +1628,14 @@ Nếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.
 **Tiêu đề gốc:** Trading Journal — nhật ký lệnh — 3 Bước Cho Người Mới 2026  
 **Nỗi đau:** psychology
 
-> "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain"
+> "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt"
 
 ### F1 — Short
 
 **Nhịp kịch bản:**
 
 - [0-3s] HOOK: Câu hỏi trực diện về trading journey trong 3 giây đầu
-- [3-10s] Vấn đề: đa số trader mắc lỗi này vì Stop being scared of losing money lol. That fear is why most people never even start. We w
+- [3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m
 - [10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA
 - [35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ
 - [45-60s] CTA: comment con số bạn đang mắc
@@ -1649,7 +1649,7 @@ Nếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.
 ### F2 — Bài chữ
 
 ```
-Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain
+Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt
 
 Tôi cũng từng ở đó. Và tôi nhận ra 3 điều về trading journal — nhật ký lệnh:
 
@@ -2032,14 +2032,14 @@ Nếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.
 **Tiêu đề gốc:** Số lệnh mỗi ngày — 3 Bước Cho Người Mới 2026  
 **Nỗi đau:** risk_management
 
-> "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt"
+> "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL "
 
 ### F1 — Short
 
 **Nhịp kịch bản:**
 
 - [0-3s] HOOK: Câu hỏi trực diện về per day trong 3 giây đầu
-- [3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m
+- [3-10s] Vấn đề: đa số trader mắc lỗi này vì Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2
 - [10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA
 - [35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ
 - [45-60s] CTA: comment con số bạn đang mắc
@@ -2053,7 +2053,7 @@ Nếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.
 ### F2 — Bài chữ
 
 ```
-Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt
+Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL 
 
 Tôi cũng từng ở đó. Và tôi nhận ra 3 điều về số lệnh mỗi ngày:
 
@@ -2133,14 +2133,14 @@ Nếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.
 **Tiêu đề gốc:** Tâm lý khi thua liên tiếp — 3 Bước Cho Người Mới 2026  
 **Nỗi đau:** psychology
 
-> "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain"
+> "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt"
 
 ### F1 — Short
 
 **Nhịp kịch bản:**
 
 - [0-3s] HOOK: Câu hỏi trực diện về trading without trong 3 giây đầu
-- [3-10s] Vấn đề: đa số trader mắc lỗi này vì Stop being scared of losing money lol. That fear is why most people never even start. We w
+- [3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m
 - [10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA
 - [35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ
 - [45-60s] CTA: comment con số bạn đang mắc
@@ -2154,7 +2154,7 @@ Nếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.
 ### F2 — Bài chữ
 
 ```
-Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain
+Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt
 
 Tôi cũng từng ở đó. Và tôi nhận ra 3 điều về tâm lý khi thua liên tiếp:
 

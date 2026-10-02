@@ -2,7 +2,7 @@
 
 **Bắt đầu:** 2026-10-03  
 **Nhịp:** 2 ngày / 1 video long + 3 Short  
-**Sinh:** 2026-10-02 09:27 UTC  
+**Sinh:** 2026-10-02 09:37 UTC  
 **Nguồn:** 24 chủ đề đã plan · 24 gói SEO · 24 concept thumbnail · 24 gói repurpose
 
 ## Mục tiêu 30 ngày
