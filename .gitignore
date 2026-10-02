@@ -63,6 +63,17 @@ outputs/**/*.zip
 cache/
 *.tmp
 
+# ===== PRIVATE DATA (không push lên GitHub) =====
+deploy/files/vendor/youtube-analytics-dashboard/analytics_latest.json
+deploy/files/vendor/youtube-analytics-dashboard/history.csv
+vendor/youtube-analytics-dashboard/analytics_latest.json
+vendor/youtube-analytics-dashboard/token.json
+vendor/youtube-analytics-dashboard/client_secret.json
+vendor/youtube-analytics-dashboard/oauth_run.log
+deploy/files/outputs/reports/AZZAM_BAOCAO_PHAN_TICH_DOI_THU.docx
+deploy/files/outputs/reports/AZZAM_SOP_FINAL.docx
+deploy/files/outputs/strategy/content_backlog.csv
+
 # ===== OS / EDITOR =====
 Thumbs.db
 desktop.ini
