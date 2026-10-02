@@ -128,6 +128,49 @@ def main() -> int:
     else:
         print(f"  ✗ thiếu {gsrc.relative_to(ROOT)} — chạy build_sop_guides.py")
 
+    # ── 1c. Copy FILE TRỰC TIẾP để link trong guide "bấm là ra đúng nguồn" ──
+    # Trước đây guide trỏ về Drive folder root → bấm cái nào cũng ra cùng thư mục.
+    # Giờ host file thật dưới /files/ giữ nguyên cấu trúc outputs/... để link
+    # trong guide trỏ thẳng tới đúng file.
+    # Lấy danh sách file từ registry của build_sop_guides.py (nguồn sự thật duy nhất).
+    import importlib.util as _ilu
+    reg_files = []
+    try:
+        spec = _ilu.spec_from_file_location("_bsg", ROOT / "scripts" / "build_sop_guides.py")
+        mod = _ilu.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        for g in mod.GUIDES_REGISTRY:
+            for _label, rel in g["files"]:
+                if rel.startswith("outputs/"):
+                    reg_files.append(rel)
+        reg_files = sorted(set(reg_files))
+    except Exception as e:
+        print(f"  ⚠ không đọc được registry: {e}")
+
+    n_files = 0
+    for rel in reg_files:
+        src = ROOT / rel
+        if not src.exists():
+            print(f"  ✗ thiếu {rel}")
+            continue
+        if is_blocked(src):
+            print(f"  ⛔ CHẶN {rel}")
+            continue
+        # quét secret trong file text trước khi host
+        if src.suffix.lower() in (".md", ".json", ".csv", ".txt", ".html"):
+            body = src.read_text(encoding="utf-8", errors="ignore")
+            if re.search(r"(fc-[a-f0-9]{20,}|apify_api_\w{20,}|AIzaSy[\w-]{30,}"
+                         r"|sk-[\w-]{20,}|\d{8,}:AA[\w-]{30,}|cfut_\w{20,}"
+                         r"|-----BEGIN)", body, re.I):
+                print(f"  ⛔ CHẶN (có secret) {rel}")
+                continue
+        dst = DEPLOY / "files" / rel
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(src, dst)
+        n_files += 1
+    if reg_files:
+        print(f"  ✓ files/  → files/  ({n_files}/{len(reg_files)} file host trực tiếp)")
+
     # ── 2. Copy dữ liệu công khai ─────────────────────────────────────────
     for rel in PUBLIC_DATA:
         src = ROOT / rel
@@ -146,26 +189,32 @@ def main() -> int:
         html = idx.read_text(encoding="utf-8")
         drive = f"https://drive.google.com/drive/folders/{args.drive_folder}"
 
-        # Thay JS chọn prefix: trên hosting tĩnh, link file → trỏ về Drive.
+        # Thay JS chọn prefix: trên hosting tĩnh, link file → trỏ tới
+        # /files/<đường dẫn gốc> để BẤM LÀ RA ĐÚNG FILE (không về Drive root).
         old_js = re.search(r"<script>.*?</script>", html, re.S)
         new_js = f"""<script>
 (function () {{
   var DRIVE = "{drive}";
-  // Hosting tĩnh không có /download/ → link tài liệu trỏ về Google Drive.
+  // File được host trực tiếp tại /files/<path gốc> → link tới đúng file.
+  // Chỉ những file KHÔNG được host mới rơi về Drive folder.
   document.querySelectorAll("a[data-rel]").forEach(function (a) {{
+    var rel = a.getAttribute("data-rel");
     var kind = a.getAttribute("data-kind");
     if (kind === "dash") {{
-      a.href = a.getAttribute("data-rel").split("/").pop();
+      a.href = rel.split("/").pop();
+    }} else if (rel.indexOf("outputs/") === 0) {{
+      a.href = "files/" + rel;
+      a.title = "Mở/tải trực tiếp: " + rel;
     }} else {{
       a.href = DRIVE;
-      a.title = "Mở Google Drive để tải báo cáo";
+      a.title = "Mở Google Drive";
     }}
   }});
   var b = document.getElementById("onlinebox");
   if (b) {{
     b.style.display = "block";
     b.innerHTML = "<b>✅ Đang xem ONLINE</b> — link chia sẻ được cho team. "
-      + "Bấm tài liệu Word/Excel sẽ mở <b>Google Drive</b> để tải.";
+      + "Bấm tài liệu sẽ <b>mở/tải trực tiếp</b> đúng file.";
   }}
   var s = document.querySelector(".sub");
   if (s) s.innerHTML += " • <b style='color:#4ade80'>ONLINE</b>";

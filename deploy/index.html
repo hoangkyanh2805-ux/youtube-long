@@ -111,21 +111,26 @@ footer { margin-top:34px; padding-top:14px; border-top:1px solid var(--bd);
 <script>
 (function () {
   var DRIVE = "https://drive.google.com/drive/folders/1AzIiixGpZ4miW7ht7snpz7D5-4RZDycc";
-  // Hosting tĩnh không có /download/ → link tài liệu trỏ về Google Drive.
+  // File được host trực tiếp tại /files/<path gốc> → link tới đúng file.
+  // Chỉ những file KHÔNG được host mới rơi về Drive folder.
   document.querySelectorAll("a[data-rel]").forEach(function (a) {
+    var rel = a.getAttribute("data-rel");
     var kind = a.getAttribute("data-kind");
     if (kind === "dash") {
-      a.href = a.getAttribute("data-rel").split("/").pop();
+      a.href = rel.split("/").pop();
+    } else if (rel.indexOf("outputs/") === 0) {
+      a.href = "files/" + rel;
+      a.title = "Mở/tải trực tiếp: " + rel;
     } else {
       a.href = DRIVE;
-      a.title = "Mở Google Drive để tải báo cáo";
+      a.title = "Mở Google Drive";
     }
   });
   var b = document.getElementById("onlinebox");
   if (b) {
     b.style.display = "block";
     b.innerHTML = "<b>✅ Đang xem ONLINE</b> — link chia sẻ được cho team. "
-      + "Bấm tài liệu Word/Excel sẽ mở <b>Google Drive</b> để tải.";
+      + "Bấm tài liệu sẽ <b>mở/tải trực tiếp</b> đúng file.";
   }
   var s = document.querySelector(".sub");
   if (s) s.innerHTML += " • <b style='color:#4ade80'>ONLINE</b>";

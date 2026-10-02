@@ -426,20 +426,34 @@ def guide_html(g: dict, all_guides: list[dict]) -> str:
     # SOP
     sop_items = "".join(f"<li>{esc(s)}</li>" for s in g["sop"])
 
-    # Files — link tuyệt đối tới dashboard (data) hoặc Drive
+    # Files — link TRỰC TIẾP tới đúng file, không trỏ về Drive folder root.
+    #
+    # BÀI HỌC (Alan báo lỗi thật): trước đây mọi link Word/Excel/md đều trỏ về
+    # CÙNG 1 Drive folder → bấm cái nào cũng ra cùng thư mục 32 file, phải tự
+    # tìm. Sai hoàn toàn với yêu cầu "bấm là ra đúng nguồn".
+    #
+    # Cách đúng: host file trong deploy/files/<path> và link tới chính nó.
+    # build_static_deploy.py copy toàn bộ file trong registry này.
     files_items = ""
     for label, rel in g["files"]:
         exists = (ROOT / rel).exists()
-        mark = "" if exists else " <span style='color:#f87171'>(chưa sinh)</span>"
-        drive = "https://drive.google.com/drive/folders/1AzIiixGpZ4miW7ht7snpz7D5-4RZDycc"
+        if not exists:
+            files_items += (
+                f'<li><span style="color:#f87171">{esc(label)}</span>'
+                f'<span class="p">CHƯA SINH — chạy script tương ứng</span></li>')
+            continue
+        # đường dẫn trên web: giữ nguyên cấu trúc outputs/... dưới /files/
+        web = f"{SITE}/files/{rel}"
+        sz = (ROOT / rel).stat().st_size
+        szs = f"{sz/1024:.0f} KB" if sz < 1_000_000 else f"{sz/1_000_000:.1f} MB"
         files_items += (
-            f'<li><a href="{drive}" target="_blank">{esc(label)}</a>{mark}'
-            f'<span class="p">{esc(rel)} — tải ở Google Drive</span></li>')
+            f'<li><a href="{web}" target="_blank" rel="noopener">{esc(label)}</a>'
+            f'<span class="p">{esc(rel)} · {szs} · mở/tải trực tiếp</span></li>')
 
     for label, rel in g.get("data", []):
         files_items += (
-            f'<li><a href="{SITE}/{esc(rel)}" target="_blank">{esc(label)}</a>'
-            f'<span class="p">{SITE}/{esc(rel)} — mở trực tiếp trên web</span></li>')
+            f'<li><a href="{SITE}/{esc(rel)}" target="_blank" rel="noopener">{esc(label)}</a>'
+            f'<span class="p">{SITE}/{esc(rel)} · mở trực tiếp trên web</span></li>')
 
     # Efficiency
     eff = "".join(
