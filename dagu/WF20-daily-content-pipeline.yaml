@@ -1,4 +1,4 @@
-description: "WF20 - Daily content pipeline: crawl comments, score pain points, push brief to the EDIT topic, and post health to GENERAL."
+description: "WF20 - Daily content pipeline (KHÔNG DÙNG — xem WF22). Bản này chạy thẳng brief tới editor mà KHÔNG có human approval gate, vi phạm nguyên tắc dự án. Giữ lại chỉ để tham chiếu lịch sử. Lịch đã TẮT."
 type: chain
 working_dir: "C:/Users/Admin/youtube/dagu"
 dotenv: []
@@ -8,11 +8,17 @@ shell_args:
   - "-ExecutionPolicy"
   - "Bypass"
   - "-Command"
-schedule: "30 7 * * *"
+# LỊCH ĐÃ TẮT — không còn "30 7 * * *".
+# Lý do: (1) trùng 8/9 bước với WF22 và cùng chạy 7:30 → hai tiến trình ghi
+# cùng file outputs/competitor_longform + outputs/competitor_analysis;
+# (2) WF20 KHÔNG có bước human.task nên brief tự tới editor mà không ai duyệt,
+# trái với hard rule "không publish/gửi khi chưa có human approval".
+# Dùng WF22 (có approval gate) thay thế.
 hist_retention_days: 30
 tags:
   - daily
   - content
+  - deprecated
 steps:
   - id: sync_workflows
     run: Set-Location C:\Users\Admin\youtube; python scripts\sync_dagu_workflows.py

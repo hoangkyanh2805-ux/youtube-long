@@ -1,6 +1,6 @@
 # P11 — CONCEPT THUMBNAIL (24 video)
 
-**Sinh:** 2026-10-02 09:13 UTC  
+**Sinh:** 2026-10-02 09:19 UTC  
 **Guardrail:** không hình gây hiểu sai, không giả mạo kết quả trading.
 
 ## Bảng màu kênh

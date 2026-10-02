@@ -1,7 +1,7 @@
 {
   "@TTrades_edu": {
     "kind": "youtube#channel",
-    "etag": "ROf5XbOLy3tudtYUDRzeZK-HkG4",
+    "etag": "pJ_HJIqsRlBuL3Qc5qYPCirlPxQ",
     "id": "UCQwUEVakiYDmNGe7UBza4sQ",
     "snippet": {
       "title": "TTrades",
@@ -31,7 +31,7 @@
       }
     },
     "statistics": {
-      "viewCount": "44085038",
+      "viewCount": "44118796",
       "subscriberCount": "532000",
       "hiddenSubscriberCount": false,
       "videoCount": "545"
@@ -48,7 +48,7 @@
   },
   "@ragheehorner": {
     "kind": "youtube#channel",
-    "etag": "cGF1ZR7nKfc_F1d_OglAFTqCIYU",
+    "etag": "AC_VDXrgyN7N5qIgXQ0KPWj9EXc",
     "id": "UC8YRFsqXIjtDIpfpfqyC0hg",
     "snippet": {
       "title": "Raghee Horner",
@@ -79,7 +79,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "4805530",
+      "viewCount": "4812403",
       "subscriberCount": "88000",
       "hiddenSubscriberCount": false,
       "videoCount": "1968"
@@ -98,7 +98,7 @@
   },
   "@TradewithPat": {
     "kind": "youtube#channel",
-    "etag": "7HZZT-uTqUJXgb1ea4iCqDpzsKE",
+    "etag": "-jUBjrTNC6IG_Lx-tyrWoy9t3gM",
     "id": "UC04-HvUvHG4hpMnQx07ObYQ",
     "snippet": {
       "title": "Trade with Pat",
@@ -129,7 +129,7 @@
       "country": "CA"
     },
     "statistics": {
-      "viewCount": "20044654",
+      "viewCount": "20112499",
       "subscriberCount": "420000",
       "hiddenSubscriberCount": false,
       "videoCount": "422"
