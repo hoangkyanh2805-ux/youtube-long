@@ -46,6 +46,28 @@ steps:
   - id: build_evergreen_plan
     run: Set-Location C:\Users\Admin\youtube; python scripts\build_evergreen_plan.py
 
+  # ── Dây chuyền sản xuất (P05/P06/P10/P11) — Alan yêu cầu thread 13 ──────
+  # P06: chấm điểm 5-8 phân khúc khán giả từ comment thật, chọn nhóm đánh trước
+  - id: build_audience_segments
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_audience_segments.py
+
+  # P10: gói SEO (5 title + mô tả 150-200 từ + 20 tag + hashtag + giờ đăng)
+  - id: build_seo_packages
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_seo_packages.py
+
+  # P11: concept thumbnail + prompt AI + design brief cho designer
+  - id: build_thumbnail_concepts
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_thumbnail_concepts.py
+
+  # P05: 1 video → 5 định dạng (Short/bài chữ/carousel/quan điểm/checklist)
+  #     + editor handoff brief — đây là khâu nguyên liệu cho editor
+  - id: build_repurpose_packages
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_repurpose_packages.py
+
+  # Checklist sản xuất 30 ngày (video + SEO + thumbnail + đăng bài), 2 ngày/1 video long
+  - id: build_production_checklist
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_production_checklist.py
+
   # Report Hub: trang điểm vào duy nhất, gom link mọi báo cáo + số liệu chính
   - id: build_report_hub
     run: Set-Location C:\Users\Admin\youtube; python scripts\build_report_hub.py

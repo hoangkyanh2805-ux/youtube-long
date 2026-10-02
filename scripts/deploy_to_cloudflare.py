@@ -37,6 +37,24 @@ ACCOUNT = "0eb2f3d4cdb9f1d335ed2c7671b8eb2c"
 TOKEN_FILE = ROOT / "secrets" / "cloudflare_token.txt"
 SITE = f"https://{DOMAIN}"
 
+# Cloudflare Pages project có production_branch = "main". Deploy không chỉ định
+# branch sẽ rơi vào preview (wrangler lấy tên nhánh git) → domain production
+# phục vụ bản CŨ. Luôn ép nhánh này.
+PRODUCTION_BRANCH = "main"
+
+# File dữ liệu phải có mặt trên site sau deploy (kiểm tra thật, không đoán).
+# Nếu 1 file thiếu → deploy đã rơi vào preview hoặc build_static_deploy chưa copy.
+MUST_BE_LIVE = [
+    "index.html",
+    "ops.html",
+    "data/EVERGREEN_PLAN.csv",
+    "data/PRODUCTION_30D.csv",
+    "data/AUDIENCE_SEGMENTS.csv",
+    "data/SEO_PACKAGES.json",
+    "data/THUMBNAIL_CONCEPTS.json",
+    "data/REPURPOSE_PACKAGES.json",
+]
+
 
 def get_token() -> str:
     """Token từ env hoặc file (không hardcode trong script)."""
@@ -70,16 +88,26 @@ def check_status(token: str) -> int:
     print(f"  verify : {res.get('verification_data', {}).get('status')}")
     print(f"  cert   : {res.get('validation_data', {}).get('status')}")
 
-    # thử truy cập thật
-    try:
-        req = urllib.request.Request(SITE + "/", headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=30) as r:
-            b = r.read()
-        print(f"  live   : ✓ HTTP {r.status}, {len(b):,} B")
-        return 0
-    except Exception as e:
-        print(f"  live   : ✗ {type(e).__name__}")
-        return 1
+    # Truy cập THẬT từng file bắt buộc — không chỉ trang chủ.
+    # Trang chủ luôn 200 kể cả khi data cũ, nên phải kiểm data riêng.
+    ok = True
+    for rel in MUST_BE_LIVE:
+        try:
+            req = urllib.request.Request(f"{SITE}/{rel}",
+                                         headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                b = r.read()
+            local = DEPLOY / rel
+            exp = local.stat().st_size if local.exists() else -1
+            match = "✓" if exp < 0 or len(b) == exp else "⚠"
+            if match == "⚠":
+                ok = False
+            print(f"  live   : {match} /{rel:32} {len(b):>8,} B"
+                  + (f"  (local {exp:,} B — LỆCH)" if match == "⚠" else ""))
+        except Exception as e:
+            ok = False
+            print(f"  live   : ✗ /{rel:32} {type(e).__name__}")
+    return 0 if ok else 1
 
 
 def main() -> int:
@@ -117,15 +145,16 @@ def main() -> int:
     # Trên Windows, `npx` là file .cmd → subprocess với shell=False báo
     # WinError 2 khi chạy từ dagu/cron (PATH khác). Gọi trực tiếp qua npx.cmd
     # KHÔNG bọc quote (cmd /c tự xử lý); truyền từng arg riêng để tránh lỗi quoting.
+    #
+    # QUAN TRỌNG — branch: project có production_branch="main". Nếu deploy không
+    # chỉ định branch, wrangler dùng tên nhánh git hiện tại (ở đây là "master")
+    # → bản deploy vào PREVIEW, và domain production (dashboard.azzamedu.com)
+    # VẪN PHỤC VỤ BẢN CŨ. Phải ép --branch main để vào production.
     npx = shutil.which("npx") or "npx"
-    if os.name == "nt":
-        argv = [npx, "--yes", "wrangler@latest", "pages", "deploy", "deploy",
-                "--project-name", PROJECT, "--commit-dirty=true"]
-        use_shell = True   # cần shell để cmd.exe chạy được file .cmd
-    else:
-        argv = [npx, "--yes", "wrangler@latest", "pages", "deploy", "deploy",
-                "--project-name", PROJECT, "--commit-dirty=true"]
-        use_shell = False
+    argv = [npx, "--yes", "wrangler@latest", "pages", "deploy", "deploy",
+            "--project-name", PROJECT, "--branch", PRODUCTION_BRANCH,
+            "--commit-dirty=true"]
+    use_shell = os.name == "nt"   # cần shell để cmd.exe chạy được file .cmd
 
     print(f"\n▶ Deploy lên Cloudflare Pages…")
     # LƯU Ý Windows: KHÔNG dùng text=True — Python fallback sang cp1252 và crash

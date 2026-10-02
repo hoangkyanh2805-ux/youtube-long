@@ -1,0 +1,3242 @@
+[
+  {
+    "stt": "1",
+    "tuan": "1",
+    "topic": "Stop Loss đúng cách",
+    "title": "Stop Loss đúng cách — 3 Bước Cho Người Mới 2026",
+    "pain_category": "risk_management",
+    "hook_3s": "Câu hỏi trực diện về stop loss trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về stop loss trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ STOP LO",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "You moved your stop loss. That's why you're still losing.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về stop loss đúng cách:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "You moved your stop loss. That's why you're still losing."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "STOP LOSS ĐÚNG CÁCH",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về stop loss đúng cách: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Stop Loss đúng cách",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "2",
+    "tuan": "1",
+    "topic": "Supply & Demand zone",
+    "title": "Supply & Demand zone — 3 Bước Cho Người Mới 2026",
+    "pain_category": "strategy_rules",
+    "hook_3s": "Câu hỏi trực diện về supply demand trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về supply demand trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì không ai chỉ cho họ cách đúng",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ SUPPLY ",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Supply and demand isn't hard. You're just marking it wrong.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Ai cũng nói học trading khó. Khó nhất là phần không ai nói.\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về supply & demand zone:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Supply and demand isn't hard. You're just marking it wrong."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "SUPPLY & DEMAND ZONE",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về supply & demand zone: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Supply & Demand zone",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "3",
+    "tuan": "2",
+    "topic": "Market Structure",
+    "title": "Market Structure — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "hook_3s": "Câu hỏi trực diện về market structure trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về market structure trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì I’ve been seriously considering deleting all my trading apps. After 8 months of studying c",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ MARKET ",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Market structure is not what your course told you.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every ti\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về market structure:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Market structure is not what your course told you."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "MARKET STRUCTURE",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về market structure: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Market Structure",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "4",
+    "tuan": "2",
+    "topic": "Risk Management cho tài khoản nhỏ",
+    "title": "Tại Sao Bạn Vẫn Thua Với Risk Management cho tài khoản nhỏ",
+    "pain_category": "risk_management",
+    "hook_3s": "Câu hỏi trực diện về risk management trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về risk management trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ RISK MA",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Risk management won't save you if you size like this.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về risk management cho tài khoản nhỏ:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Risk management won't save you if you size like this."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "RISK MANAGEMENT CHO TÀI KHOẢN NHỎ",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về risk management cho tài khoản nhỏ: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Risk Management cho tài khoản nhỏ",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "5",
+    "tuan": "3",
+    "topic": "Daily Bias",
+    "title": "Daily Bias — 3 Bước Cho Người Mới 2026",
+    "pain_category": "strategy_rules",
+    "hook_3s": "Câu hỏi trực diện về daily bias trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về daily bias trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì không ai chỉ cho họ cách đúng",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ DAILY B",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get daily bias wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Ai cũng nói học trading khó. Khó nhất là phần không ai nói.\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về daily bias:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get daily bias wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "DAILY BIAS",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về daily bias: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Daily Bias",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "6",
+    "tuan": "3",
+    "topic": "Swing Trading",
+    "title": "Swing Trading — 3 Bước Cho Người Mới 2026",
+    "pain_category": "strategy_rules",
+    "hook_3s": "Câu hỏi trực diện về swing trading trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về swing trading trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì không ai chỉ cho họ cách đúng",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ SWING T",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get swing trading wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Ai cũng nói học trading khó. Khó nhất là phần không ai nói.\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về swing trading:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get swing trading wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "SWING TRADING",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về swing trading: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Swing Trading",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "7",
+    "tuan": "4",
+    "topic": "Paper Trading — bắt đầu an toàn",
+    "title": "Paper Trading — bắt đầu an toàn — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "hook_3s": "Câu hỏi trực diện về paper trading trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về paper trading trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì I’ve been seriously considering deleting all my trading apps. After 8 months of studying c",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ PAPER T",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get paper trading — bắt đầu an toàn wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every ti\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về paper trading — bắt đầu an toàn:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get paper trading — bắt đầu an toàn wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "PAPER TRADING — BẮT ĐẦU AN TOÀN",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về paper trading — bắt đầu an toàn: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Paper Trading — bắt đầu an toàn",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "8",
+    "tuan": "4",
+    "topic": "Prop Firm: nên hay không",
+    "title": "Prop Firm: nên hay không — 3 Bước Cho Người Mới 2026",
+    "pain_category": "broker_platform",
+    "hook_3s": "Câu hỏi trực diện về prop firms trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "For what it's worth, I found this useful and helpful! So when you trade, how many screens do you use, and do you trade with the ES on one and the NQ on another, on the same screen, or just switch back and forth occasionally? Also, how do you draw the multi-colored square/rectangl",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về prop firms trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì For what it's worth, I found this useful and helpful! So when you trade, how many screens ",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ PROP FI",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get prop firm: nên hay không wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "For what it's worth, I found this useful and helpful! So when you trade, how many screens do you use, and do you trade with the ES on one and the NQ on another, on the same screen, or just switch back\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về prop firm: nên hay không:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get prop firm: nên hay không wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "PROP FIRM: NÊN HAY KHÔNG",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về prop firm: nên hay không: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Prop Firm: nên hay không",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "9",
+    "tuan": "5",
+    "topic": "Order Block",
+    "title": "Order Block — 3 Bước Cho Người Mới 2026",
+    "pain_category": "strategy_rules",
+    "hook_3s": "Câu hỏi trực diện về order block trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về order block trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì không ai chỉ cho họ cách đúng",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ ORDER B",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get order block wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Ai cũng nói học trading khó. Khó nhất là phần không ai nói.\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về order block:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get order block wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "ORDER BLOCK",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về order block: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Order Block",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "10",
+    "tuan": "5",
+    "topic": "Liquidity Sweep",
+    "title": "Liquidity Sweep — 3 Bước Cho Người Mới 2026",
+    "pain_category": "entry_timing",
+    "hook_3s": "Câu hỏi trực diện về liquidity sweep trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "Before entering into any trade, study and understand the market with a trading simulator before diving in with real cash. it's really helpful. However, my portfolio has been stalling this year. I have approximately $150k stagnant in my reserve that needs growth, any suggestions t",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về liquidity sweep trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Before entering into any trade, study and understand the market with a trading simulator b",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ LIQUIDI",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get liquidity sweep wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Before entering into any trade, study and understand the market with a trading simulator before diving in with real cash. it's really helpful. However, my portfolio has been stalling this year. I have\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về liquidity sweep:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get liquidity sweep wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "LIQUIDITY SWEEP",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về liquidity sweep: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Liquidity Sweep",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "11",
+    "tuan": "6",
+    "topic": "Scalping 1 phút",
+    "title": "Scalping 1 phút — 3 Bước Cho Người Mới 2026",
+    "pain_category": "entry_timing",
+    "hook_3s": "Câu hỏi trực diện về minute scalping trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "Before entering into any trade, study and understand the market with a trading simulator before diving in with real cash. it's really helpful. However, my portfolio has been stalling this year. I have approximately $150k stagnant in my reserve that needs growth, any suggestions t",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về minute scalping trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Before entering into any trade, study and understand the market with a trading simulator b",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ MINUTE ",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get scalping 1 phút wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Before entering into any trade, study and understand the market with a trading simulator before diving in with real cash. it's really helpful. However, my portfolio has been stalling this year. I have\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về scalping 1 phút:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get scalping 1 phút wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "SCALPING 1 PHÚT",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về scalping 1 phút: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Scalping 1 phút",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "12",
+    "tuan": "6",
+    "topic": "Entry Model — vào lệnh đúng",
+    "title": "Entry Model — vào lệnh đúng — 3 Bước Cho Người Mới 2026",
+    "pain_category": "entry_timing",
+    "hook_3s": "Câu hỏi trực diện về entry model trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "Before entering into any trade, study and understand the market with a trading simulator before diving in with real cash. it's really helpful. However, my portfolio has been stalling this year. I have approximately $150k stagnant in my reserve that needs growth, any suggestions t",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về entry model trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Before entering into any trade, study and understand the market with a trading simulator b",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ ENTRY M",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Right direction, wrong entry. Every single time.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Before entering into any trade, study and understand the market with a trading simulator before diving in with real cash. it's really helpful. However, my portfolio has been stalling this year. I have\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về entry model — vào lệnh đúng:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Right direction, wrong entry. Every single time."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "ENTRY MODEL — VÀO LỆNH ĐÚNG",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về entry model — vào lệnh đúng: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Entry Model — vào lệnh đúng",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "13",
+    "tuan": "7",
+    "topic": "Trading mà không có hướng dẫn",
+    "title": "Trading mà không có hướng dẫn — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "hook_3s": "Câu hỏi trực diện về trading without proper guidance trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về trading without proper guidance trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì I’ve been seriously considering deleting all my trading apps. After 8 months of studying c",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ TRADING",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get trading mà không có hướng dẫn wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every ti\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về trading mà không có hướng dẫn:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get trading mà không có hướng dẫn wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "TRADING MÀ KHÔNG CÓ HƯỚNG DẪN",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về trading mà không có hướng dẫn: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Trading mà không có hướng dẫn",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "14",
+    "tuan": "7",
+    "topic": "Vì sao trader thua",
+    "title": "Vì sao trader thua — 3 Bước Cho Người Mới 2026",
+    "pain_category": "psychology",
+    "hook_3s": "Câu hỏi trực diện về profitable trader trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain. Ask questions, learn from people doing it, don't let fear stop you. I used to ",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về profitable trader trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Stop being scared of losing money lol. That fear is why most people never even start. We w",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ PROFITA",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get vì sao trader thua wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về vì sao trader thua:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get vì sao trader thua wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "VÌ SAO TRADER THUA",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về vì sao trader thua: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Vì sao trader thua",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "15",
+    "tuan": "8",
+    "topic": "ICT Concepts đơn giản hoá",
+    "title": "ICT Concepts đơn giản hoá — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "hook_3s": "Câu hỏi trực diện về ict concepts trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về ict concepts trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì I’ve been seriously considering deleting all my trading apps. After 8 months of studying c",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ ICT CON",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get ict concepts đơn giản hoá wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every ti\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về ict concepts đơn giản hoá:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get ict concepts đơn giản hoá wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "ICT CONCEPTS ĐƠN GIẢN HOÁ",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về ict concepts đơn giản hoá: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — ICT Concepts đơn giản hoá",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "16",
+    "tuan": "8",
+    "topic": "Support & Resistance thật",
+    "title": "Support & Resistance thật — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "hook_3s": "Câu hỏi trực diện về support resistance trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về support resistance trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì I’ve been seriously considering deleting all my trading apps. After 8 months of studying c",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ SUPPORT",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get support & resistance thật wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every ti\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về support & resistance thật:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get support & resistance thật wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "SUPPORT & RESISTANCE THẬT",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về support & resistance thật: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Support & Resistance thật",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "17",
+    "tuan": "9",
+    "topic": "Trading Journal — nhật ký lệnh",
+    "title": "Trading Journal — nhật ký lệnh — 3 Bước Cho Người Mới 2026",
+    "pain_category": "psychology",
+    "hook_3s": "Câu hỏi trực diện về trading journey trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain. Ask questions, learn from people doing it, don't let fear stop you. I used to ",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về trading journey trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Stop being scared of losing money lol. That fear is why most people never even start. We w",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ TRADING",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get trading journal — nhật ký lệnh wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về trading journal — nhật ký lệnh:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get trading journal — nhật ký lệnh wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "TRADING JOURNAL — NHẬT KÝ LỆNH",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về trading journal — nhật ký lệnh: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Trading Journal — nhật ký lệnh",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "18",
+    "tuan": "9",
+    "topic": "Bắt đầu trading từ 0",
+    "title": "Bắt đầu trading từ 0 — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "hook_3s": "Câu hỏi trực diện về started trading trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về started trading trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì I’ve been seriously considering deleting all my trading apps. After 8 months of studying c",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ STARTED",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get bắt đầu trading từ 0 wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every ti\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về bắt đầu trading từ 0:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get bắt đầu trading từ 0 wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "BẮT ĐẦU TRADING TỪ 0",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về bắt đầu trading từ 0: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Bắt đầu trading từ 0",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "19",
+    "tuan": "10",
+    "topic": "Candle — đọc nến đúng",
+    "title": "Candle — đọc nến đúng — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "hook_3s": "Câu hỏi trực diện về candle candle trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về candle candle trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì I’ve been seriously considering deleting all my trading apps. After 8 months of studying c",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ CANDLE ",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get candle — đọc nến đúng wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every ti\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về candle — đọc nến đúng:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get candle — đọc nến đúng wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "CANDLE — ĐỌC NẾN ĐÚNG",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về candle — đọc nến đúng: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Candle — đọc nến đúng",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "20",
+    "tuan": "10",
+    "topic": "Timeframe nào cho người mới",
+    "title": "Timeframe nào cho người mới — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "hook_3s": "Câu hỏi trực diện về trading strategy trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về trading strategy trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì I’ve been seriously considering deleting all my trading apps. After 8 months of studying c",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ TRADING",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "You're on the wrong timeframe for your account size.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every ti\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về timeframe nào cho người mới:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "You're on the wrong timeframe for your account size."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "TIMEFRAME NÀO CHO NGƯỜI MỚI",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về timeframe nào cho người mới: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Timeframe nào cho người mới",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "21",
+    "tuan": "11",
+    "topic": "Số lệnh mỗi ngày",
+    "title": "Số lệnh mỗi ngày — 3 Bước Cho Người Mới 2026",
+    "pain_category": "risk_management",
+    "hook_3s": "Câu hỏi trực diện về per day trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về per day trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Blowed all my accounts using free and paid signal providers. From now on I will stick to m",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ PER DAY",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get số lệnh mỗi ngày wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về số lệnh mỗi ngày:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get số lệnh mỗi ngày wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "SỐ LỆNH MỖI NGÀY",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về số lệnh mỗi ngày: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Số lệnh mỗi ngày",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "22",
+    "tuan": "11",
+    "topic": "Tâm lý khi thua liên tiếp",
+    "title": "Tâm lý khi thua liên tiếp — 3 Bước Cho Người Mới 2026",
+    "pain_category": "psychology",
+    "hook_3s": "Câu hỏi trực diện về trading without trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain. Ask questions, learn from people doing it, don't let fear stop you. I used to ",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về trading without trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì Stop being scared of losing money lol. That fear is why most people never even start. We w",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ TRADING",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get tâm lý khi thua liên tiếp wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về tâm lý khi thua liên tiếp:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get tâm lý khi thua liên tiếp wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "TÂM LÝ KHI THUA LIÊN TIẾP",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về tâm lý khi thua liên tiếp: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Tâm lý khi thua liên tiếp",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "23",
+    "tuan": "12",
+    "topic": "XAUUSD vs Forex pairs",
+    "title": "XAUUSD vs Forex pairs — 3 Bước Cho Người Mới 2026",
+    "pain_category": "broker_platform",
+    "hook_3s": "Câu hỏi trực diện về trading real trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "For what it's worth, I found this useful and helpful! So when you trade, how many screens do you use, and do you trade with the ES on one and the NQ on another, on the same screen, or just switch back and forth occasionally? Also, how do you draw the multi-colored square/rectangl",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về trading real trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì For what it's worth, I found this useful and helpful! So when you trade, how many screens ",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ TRADING",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get xauusd vs forex pairs wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "For what it's worth, I found this useful and helpful! So when you trade, how many screens do you use, and do you trade with the ES on one and the NQ on another, on the same screen, or just switch back\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về xauusd vs forex pairs:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get xauusd vs forex pairs wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "XAUUSD VS FOREX PAIRS",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về xauusd vs forex pairs: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — XAUUSD vs Forex pairs",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  },
+  {
+    "stt": "24",
+    "tuan": "12",
+    "topic": "Lộ trình 90 ngày",
+    "title": "Lộ trình 90 ngày — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "hook_3s": "Câu hỏi trực diện về learn trade trong 3 giây đầu",
+    "outline": "1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "formats": [
+      {
+        "id": "F1",
+        "name": "Short",
+        "script_beat": [
+          "[0-3s] HOOK: Câu hỏi trực diện về learn trade trong 3 giây đầu",
+          "[3-10s] Vấn đề: đa số trader mắc lỗi này vì I’ve been seriously considering deleting all my trading apps. After 8 months of studying c",
+          "[10-35s] Cách sửa: 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA",
+          "[35-45s] Kết quả: nếu sửa được thì vào lệnh có lý do, không sửa thì lặp lại lỗi cũ",
+          "[45-60s] CTA: comment con số bạn đang mắc"
+        ],
+        "on_screen_text": [
+          "CÂU HỎI TRỰC DIỆN VỀ LEARN T",
+          "ĐỪNG LÀM ĐIỀU NÀY",
+          "LÀM THẾ NÀY THAY",
+          "LƯU LẠI"
+        ],
+        "en_version": {
+          "hook": "Most people get lộ trình 90 ngày wrong. Here's the version that works.",
+          "note": "Văn nói tiếng Anh bản địa — không dịch word-by-word từ tiếng Việt."
+        },
+        "asset_can_dung": "1 clip chart XAUUSD thật + chữ overlay. Không dùng clip đối thủ."
+      },
+      {
+        "id": "F2",
+        "name": "Bài chữ",
+        "body": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every ti\n\nTôi cũng từng ở đó. Và tôi nhận ra 3 điều về lộ trình 90 ngày:\n\n1. Vấn đề không phải bạn thiếu kiến thức — bạn thiếu thứ tự áp dụng.\n2. Bạn không cần thêm setup. Bạn cần bỏ bớt thứ đang làm nhiễu.\n3. Không có cách nào biết mình đúng cho tới khi ghi lại và đếm.\n\n1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA\n\nBạn đang ở bước nào trong 3 điều trên?",
+        "platform_note": "Facebook/LinkedIn: xuống dòng nhiều. X: cắt còn 1 điều + link.",
+        "en_version": "Most people get lộ trình 90 ngày wrong. Here's the version that works."
+      },
+      {
+        "id": "F3",
+        "name": "Carousel",
+        "slides": [
+          {
+            "n": 1,
+            "text": "LỘ TRÌNH 90 NGÀY",
+            "sub": "Sai lầm đa số trader mắc"
+          },
+          {
+            "n": 2,
+            "text": "VÌ SAO",
+            "sub": "Không ai chỉ thứ tự đúng"
+          },
+          {
+            "n": 3,
+            "text": "BƯỚC 1",
+            "sub": "Nhận diện trước khi vào lệnh"
+          },
+          {
+            "n": 4,
+            "text": "BƯỚC 2",
+            "sub": "Xác định điều kiện vô hiệu"
+          },
+          {
+            "n": 5,
+            "text": "BƯỚC 3",
+            "sub": "Chốt size trước, không sau"
+          },
+          {
+            "n": 6,
+            "text": "BƯỚC 4",
+            "sub": "Ghi lại và đếm trong 20 lệnh"
+          },
+          {
+            "n": 7,
+            "text": "LỖI THƯỜNG GẶP",
+            "sub": "Bỏ bước 2 — không biết khi nào mình sai"
+          },
+          {
+            "n": 8,
+            "text": "CHECKLIST",
+            "sub": "4 bước trên, in ra dán màn hình"
+          },
+          {
+            "n": 9,
+            "text": "LƯU LẠI",
+            "sub": "Dùng khi vào lệnh tiếp theo"
+          }
+        ],
+        "design_note": "Nền tối, chữ trắng. Slide 1 và 8 dùng màu vàng gold."
+      },
+      {
+        "id": "F4",
+        "name": "Bài quan điểm",
+        "body": "Điều đa số đang dạy về lộ trình 90 ngày: học thêm một setup nữa.\n\nTôi nghĩ điều đó hụt trong một tình huống rất cụ thể: khi bạn đã biết hướng đúng nhưng vào lệnh sai nhịp. Thêm setup không sửa được nhịp.\n\nQuan điểm của tôi: cái cần bỏ thời gian không phải là setup mới, mà là ghi lại 20 lệnh gần nhất và đếm xem bạn sai ở bước nào. Số liệu của chính bạn mới sửa được hành vi.\n\nTôi vẫn nghĩ học setup mới có ích — khi bạn đã có dữ liệu của mình và biết chính xác setup đó sửa vấn đề gì.\n\nNếu bạn không đồng ý, nói tôi sai ở đâu. Tôi đọc hết.",
+        "controversy_level": "Trung bình — phản biện cách dạy, không công kích người dạy",
+        "risk_note": "Không nêu tên kênh/khoá học cụ thể."
+      },
+      {
+        "id": "F5",
+        "name": "Checklist",
+        "title": "CHECKLIST — Lộ trình 90 ngày",
+        "groups": [
+          {
+            "name": "TRƯỚC khi vào lệnh",
+            "items": [
+              "Xác định hướng trên khung lớn trước",
+              "Đánh dấu vùng quan tâm, không đánh dấu điểm vào",
+              "Kiểm tra có tin tức lớn trong 2 giờ tới không",
+              "Chốt số tiền rủi ro tối đa cho lệnh này"
+            ]
+          },
+          {
+            "name": "TRONG khi vào lệnh",
+            "items": [
+              "Vào đúng điều kiện đã định, không vào vì thấy đẹp",
+              "Đặt stop loss trước, không sau",
+              "Chụp ảnh lý do vào lệnh",
+              "Không thêm lệnh khi lệnh đầu đang lỗ"
+            ]
+          },
+          {
+            "name": "SAU khi lệnh đóng",
+            "items": [
+              "Ghi kết quả vào journal ngay",
+              "Ghi cảm xúc lúc vào và lúc đóng",
+              "Đánh dấu có theo đúng checklist không",
+              "Đếm lại sau mỗi 20 lệnh"
+            ]
+          }
+        ],
+        "cta": "In ra dán cạnh màn hình. Tick mỗi lần làm đúng."
+      }
+    ]
+  }
+]

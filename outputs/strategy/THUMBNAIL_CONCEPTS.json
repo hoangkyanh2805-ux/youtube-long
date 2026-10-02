@@ -1,0 +1,1178 @@
+[
+  {
+    "stt": "1",
+    "tuan": "1",
+    "topic": "Stop Loss đúng cách",
+    "title": "Stop Loss đúng cách — 3 Bước Cho Người Mới 2026",
+    "pain_category": "risk_management",
+    "keyword": "stop loss",
+    "evidence_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
+    "concepts": [
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "STOP LOSS ĐÚNG CÁCH — 3 BƯỚC",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Stop Loss đúng cách for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Stop Loss đúng cách — 3 Bước Cho Người M'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "STOP LOSS ĐÚNG CÁCH — 3 BƯỚC",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Stop Loss đúng cách for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Stop Loss đúng cách — 3 Bước Cho Người M'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T3",
+        "name": "Khuôn mặt + cảm xúc cực đoan",
+        "layout": "Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ.",
+        "emotion": "Đồng cảm — khán giả thấy cảm xúc của chính mình",
+        "why_ctr": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung.",
+        "text_ratio": "Chữ 20%: 3-4 từ, ví dụ 'TÔI ĐÃ SAI'",
+        "mobile_score": 9,
+        "text_on_thumb": "STOP LOSS ĐÚNG CÁCH — 3 BƯỚC",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Stop Loss đúng cách for XAUUSD gold trading. Composition: Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Đồng cảm — khán giả thấy cảm xúc của chính mình. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Stop Loss đúng cách — 3 Bước Cho Người M'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T1",
+    "primary_reason": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ."
+  },
+  {
+    "stt": "2",
+    "tuan": "1",
+    "topic": "Supply & Demand zone",
+    "title": "Supply & Demand zone — 3 Bước Cho Người Mới 2026",
+    "pain_category": "strategy_rules",
+    "keyword": "supply demand",
+    "evidence_quote": "",
+    "concepts": [
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "SUPPLY & DEMAND ZONE — 3 BƯỚ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Supply & Demand zone for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Supply & Demand zone — 3 Bước Cho Người '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "SUPPLY & DEMAND ZONE — 3 BƯỚ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Supply & Demand zone for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Supply & Demand zone — 3 Bước Cho Người '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T3",
+        "name": "Khuôn mặt + cảm xúc cực đoan",
+        "layout": "Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ.",
+        "emotion": "Đồng cảm — khán giả thấy cảm xúc của chính mình",
+        "why_ctr": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung.",
+        "text_ratio": "Chữ 20%: 3-4 từ, ví dụ 'TÔI ĐÃ SAI'",
+        "mobile_score": 9,
+        "text_on_thumb": "SUPPLY & DEMAND ZONE — 3 BƯỚ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Supply & Demand zone for XAUUSD gold trading. Composition: Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Đồng cảm — khán giả thấy cảm xúc của chính mình. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Supply & Demand zone — 3 Bước Cho Người '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T2",
+    "primary_reason": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile."
+  },
+  {
+    "stt": "3",
+    "tuan": "2",
+    "topic": "Market Structure",
+    "title": "Market Structure — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "keyword": "market structure",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "concepts": [
+      {
+        "id": "T5",
+        "name": "Checklist trước/sau",
+        "layout": "Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen.",
+        "emotion": "Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'",
+        "why_ctr": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn.",
+        "text_ratio": "Chữ 20% nhưng chia 6 dòng ngắn",
+        "mobile_score": 6,
+        "text_on_thumb": "MARKET STRUCTURE — 3 BƯỚC CH",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Market Structure for XAUUSD gold trading. Composition: Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Market Structure — 3 Bước Cho Người Mới '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "MARKET STRUCTURE — 3 BƯỚC CH",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Market Structure for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Market Structure — 3 Bước Cho Người Mới '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "MARKET STRUCTURE — 3 BƯỚC CH",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Market Structure for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Market Structure — 3 Bước Cho Người Mới '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T5",
+    "primary_reason": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn."
+  },
+  {
+    "stt": "4",
+    "tuan": "2",
+    "topic": "Risk Management cho tài khoản nhỏ",
+    "title": "Tại Sao Bạn Vẫn Thua Với Risk Management cho tài khoản nhỏ",
+    "pain_category": "risk_management",
+    "keyword": "risk management",
+    "evidence_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
+    "concepts": [
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "TẠI SAO BẠN VẪN THUA VỚI RIS",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Risk Management cho tài khoản nhỏ for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Tại Sao Bạn Vẫn Thua Với Risk Management'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "TẠI SAO BẠN VẪN THUA VỚI RIS",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Risk Management cho tài khoản nhỏ for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Tại Sao Bạn Vẫn Thua Với Risk Management'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T3",
+        "name": "Khuôn mặt + cảm xúc cực đoan",
+        "layout": "Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ.",
+        "emotion": "Đồng cảm — khán giả thấy cảm xúc của chính mình",
+        "why_ctr": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung.",
+        "text_ratio": "Chữ 20%: 3-4 từ, ví dụ 'TÔI ĐÃ SAI'",
+        "mobile_score": 9,
+        "text_on_thumb": "TẠI SAO BẠN VẪN THUA VỚI RIS",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Risk Management cho tài khoản nhỏ for XAUUSD gold trading. Composition: Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Đồng cảm — khán giả thấy cảm xúc của chính mình. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Tại Sao Bạn Vẫn Thua Với Risk Management'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T1",
+    "primary_reason": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ."
+  },
+  {
+    "stt": "5",
+    "tuan": "3",
+    "topic": "Daily Bias",
+    "title": "Daily Bias — 3 Bước Cho Người Mới 2026",
+    "pain_category": "strategy_rules",
+    "keyword": "daily bias",
+    "evidence_quote": "",
+    "concepts": [
+      {
+        "id": "T5",
+        "name": "Checklist trước/sau",
+        "layout": "Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen.",
+        "emotion": "Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'",
+        "why_ctr": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn.",
+        "text_ratio": "Chữ 20% nhưng chia 6 dòng ngắn",
+        "mobile_score": 6,
+        "text_on_thumb": "DAILY BIAS — 3 BƯỚC CHO NGƯỜ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Daily Bias for XAUUSD gold trading. Composition: Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Daily Bias — 3 Bước Cho Người Mới 2026'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "DAILY BIAS — 3 BƯỚC CHO NGƯỜ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Daily Bias for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Daily Bias — 3 Bước Cho Người Mới 2026'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "DAILY BIAS — 3 BƯỚC CHO NGƯỜ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Daily Bias for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Daily Bias — 3 Bước Cho Người Mới 2026'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T5",
+    "primary_reason": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn."
+  },
+  {
+    "stt": "6",
+    "tuan": "3",
+    "topic": "Swing Trading",
+    "title": "Swing Trading — 3 Bước Cho Người Mới 2026",
+    "pain_category": "strategy_rules",
+    "keyword": "swing trading",
+    "evidence_quote": "",
+    "concepts": [
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "SWING TRADING — 3 BƯỚC CHO N",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Swing Trading for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Swing Trading — 3 Bước Cho Người Mới 202'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "SWING TRADING — 3 BƯỚC CHO N",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Swing Trading for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Swing Trading — 3 Bước Cho Người Mới 202'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T3",
+        "name": "Khuôn mặt + cảm xúc cực đoan",
+        "layout": "Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ.",
+        "emotion": "Đồng cảm — khán giả thấy cảm xúc của chính mình",
+        "why_ctr": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung.",
+        "text_ratio": "Chữ 20%: 3-4 từ, ví dụ 'TÔI ĐÃ SAI'",
+        "mobile_score": 9,
+        "text_on_thumb": "SWING TRADING — 3 BƯỚC CHO N",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Swing Trading for XAUUSD gold trading. Composition: Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Đồng cảm — khán giả thấy cảm xúc của chính mình. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Swing Trading — 3 Bước Cho Người Mới 202'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T1",
+    "primary_reason": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ."
+  },
+  {
+    "stt": "7",
+    "tuan": "4",
+    "topic": "Paper Trading — bắt đầu an toàn",
+    "title": "Paper Trading — bắt đầu an toàn — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "keyword": "paper trading",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "concepts": [
+      {
+        "id": "T5",
+        "name": "Checklist trước/sau",
+        "layout": "Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen.",
+        "emotion": "Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'",
+        "why_ctr": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn.",
+        "text_ratio": "Chữ 20% nhưng chia 6 dòng ngắn",
+        "mobile_score": 6,
+        "text_on_thumb": "PAPER TRADING — BẮT ĐẦU AN T",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Paper Trading — bắt đầu an toàn for XAUUSD gold trading. Composition: Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Paper Trading — bắt đầu an toàn — 3 Bước'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "PAPER TRADING — BẮT ĐẦU AN T",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Paper Trading — bắt đầu an toàn for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Paper Trading — bắt đầu an toàn — 3 Bước'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "PAPER TRADING — BẮT ĐẦU AN T",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Paper Trading — bắt đầu an toàn for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Paper Trading — bắt đầu an toàn — 3 Bước'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T5",
+    "primary_reason": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn."
+  },
+  {
+    "stt": "8",
+    "tuan": "4",
+    "topic": "Prop Firm: nên hay không",
+    "title": "Prop Firm: nên hay không — 3 Bước Cho Người Mới 2026",
+    "pain_category": "broker_platform",
+    "keyword": "prop firms",
+    "evidence_quote": "For what it's worth, I found this useful and helpful! So when you trade, how many screens do you use, and do you trade with the ES on one and the NQ on another, on the same screen, or just switch back and forth occasionally? Also, how do you draw the multi-colored square/rectangl",
+    "concepts": [
+      {
+        "id": "T3",
+        "name": "Khuôn mặt + cảm xúc cực đoan",
+        "layout": "Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ.",
+        "emotion": "Đồng cảm — khán giả thấy cảm xúc của chính mình",
+        "why_ctr": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung.",
+        "text_ratio": "Chữ 20%: 3-4 từ, ví dụ 'TÔI ĐÃ SAI'",
+        "mobile_score": 9,
+        "text_on_thumb": "PROP FIRM: NÊN HAY KHÔNG — 3",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Prop Firm: nên hay không for XAUUSD gold trading. Composition: Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Đồng cảm — khán giả thấy cảm xúc của chính mình. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Prop Firm: nên hay không — 3 Bước Cho Ng'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "PROP FIRM: NÊN HAY KHÔNG — 3",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Prop Firm: nên hay không for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Prop Firm: nên hay không — 3 Bước Cho Ng'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "PROP FIRM: NÊN HAY KHÔNG — 3",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Prop Firm: nên hay không for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Prop Firm: nên hay không — 3 Bước Cho Ng'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T3",
+    "primary_reason": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung."
+  },
+  {
+    "stt": "9",
+    "tuan": "5",
+    "topic": "Order Block",
+    "title": "Order Block — 3 Bước Cho Người Mới 2026",
+    "pain_category": "strategy_rules",
+    "keyword": "order block",
+    "evidence_quote": "",
+    "concepts": [
+      {
+        "id": "T4",
+        "name": "Khoanh đỏ điều sai",
+        "layout": "Chart toàn khung. Một vùng được khoanh đỏ nét dày, có mũi tên. Góc phải trên: chữ nhỏ '90% làm sai chỗ này'.",
+        "emotion": "Lo lắng bị bỏ lỡ — 'có thể tôi đang làm sai'",
+        "why_ctr": "Khoanh đỏ tạo cảm giác 'đây là thứ tôi cần xem'. Rất hợp ngách trading vì khán giả luôn nghi ngờ điểm vào lệnh của mình.",
+        "text_ratio": "Chữ 20%: 4-5 từ nhỏ ở góc",
+        "mobile_score": 8,
+        "text_on_thumb": "ORDER BLOCK — 3 BƯỚC CHO NGƯ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Order Block for XAUUSD gold trading. Composition: Chart toàn khung. Một vùng được khoanh đỏ nét dày, có mũi tên. Góc phải trên: chữ nhỏ '90% làm sai chỗ này'. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Lo lắng bị bỏ lỡ — 'có thể tôi đang làm sai'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Order Block — 3 Bước Cho Người Mới 2026'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "ORDER BLOCK — 3 BƯỚC CHO NGƯ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Order Block for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Order Block — 3 Bước Cho Người Mới 2026'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "ORDER BLOCK — 3 BƯỚC CHO NGƯ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Order Block for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Order Block — 3 Bước Cho Người Mới 2026'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T4",
+    "primary_reason": "Khoanh đỏ tạo cảm giác 'đây là thứ tôi cần xem'. Rất hợp ngách trading vì khán giả luôn nghi ngờ điểm vào lệnh của mình."
+  },
+  {
+    "stt": "10",
+    "tuan": "5",
+    "topic": "Liquidity Sweep",
+    "title": "Liquidity Sweep — 3 Bước Cho Người Mới 2026",
+    "pain_category": "entry_timing",
+    "keyword": "liquidity sweep",
+    "evidence_quote": "Before entering into any trade, study and understand the market with a trading simulator before diving in with real cash. it's really helpful. However, my portfolio has been stalling this year. I have approximately $150k stagnant in my reserve that needs growth, any suggestions t",
+    "concepts": [
+      {
+        "id": "T4",
+        "name": "Khoanh đỏ điều sai",
+        "layout": "Chart toàn khung. Một vùng được khoanh đỏ nét dày, có mũi tên. Góc phải trên: chữ nhỏ '90% làm sai chỗ này'.",
+        "emotion": "Lo lắng bị bỏ lỡ — 'có thể tôi đang làm sai'",
+        "why_ctr": "Khoanh đỏ tạo cảm giác 'đây là thứ tôi cần xem'. Rất hợp ngách trading vì khán giả luôn nghi ngờ điểm vào lệnh của mình.",
+        "text_ratio": "Chữ 20%: 4-5 từ nhỏ ở góc",
+        "mobile_score": 8,
+        "text_on_thumb": "LIQUIDITY SWEEP — 3 BƯỚC CHO",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Liquidity Sweep for XAUUSD gold trading. Composition: Chart toàn khung. Một vùng được khoanh đỏ nét dày, có mũi tên. Góc phải trên: chữ nhỏ '90% làm sai chỗ này'. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Lo lắng bị bỏ lỡ — 'có thể tôi đang làm sai'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Liquidity Sweep — 3 Bước Cho Người Mới 2'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "LIQUIDITY SWEEP — 3 BƯỚC CHO",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Liquidity Sweep for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Liquidity Sweep — 3 Bước Cho Người Mới 2'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "LIQUIDITY SWEEP — 3 BƯỚC CHO",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Liquidity Sweep for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Liquidity Sweep — 3 Bước Cho Người Mới 2'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T4",
+    "primary_reason": "Khoanh đỏ tạo cảm giác 'đây là thứ tôi cần xem'. Rất hợp ngách trading vì khán giả luôn nghi ngờ điểm vào lệnh của mình."
+  },
+  {
+    "stt": "11",
+    "tuan": "6",
+    "topic": "Scalping 1 phút",
+    "title": "Scalping 1 phút — 3 Bước Cho Người Mới 2026",
+    "pain_category": "entry_timing",
+    "keyword": "minute scalping",
+    "evidence_quote": "Before entering into any trade, study and understand the market with a trading simulator before diving in with real cash. it's really helpful. However, my portfolio has been stalling this year. I have approximately $150k stagnant in my reserve that needs growth, any suggestions t",
+    "concepts": [
+      {
+        "id": "T4",
+        "name": "Khoanh đỏ điều sai",
+        "layout": "Chart toàn khung. Một vùng được khoanh đỏ nét dày, có mũi tên. Góc phải trên: chữ nhỏ '90% làm sai chỗ này'.",
+        "emotion": "Lo lắng bị bỏ lỡ — 'có thể tôi đang làm sai'",
+        "why_ctr": "Khoanh đỏ tạo cảm giác 'đây là thứ tôi cần xem'. Rất hợp ngách trading vì khán giả luôn nghi ngờ điểm vào lệnh của mình.",
+        "text_ratio": "Chữ 20%: 4-5 từ nhỏ ở góc",
+        "mobile_score": 8,
+        "text_on_thumb": "SCALPING 1 PHÚT — 3 BƯỚC CHO",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Scalping 1 phút for XAUUSD gold trading. Composition: Chart toàn khung. Một vùng được khoanh đỏ nét dày, có mũi tên. Góc phải trên: chữ nhỏ '90% làm sai chỗ này'. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Lo lắng bị bỏ lỡ — 'có thể tôi đang làm sai'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Scalping 1 phút — 3 Bước Cho Người Mới 2'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "SCALPING 1 PHÚT — 3 BƯỚC CHO",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Scalping 1 phút for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Scalping 1 phút — 3 Bước Cho Người Mới 2'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "SCALPING 1 PHÚT — 3 BƯỚC CHO",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Scalping 1 phút for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Scalping 1 phút — 3 Bước Cho Người Mới 2'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T4",
+    "primary_reason": "Khoanh đỏ tạo cảm giác 'đây là thứ tôi cần xem'. Rất hợp ngách trading vì khán giả luôn nghi ngờ điểm vào lệnh của mình."
+  },
+  {
+    "stt": "12",
+    "tuan": "6",
+    "topic": "Entry Model — vào lệnh đúng",
+    "title": "Entry Model — vào lệnh đúng — 3 Bước Cho Người Mới 2026",
+    "pain_category": "entry_timing",
+    "keyword": "entry model",
+    "evidence_quote": "Before entering into any trade, study and understand the market with a trading simulator before diving in with real cash. it's really helpful. However, my portfolio has been stalling this year. I have approximately $150k stagnant in my reserve that needs growth, any suggestions t",
+    "concepts": [
+      {
+        "id": "T4",
+        "name": "Khoanh đỏ điều sai",
+        "layout": "Chart toàn khung. Một vùng được khoanh đỏ nét dày, có mũi tên. Góc phải trên: chữ nhỏ '90% làm sai chỗ này'.",
+        "emotion": "Lo lắng bị bỏ lỡ — 'có thể tôi đang làm sai'",
+        "why_ctr": "Khoanh đỏ tạo cảm giác 'đây là thứ tôi cần xem'. Rất hợp ngách trading vì khán giả luôn nghi ngờ điểm vào lệnh của mình.",
+        "text_ratio": "Chữ 20%: 4-5 từ nhỏ ở góc",
+        "mobile_score": 8,
+        "text_on_thumb": "ENTRY MODEL — VÀO LỆNH ĐÚNG ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Entry Model — vào lệnh đúng for XAUUSD gold trading. Composition: Chart toàn khung. Một vùng được khoanh đỏ nét dày, có mũi tên. Góc phải trên: chữ nhỏ '90% làm sai chỗ này'. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Lo lắng bị bỏ lỡ — 'có thể tôi đang làm sai'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Entry Model — vào lệnh đúng — 3 Bước Cho'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "ENTRY MODEL — VÀO LỆNH ĐÚNG ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Entry Model — vào lệnh đúng for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Entry Model — vào lệnh đúng — 3 Bước Cho'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "ENTRY MODEL — VÀO LỆNH ĐÚNG ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Entry Model — vào lệnh đúng for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Entry Model — vào lệnh đúng — 3 Bước Cho'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T4",
+    "primary_reason": "Khoanh đỏ tạo cảm giác 'đây là thứ tôi cần xem'. Rất hợp ngách trading vì khán giả luôn nghi ngờ điểm vào lệnh của mình."
+  },
+  {
+    "stt": "13",
+    "tuan": "7",
+    "topic": "Trading mà không có hướng dẫn",
+    "title": "Trading mà không có hướng dẫn — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "keyword": "trading without proper guidance",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "concepts": [
+      {
+        "id": "T5",
+        "name": "Checklist trước/sau",
+        "layout": "Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen.",
+        "emotion": "Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'",
+        "why_ctr": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn.",
+        "text_ratio": "Chữ 20% nhưng chia 6 dòng ngắn",
+        "mobile_score": 6,
+        "text_on_thumb": "TRADING MÀ KHÔNG CÓ HƯỚNG DẪ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Trading mà không có hướng dẫn for XAUUSD gold trading. Composition: Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Trading mà không có hướng dẫn — 3 Bước C'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "TRADING MÀ KHÔNG CÓ HƯỚNG DẪ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Trading mà không có hướng dẫn for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Trading mà không có hướng dẫn — 3 Bước C'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "TRADING MÀ KHÔNG CÓ HƯỚNG DẪ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Trading mà không có hướng dẫn for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Trading mà không có hướng dẫn — 3 Bước C'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T5",
+    "primary_reason": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn."
+  },
+  {
+    "stt": "14",
+    "tuan": "7",
+    "topic": "Vì sao trader thua",
+    "title": "Vì sao trader thua — 3 Bước Cho Người Mới 2026",
+    "pain_category": "psychology",
+    "keyword": "profitable trader",
+    "evidence_quote": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain. Ask questions, learn from people doing it, don't let fear stop you. I used to ",
+    "concepts": [
+      {
+        "id": "T3",
+        "name": "Khuôn mặt + cảm xúc cực đoan",
+        "layout": "Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ.",
+        "emotion": "Đồng cảm — khán giả thấy cảm xúc của chính mình",
+        "why_ctr": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung.",
+        "text_ratio": "Chữ 20%: 3-4 từ, ví dụ 'TÔI ĐÃ SAI'",
+        "mobile_score": 9,
+        "text_on_thumb": "VÌ SAO TRADER THUA — 3 BƯỚC ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Vì sao trader thua for XAUUSD gold trading. Composition: Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Đồng cảm — khán giả thấy cảm xúc của chính mình. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Vì sao trader thua — 3 Bước Cho Người Mớ'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "VÌ SAO TRADER THUA — 3 BƯỚC ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Vì sao trader thua for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Vì sao trader thua — 3 Bước Cho Người Mớ'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "VÌ SAO TRADER THUA — 3 BƯỚC ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Vì sao trader thua for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Vì sao trader thua — 3 Bước Cho Người Mớ'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T3",
+    "primary_reason": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung."
+  },
+  {
+    "stt": "15",
+    "tuan": "8",
+    "topic": "ICT Concepts đơn giản hoá",
+    "title": "ICT Concepts đơn giản hoá — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "keyword": "ict concepts",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "concepts": [
+      {
+        "id": "T5",
+        "name": "Checklist trước/sau",
+        "layout": "Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen.",
+        "emotion": "Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'",
+        "why_ctr": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn.",
+        "text_ratio": "Chữ 20% nhưng chia 6 dòng ngắn",
+        "mobile_score": 6,
+        "text_on_thumb": "ICT CONCEPTS ĐƠN GIẢN HOÁ — ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: ICT Concepts đơn giản hoá for XAUUSD gold trading. Composition: Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'ICT Concepts đơn giản hoá — 3 Bước Cho N'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "ICT CONCEPTS ĐƠN GIẢN HOÁ — ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: ICT Concepts đơn giản hoá for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'ICT Concepts đơn giản hoá — 3 Bước Cho N'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "ICT CONCEPTS ĐƠN GIẢN HOÁ — ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: ICT Concepts đơn giản hoá for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'ICT Concepts đơn giản hoá — 3 Bước Cho N'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T5",
+    "primary_reason": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn."
+  },
+  {
+    "stt": "16",
+    "tuan": "8",
+    "topic": "Support & Resistance thật",
+    "title": "Support & Resistance thật — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "keyword": "support resistance",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "concepts": [
+      {
+        "id": "T5",
+        "name": "Checklist trước/sau",
+        "layout": "Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen.",
+        "emotion": "Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'",
+        "why_ctr": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn.",
+        "text_ratio": "Chữ 20% nhưng chia 6 dòng ngắn",
+        "mobile_score": 6,
+        "text_on_thumb": "SUPPORT & RESISTANCE THẬT — ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Support & Resistance thật for XAUUSD gold trading. Composition: Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Support & Resistance thật — 3 Bước Cho N'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "SUPPORT & RESISTANCE THẬT — ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Support & Resistance thật for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Support & Resistance thật — 3 Bước Cho N'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "SUPPORT & RESISTANCE THẬT — ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Support & Resistance thật for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Support & Resistance thật — 3 Bước Cho N'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T5",
+    "primary_reason": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn."
+  },
+  {
+    "stt": "17",
+    "tuan": "9",
+    "topic": "Trading Journal — nhật ký lệnh",
+    "title": "Trading Journal — nhật ký lệnh — 3 Bước Cho Người Mới 2026",
+    "pain_category": "psychology",
+    "keyword": "trading journey",
+    "evidence_quote": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain. Ask questions, learn from people doing it, don't let fear stop you. I used to ",
+    "concepts": [
+      {
+        "id": "T3",
+        "name": "Khuôn mặt + cảm xúc cực đoan",
+        "layout": "Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ.",
+        "emotion": "Đồng cảm — khán giả thấy cảm xúc của chính mình",
+        "why_ctr": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung.",
+        "text_ratio": "Chữ 20%: 3-4 từ, ví dụ 'TÔI ĐÃ SAI'",
+        "mobile_score": 9,
+        "text_on_thumb": "TRADING JOURNAL — NHẬT KÝ LỆ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Trading Journal — nhật ký lệnh for XAUUSD gold trading. Composition: Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Đồng cảm — khán giả thấy cảm xúc của chính mình. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Trading Journal — nhật ký lệnh — 3 Bước '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "TRADING JOURNAL — NHẬT KÝ LỆ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Trading Journal — nhật ký lệnh for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Trading Journal — nhật ký lệnh — 3 Bước '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "TRADING JOURNAL — NHẬT KÝ LỆ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Trading Journal — nhật ký lệnh for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Trading Journal — nhật ký lệnh — 3 Bước '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T3",
+    "primary_reason": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung."
+  },
+  {
+    "stt": "18",
+    "tuan": "9",
+    "topic": "Bắt đầu trading từ 0",
+    "title": "Bắt đầu trading từ 0 — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "keyword": "started trading",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "concepts": [
+      {
+        "id": "T5",
+        "name": "Checklist trước/sau",
+        "layout": "Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen.",
+        "emotion": "Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'",
+        "why_ctr": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn.",
+        "text_ratio": "Chữ 20% nhưng chia 6 dòng ngắn",
+        "mobile_score": 6,
+        "text_on_thumb": "BẮT ĐẦU TRADING TỪ 0 — 3 BƯỚ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Bắt đầu trading từ 0 for XAUUSD gold trading. Composition: Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Bắt đầu trading từ 0 — 3 Bước Cho Người '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "BẮT ĐẦU TRADING TỪ 0 — 3 BƯỚ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Bắt đầu trading từ 0 for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Bắt đầu trading từ 0 — 3 Bước Cho Người '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "BẮT ĐẦU TRADING TỪ 0 — 3 BƯỚ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Bắt đầu trading từ 0 for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Bắt đầu trading từ 0 — 3 Bước Cho Người '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T5",
+    "primary_reason": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn."
+  },
+  {
+    "stt": "19",
+    "tuan": "10",
+    "topic": "Candle — đọc nến đúng",
+    "title": "Candle — đọc nến đúng — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "keyword": "candle candle",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "concepts": [
+      {
+        "id": "T5",
+        "name": "Checklist trước/sau",
+        "layout": "Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen.",
+        "emotion": "Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'",
+        "why_ctr": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn.",
+        "text_ratio": "Chữ 20% nhưng chia 6 dòng ngắn",
+        "mobile_score": 6,
+        "text_on_thumb": "CANDLE — ĐỌC NẾN ĐÚNG — 3 BƯ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Candle — đọc nến đúng for XAUUSD gold trading. Composition: Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Candle — đọc nến đúng — 3 Bước Cho Người'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "CANDLE — ĐỌC NẾN ĐÚNG — 3 BƯ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Candle — đọc nến đúng for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Candle — đọc nến đúng — 3 Bước Cho Người'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "CANDLE — ĐỌC NẾN ĐÚNG — 3 BƯ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Candle — đọc nến đúng for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Candle — đọc nến đúng — 3 Bước Cho Người'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T5",
+    "primary_reason": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn."
+  },
+  {
+    "stt": "20",
+    "tuan": "10",
+    "topic": "Timeframe nào cho người mới",
+    "title": "Timeframe nào cho người mới — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "keyword": "trading strategy",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "concepts": [
+      {
+        "id": "T5",
+        "name": "Checklist trước/sau",
+        "layout": "Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen.",
+        "emotion": "Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'",
+        "why_ctr": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn.",
+        "text_ratio": "Chữ 20% nhưng chia 6 dòng ngắn",
+        "mobile_score": 6,
+        "text_on_thumb": "TIMEFRAME NÀO CHO NGƯỜI MỚI ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Timeframe nào cho người mới for XAUUSD gold trading. Composition: Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Timeframe nào cho người mới — 3 Bước Cho'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "TIMEFRAME NÀO CHO NGƯỜI MỚI ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Timeframe nào cho người mới for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Timeframe nào cho người mới — 3 Bước Cho'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "TIMEFRAME NÀO CHO NGƯỜI MỚI ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Timeframe nào cho người mới for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Timeframe nào cho người mới — 3 Bước Cho'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T5",
+    "primary_reason": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn."
+  },
+  {
+    "stt": "21",
+    "tuan": "11",
+    "topic": "Số lệnh mỗi ngày",
+    "title": "Số lệnh mỗi ngày — 3 Bước Cho Người Mới 2026",
+    "pain_category": "risk_management",
+    "keyword": "per day",
+    "evidence_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
+    "concepts": [
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "SỐ LỆNH MỖI NGÀY — 3 BƯỚC CH",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Số lệnh mỗi ngày for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Số lệnh mỗi ngày — 3 Bước Cho Người Mới '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "SỐ LỆNH MỖI NGÀY — 3 BƯỚC CH",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Số lệnh mỗi ngày for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Số lệnh mỗi ngày — 3 Bước Cho Người Mới '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T3",
+        "name": "Khuôn mặt + cảm xúc cực đoan",
+        "layout": "Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ.",
+        "emotion": "Đồng cảm — khán giả thấy cảm xúc của chính mình",
+        "why_ctr": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung.",
+        "text_ratio": "Chữ 20%: 3-4 từ, ví dụ 'TÔI ĐÃ SAI'",
+        "mobile_score": 9,
+        "text_on_thumb": "SỐ LỆNH MỖI NGÀY — 3 BƯỚC CH",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Số lệnh mỗi ngày for XAUUSD gold trading. Composition: Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Đồng cảm — khán giả thấy cảm xúc của chính mình. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Số lệnh mỗi ngày — 3 Bước Cho Người Mới '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T1",
+    "primary_reason": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ."
+  },
+  {
+    "stt": "22",
+    "tuan": "11",
+    "topic": "Tâm lý khi thua liên tiếp",
+    "title": "Tâm lý khi thua liên tiếp — 3 Bước Cho Người Mới 2026",
+    "pain_category": "psychology",
+    "keyword": "trading without",
+    "evidence_quote": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain. Ask questions, learn from people doing it, don't let fear stop you. I used to ",
+    "concepts": [
+      {
+        "id": "T3",
+        "name": "Khuôn mặt + cảm xúc cực đoan",
+        "layout": "Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ.",
+        "emotion": "Đồng cảm — khán giả thấy cảm xúc của chính mình",
+        "why_ctr": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung.",
+        "text_ratio": "Chữ 20%: 3-4 từ, ví dụ 'TÔI ĐÃ SAI'",
+        "mobile_score": 9,
+        "text_on_thumb": "TÂM LÝ KHI THUA LIÊN TIẾP — ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Tâm lý khi thua liên tiếp for XAUUSD gold trading. Composition: Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Đồng cảm — khán giả thấy cảm xúc của chính mình. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Tâm lý khi thua liên tiếp — 3 Bước Cho N'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "TÂM LÝ KHI THUA LIÊN TIẾP — ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Tâm lý khi thua liên tiếp for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Tâm lý khi thua liên tiếp — 3 Bước Cho N'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "TÂM LÝ KHI THUA LIÊN TIẾP — ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Tâm lý khi thua liên tiếp for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Tâm lý khi thua liên tiếp — 3 Bước Cho N'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T3",
+    "primary_reason": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung."
+  },
+  {
+    "stt": "23",
+    "tuan": "12",
+    "topic": "XAUUSD vs Forex pairs",
+    "title": "XAUUSD vs Forex pairs — 3 Bước Cho Người Mới 2026",
+    "pain_category": "broker_platform",
+    "keyword": "trading real",
+    "evidence_quote": "For what it's worth, I found this useful and helpful! So when you trade, how many screens do you use, and do you trade with the ES on one and the NQ on another, on the same screen, or just switch back and forth occasionally? Also, how do you draw the multi-colored square/rectangl",
+    "concepts": [
+      {
+        "id": "T3",
+        "name": "Khuôn mặt + cảm xúc cực đoan",
+        "layout": "Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ.",
+        "emotion": "Đồng cảm — khán giả thấy cảm xúc của chính mình",
+        "why_ctr": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung.",
+        "text_ratio": "Chữ 20%: 3-4 từ, ví dụ 'TÔI ĐÃ SAI'",
+        "mobile_score": 9,
+        "text_on_thumb": "XAUUSD VS FOREX PAIRS — 3 BƯ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: XAUUSD vs Forex pairs for XAUUSD gold trading. Composition: Mặt người chiếm 45% khung bên phải, biểu cảm mạnh (bực bội hoặc nhẹ nhõm). Bên trái: 1 dòng chữ lớn + 1 phần tử chart nhỏ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Đồng cảm — khán giả thấy cảm xúc của chính mình. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'XAUUSD vs Forex pairs — 3 Bước Cho Người'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "XAUUSD VS FOREX PAIRS — 3 BƯ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: XAUUSD vs Forex pairs for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'XAUUSD vs Forex pairs — 3 Bước Cho Người'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "XAUUSD VS FOREX PAIRS — 3 BƯ",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: XAUUSD vs Forex pairs for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'XAUUSD vs Forex pairs — 3 Bước Cho Người'. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T3",
+    "primary_reason": "Khuôn mặt + cảm xúc là tín hiệu CTR mạnh nhất trên YouTube. Nhưng phải là cảm xúc THẬT của ngách, không phải mặt ngạc nhiên chung chung."
+  },
+  {
+    "stt": "24",
+    "tuan": "12",
+    "topic": "Lộ trình 90 ngày",
+    "title": "Lộ trình 90 ngày — 3 Bước Cho Người Mới 2026",
+    "pain_category": "education_gap",
+    "keyword": "learn trade",
+    "evidence_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
+    "concepts": [
+      {
+        "id": "T5",
+        "name": "Checklist trước/sau",
+        "layout": "Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen.",
+        "emotion": "Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'",
+        "why_ctr": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn.",
+        "text_ratio": "Chữ 20% nhưng chia 6 dòng ngắn",
+        "mobile_score": 6,
+        "text_on_thumb": "LỘ TRÌNH 90 NGÀY — 3 BƯỚC CH",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Lộ trình 90 ngày for XAUUSD gold trading. Composition: Hai cột. Trái: 3 dòng có dấu ✗ đỏ. Phải: 3 dòng có dấu ✓ xanh. Nền tối, chữ trắng viền đen. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tin cậy — 'đây là hướng dẫn cụ thể, không phải nói suông'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Lộ trình 90 ngày — 3 Bước Cho Người Mới '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": true
+      },
+      {
+        "id": "T2",
+        "name": "Con số áp đảo",
+        "layout": "Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ.",
+        "emotion": "Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm",
+        "why_ctr": "Số là yếu tố hút mắt mạnh nhất sau khuôn mặt. Đọc được cả khi thumbnail chỉ còn 120px trên mobile.",
+        "text_ratio": "Chữ 20%: chính là con số + 2-3 từ, ví dụ '3 BƯỚC'",
+        "mobile_score": 10,
+        "text_on_thumb": "LỘ TRÌNH 90 NGÀY — 3 BƯỚC CH",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Lộ trình 90 ngày for XAUUSD gold trading. Composition: Số cực lớn chiếm 40% khung bên trái (font 200pt, vàng gold). Bên phải: mặt người biểu cảm ngạc nhiên. Nền: chart mờ. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Sốc nhẹ — số lớn tạo cảm giác có thông tin cụ thể, đáng bấm. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Lộ trình 90 ngày — 3 Bước Cho Người Mới '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      },
+      {
+        "id": "T1",
+        "name": "Đối đầu 2 chiều",
+        "layout": "Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải.",
+        "emotion": "Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'",
+        "why_ctr": "Tương phản màu đỏ/xanh mạnh nhất trong feed. Não đọc được 'trước/sau' trong 0.3 giây, không cần đọc chữ.",
+        "text_ratio": "Chữ 20%: 3 từ tối đa, ví dụ 'SAI → ĐÚNG'",
+        "mobile_score": 9,
+        "text_on_thumb": "LỘ TRÌNH 90 NGÀY — 3 BƯỚC CH",
+        "ai_prompt": "YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subject: Lộ trình 90 ngày for XAUUSD gold trading. Composition: Chia đôi dọc. Trái: chart XAUUSD đang rơi (đỏ). Phải: chart đi đúng hướng (xanh). Ở giữa: mũi tên vàng to chỉ từ trái sang phải. Color palette: background #0D1117, accent #FFD400 gold, single red #FF3B30 and single green #00C853 highlight only. Mood: Tò mò + nhẹ nhõm — 'tôi đang ở bên trái, cần sang phải'. Style: sharp, professional trading channel, not cartoonish, no clutter. Text: 3-5 words max in bold sans-serif with 3px black outline, placeholder text 'Lộ trình 90 ngày — 3 Bước Cho Người Mới '. IMPORTANT: do not fabricate trading results, no fake profit numbers, no fake account balance screenshots.",
+        "is_primary": false
+      }
+    ],
+    "primary": "T5",
+    "primary_reason": "Checklist tạo cảm giác giá trị rõ ràng, hợp video how-to. Nhược điểm: nhiều chữ, chỉ hiệu quả nếu chữ đủ lớn."
+  }
+]

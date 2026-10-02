@@ -1,6 +1,6 @@
 # AUDIT KÊNH THEO PHƯƠNG PHÁP MRBEAST
 
-*Sinh: 2026-10-02 08:14 UTC*  •  Kênh: **@azzammastertradinggold**  •  Ngách: XAUUSD / Forex
+*Sinh: 2026-10-02 08:57 UTC*  •  Kênh: **@azzammastertradinggold**  •  Ngách: XAUUSD / Forex
 
 Nguồn: YouTube Data API v3 (channels.list, playlistItems.list, videos.list) + YouTube Analytics API (OAuth, private metrics). Toàn bộ 297 video kênh mình và 742 video đối thủ đã fetch. Không có số liệu nhập tay.
 

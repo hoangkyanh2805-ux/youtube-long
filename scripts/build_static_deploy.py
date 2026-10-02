@@ -51,9 +51,18 @@ BLOCKED = (".env", "token.json", "client_secret", "secrets",
            ".git-credentials", "service-account", ".bak")
 
 # File công khai được copy vào deploy/data/
+# LƯU Ý: đây là bản public — KHÔNG chứa secret, KHÔNG chứa dữ liệu riêng tư
+# (analytics_latest.json có số liệu private OAuth nên KHÔNG nằm ở đây).
 PUBLIC_DATA = [
+    # Plan & dây chuyền sản xuất
     "outputs/strategy/EVERGREEN_PLAN.csv",
     "outputs/strategy/content_backlog.csv",
+    "outputs/strategy/PRODUCTION_30D.csv",
+    "outputs/strategy/AUDIENCE_SEGMENTS.csv",
+    "outputs/strategy/SEO_PACKAGES.json",
+    "outputs/strategy/THUMBNAIL_CONCEPTS.json",
+    "outputs/strategy/REPURPOSE_PACKAGES.json",
+    # Báo cáo & phân tích
     "outputs/reports/blindspots.json",
     "outputs/mrbeast_audit/azzam_videos.json",
     "outputs/mrbeast_audit/gta_videos.json",
