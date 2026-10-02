@@ -1,0 +1,22 @@
+description: "WF12 - Pipeline health check: verify MCP backend, data files, and report status to the Telegram GENERAL topic."
+type: chain
+working_dir: "C:/Users/Admin/youtube/dagu"
+dotenv: []
+shell: "powershell.exe"
+shell_args:
+  - "-NoProfile"
+  - "-ExecutionPolicy"
+  - "Bypass"
+  - "-Command"
+steps:
+  - id: validate_run_records
+    run: Set-Location C:\Users\Admin\youtube; python scripts\validate_run_record.py outputs\runs
+
+  - id: rebuild_dashboard
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_ops_dashboard.py
+
+  - id: health_report
+    run: Set-Location C:\Users\Admin\youtube; python scripts\telegram_reporter.py --report pipeline_health --send --approve APPROVE
+
+  - id: final_note
+    run: Write-Host "WF12 done. If MCP backend shows down, start it with python tools/VectCutAPI/capcut_server.py"

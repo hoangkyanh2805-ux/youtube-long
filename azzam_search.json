@@ -1,0 +1,2042 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "rs2m6e-JmYe_SnsIxnO80niOVBs",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 233,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q-edfqHYvAT1CjTn7L9wfJplVUE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9DeyVt4CmjY"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-28T16:24:02Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 28/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9DeyVt4CmjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9DeyVt4CmjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9DeyVt4CmjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9DeyVt4CmjY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-28T16:24:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "csfv8bQkL5jYA9IR1yZZ5Z3Oho8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8fIcFLKyrZA"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-28T15:00:35Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON PART#2:BEST STRATEGY REVEALED 2026 #xauusd #trading #shorts",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8fIcFLKyrZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8fIcFLKyrZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8fIcFLKyrZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8fIcFLKyrZA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8fIcFLKyrZA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-28T15:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VeqNFGT0pijfdYF2pNTlbnwKw_M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vXzm1-ZhPcM"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-28T14:00:20Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON PART#1:BEST STRATEGY REVEALED 2026 #xauusd #trading #shorts",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vXzm1-ZhPcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vXzm1-ZhPcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vXzm1-ZhPcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vXzm1-ZhPcM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vXzm1-ZhPcM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-28T14:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VdbbdbhDpXbYs1cWKJerrqQ9OKA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EVFWJ0qsYzI"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-28T04:01:12Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 28/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EVFWJ0qsYzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EVFWJ0qsYzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EVFWJ0qsYzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EVFWJ0qsYzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-28T04:01:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XwhUHG1CkKsbO3gWA3mnlMu4-6g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gQuo0Xe6wRQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-27T11:00:39Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON PART#6:NEW DAY TRADING 2026 #xauusd #trading #shorts",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gQuo0Xe6wRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gQuo0Xe6wRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gQuo0Xe6wRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gQuo0Xe6wRQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gQuo0Xe6wRQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-27T11:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LvAsByMKbhOfo3x6EacgYQ0HUKM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5c3E2kdxPdE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-27T02:00:31Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON PART#5:NEW DAY TRADING 2026 #xauusd #trading #shorts",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5c3E2kdxPdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5c3E2kdxPdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5c3E2kdxPdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5c3E2kdxPdE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5c3E2kdxPdE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-27T02:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gq-4FSDxfv-ljE88RFBt0DtYjts",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EkY7FnyJsGI"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-26T11:00:05Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON PART#4:NEW DAY TRADING 2026 #xauusd #trading #shorts",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EkY7FnyJsGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EkY7FnyJsGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EkY7FnyJsGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EkY7FnyJsGI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EkY7FnyJsGI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-26T11:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m9EELNPSBZ07J0GeXTmUEn8JilA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Uq6akqIq-xk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-26T02:00:03Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON PART#3:NEW DAY TRADING 2026 #xauusd #trading #shorts",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uq6akqIq-xk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uq6akqIq-xk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uq6akqIq-xk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uq6akqIq-xk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uq6akqIq-xk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-26T02:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NbuUAq1Ch7cl1gBKWxSJVbk3hPk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HqDbz0rernU"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-25T14:46:44Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 25/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HqDbz0rernU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HqDbz0rernU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HqDbz0rernU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HqDbz0rernU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-25T14:46:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BijWhgEvGkBtdFH2iksmX9w7Z4Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Yqal2JnOf0"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-25T12:30:20Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON PART#2:NEW DAY TRADING 2026 #xauusd #trading #shorts",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Yqal2JnOf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Yqal2JnOf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Yqal2JnOf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Yqal2JnOf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Yqal2JnOf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-25T12:30:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lleuH-xGdjIeGofiG4RoJ1TkuHs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I-97dkRybys"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-25T11:30:13Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON PART#1:NEW DAY TRADING 2026 #xauusd #trading #shorts",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I-97dkRybys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I-97dkRybys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I-97dkRybys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I-97dkRybys/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I-97dkRybys/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-25T11:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HS54SL3MCWdH0BP_oY6APmcHhL4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yysYK-ITdhE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-24T11:30:01Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON PART#4:CANDLE RANGE THEORY 2026 #xauusd #trading #shorts",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yysYK-ITdhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yysYK-ITdhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yysYK-ITdhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yysYK-ITdhE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yysYK-ITdhE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-24T11:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aXogufTE99hIYwmJ0NLoPcL5fdQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rX99jNB30kg"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-24T03:00:02Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON PART#3:CANDLE RANGE THEORY 2026 #xauusd #trading #shorts",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rX99jNB30kg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rX99jNB30kg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rX99jNB30kg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rX99jNB30kg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rX99jNB30kg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-24T03:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6vS0b-Kzije4brhb3D_qRhJja-o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qkB2GCqH-tY"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-23T11:00:04Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON PART#2:CANDLE RANGE THEORY 2026 #xauusd #trading #shorts",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qkB2GCqH-tY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qkB2GCqH-tY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qkB2GCqH-tY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qkB2GCqH-tY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qkB2GCqH-tY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-23T11:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Q4jdnITEozkN5y30nPFTDCTN_Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Zj0i9l47HI"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-22T17:11:50Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 22/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Zj0i9l47HI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Zj0i9l47HI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Zj0i9l47HI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9Zj0i9l47HI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-22T17:11:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IQx4zdFRffiy-C0BwqhMw9C7N8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2R8LcA4sLb8"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-22T11:30:27Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON #106: Essential Forex Tips for Beginners #xauusd #trading #shorts",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2R8LcA4sLb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2R8LcA4sLb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2R8LcA4sLb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2R8LcA4sLb8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2R8LcA4sLb8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-22T11:30:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UPAC9GojXgFfk-_hD0SQ254EAR8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0xrTR-AFDeM"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-21T17:33:03Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 21/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0xrTR-AFDeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0xrTR-AFDeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0xrTR-AFDeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0xrTR-AFDeM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-21T17:33:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AVLosFHo3G8OhJLebf-7oauDfzk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tudUQVNQ1LM"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-21T14:17:45Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 21/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tudUQVNQ1LM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tudUQVNQ1LM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tudUQVNQ1LM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tudUQVNQ1LM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-21T14:17:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cna4bekO__4MKvBj1_WkrWY4iMM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HrGpchFbBTo"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-21T05:00:06Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON #104: Control Position Size To Manage Emotions # #Forex #Xauusd #Trading #shortviral",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HrGpchFbBTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HrGpchFbBTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HrGpchFbBTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HrGpchFbBTo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HrGpchFbBTo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-21T05:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CYulh6_g0L6enxqquNIcVuxXX7c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VTeE2i9Cp44"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-21T02:00:15Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON #103: Fear Breaking Rules More Than Losing Trades # #Forex #Xauusd #Trading #shortviral",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VTeE2i9Cp44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VTeE2i9Cp44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VTeE2i9Cp44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VTeE2i9Cp44/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VTeE2i9Cp44/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-21T02:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eKgrRnVN0mMVHAYntraZSFoS_mM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0EkQXUNRfOc"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-19T02:00:21Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON #99: Revenge Trading Turns Loss Into Disaster # #Forex #Xauusd #shortviral # #Forex",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0EkQXUNRfOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0EkQXUNRfOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0EkQXUNRfOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0EkQXUNRfOc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0EkQXUNRfOc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-19T02:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uJb7cmpF84_Hz--pSFsK9Knj-Ps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aIbimkVNFG4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-18T16:43:11Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 18/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aIbimkVNFG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aIbimkVNFG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aIbimkVNFG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aIbimkVNFG4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-18T16:43:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xO6tSFBpWMejjGk-jN8s0UGCnhs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E8hkWBtzPOc"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-18T13:15:00Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "FOREX LESSON #98: The Market Pays For Patience # #Forex #Xauusd #Trading #shortviral",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E8hkWBtzPOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E8hkWBtzPOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E8hkWBtzPOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E8hkWBtzPOc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E8hkWBtzPOc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-18T13:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AMToKIVoaw83xJH729d3Fjk8zeI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zf2zobwR87A"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-17T17:21:28Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 17/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zf2zobwR87A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zf2zobwR87A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zf2zobwR87A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zf2zobwR87A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-17T17:21:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cOtgnkF3sG6gSRSol84vuBRmzQQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J9ThPmxowQ0"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-16T17:23:48Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 16/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J9ThPmxowQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J9ThPmxowQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J9ThPmxowQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J9ThPmxowQ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-16T17:23:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qb007Ucum6buvMVr2BQ40vuFZR8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ooKHxUlIaR0"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-15T17:33:53Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 15/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ooKHxUlIaR0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ooKHxUlIaR0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ooKHxUlIaR0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ooKHxUlIaR0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-15T17:33:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AEAAdpysShVx4MQsSi5u1Uk5zYE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SaR_bs9gjU8"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T17:05:57Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 11/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SaR_bs9gjU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SaR_bs9gjU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SaR_bs9gjU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SaR_bs9gjU8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T17:05:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ik04o4r7sgCKx-alUbtRah90jLc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GFLcuJC0dwY"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-10T17:10:02Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 10/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GFLcuJC0dwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GFLcuJC0dwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GFLcuJC0dwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GFLcuJC0dwY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-10T17:10:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8sN5GVLLvov4FWod6hWGvByqfsM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HGm5wbo9Hzk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-09T17:13:38Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 09/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HGm5wbo9Hzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HGm5wbo9Hzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HGm5wbo9Hzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HGm5wbo9Hzk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-09T17:13:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9-ePSnrDReSeEl4m66AQKRiydZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6-c-RBPUzeM"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-08T16:49:25Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 08/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6-c-RBPUzeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6-c-RBPUzeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6-c-RBPUzeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6-c-RBPUzeM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-08T16:49:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7gQjkq1helbPj5V5AZ5CBaOK6sI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wfuCPKBawhQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-08T05:41:08Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 08/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wfuCPKBawhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wfuCPKBawhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wfuCPKBawhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wfuCPKBawhQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-08T05:41:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FHYTzU6Rv5gSWi3zeuTSlU0Bpx0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O6kyFIkJbTE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-07T16:43:56Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 07/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O6kyFIkJbTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O6kyFIkJbTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O6kyFIkJbTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O6kyFIkJbTE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-07T16:43:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "apmoskxJ5_Xo5a1TTwm_TtLG6hE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OKGW9SKs8jk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T09:09:50Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 04/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OKGW9SKs8jk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OKGW9SKs8jk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OKGW9SKs8jk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OKGW9SKs8jk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T09:09:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MNwH9M8nZ-4LhSZr9CjbMOvuid8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gb8G20H6_lY"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-03T16:40:02Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 03/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gb8G20H6_lY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gb8G20H6_lY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gb8G20H6_lY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gb8G20H6_lY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-03T16:40:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D0OYZQuP-cN4aIvZrccIlrPAKRU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "at0OoN4s1xg"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-02T17:23:53Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 02/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/at0OoN4s1xg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/at0OoN4s1xg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/at0OoN4s1xg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/at0OoN4s1xg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-02T17:23:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VYHyznhXiPe4H2vRgXqSPkZ3Fhw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fC9wOZbRSvc"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-01T16:46:50Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 01/09 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fC9wOZbRSvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fC9wOZbRSvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fC9wOZbRSvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fC9wOZbRSvc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-01T16:46:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qW1ZjtSrYHYa0t2Pq89am41L5qQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Hulx-4rMvmQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-31T16:42:13Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 31/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hulx-4rMvmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hulx-4rMvmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hulx-4rMvmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hulx-4rMvmQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-31T16:42:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0x4tsgCDKZRm7JAUF9NBYn4nlSA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sH2juD_f1wE"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-28T15:45:35Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 28/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sH2juD_f1wE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sH2juD_f1wE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sH2juD_f1wE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sH2juD_f1wE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-28T15:45:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KsnnrOISkcJalqWJYQHm43xi9iY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Lf9jq0UCQIM"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-27T06:41:25Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 27/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lf9jq0UCQIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lf9jq0UCQIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lf9jq0UCQIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Lf9jq0UCQIM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-27T06:41:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lC4IFbdsU5maf2RGun0h9ZnEZzA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PiJ6_UUQBWY"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-26T16:06:01Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 26/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PiJ6_UUQBWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PiJ6_UUQBWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PiJ6_UUQBWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PiJ6_UUQBWY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-26T16:06:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "waGY3zYGELTnkoDmuePJJWq6W08",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "paBFZEpXnNI"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-25T16:52:26Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 25/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/paBFZEpXnNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/paBFZEpXnNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/paBFZEpXnNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/paBFZEpXnNI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-25T16:52:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "klmnLfuP6teRESxHdMpauJMF2tc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BjGMHhzGfbQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-24T16:56:37Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 24/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BjGMHhzGfbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BjGMHhzGfbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BjGMHhzGfbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BjGMHhzGfbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-24T16:56:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TeJMtMu_kGc6dj0p3qLrz1GsQLo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ylcTOujLlcQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-21T16:20:13Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 21/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ylcTOujLlcQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ylcTOujLlcQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ylcTOujLlcQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ylcTOujLlcQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-21T16:20:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SK3EqBS3XXtjmfWi-OEnsv0Kwe4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DNldOtA-GXY"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-20T16:53:37Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 20/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DNldOtA-GXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DNldOtA-GXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DNldOtA-GXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DNldOtA-GXY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-20T16:53:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6ekiWApBaJiolgXat1WDpm99kQE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gZYE_bK_WVk"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-18T17:15:56Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 18/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gZYE_bK_WVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gZYE_bK_WVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gZYE_bK_WVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gZYE_bK_WVk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-18T17:15:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lr7qggrITsOUTAGAG0liSxc_CWQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eBEXE-8I2AE"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-17T13:48:39Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 17/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eBEXE-8I2AE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eBEXE-8I2AE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eBEXE-8I2AE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eBEXE-8I2AE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-17T13:48:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eRzTiT_Am4utEx2AzHEJGLEKBMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EKVJWynp2RM"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-13T17:15:18Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 13/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EKVJWynp2RM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EKVJWynp2RM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EKVJWynp2RM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EKVJWynp2RM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-13T17:15:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1tNBbWIdtMBLELYMOmpkVzXsL7E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0K0TdDoQIR8"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-12T17:46:25Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 12/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0K0TdDoQIR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0K0TdDoQIR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0K0TdDoQIR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0K0TdDoQIR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-12T17:46:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pc38m2iTnmJAbACd7fMQPmNC4DA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T1nexC60sFs"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-11T17:25:29Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 11/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T1nexC60sFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T1nexC60sFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T1nexC60sFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T1nexC60sFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-11T17:25:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D3VwNkw3I8jCrOh6W-ui6CDy7rI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dXt65kW25vY"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-06T17:16:53Z",
+        "channelId": "UCBZ7LaffmEPv91sWcfroJdQ",
+        "title": "🔴 LIVE XAUUSD Trading 06/08 | Real-Time Forex Analysis &amp; Entries",
+        "description": "Live Forex & Gold Trading – Real-Time Market Analysis Learn gold trading and forex strategies – from beginner basics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dXt65kW25vY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dXt65kW25vY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dXt65kW25vY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dXt65kW25vY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Azzam Master Trading",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-06T17:16:53Z"
+      }
+    }
+  ]
+}

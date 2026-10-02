@@ -1,0 +1,71 @@
+description: "WF23 - Refresh and publish the YouTube Analytics Dashboard into the dagu UI. Pulls real YouTube Data API stats, rebuilds the dashboard, and updates the Wiki page the UI renders."
+type: chain
+working_dir: "C:/Users/Admin/youtube/dagu"
+dotenv: []
+shell: "powershell.exe"
+shell_args:
+  - "-NoProfile"
+  - "-ExecutionPolicy"
+  - "Bypass"
+  - "-Command"
+schedule: "0 8 * * *"
+hist_retention_days: 30
+tags:
+  - daily
+  - dashboard
+  - analytics
+steps:
+  - id: validate_run_records
+    run: Set-Location C:\Users\Admin\youtube; python scripts\validate_run_record.py outputs\runs
+
+  # Real YouTube Data API -> vendor dashboard (Azzam + competitor stats)
+  - id: refresh_analytics_dashboard
+    run: Set-Location C:\Users\Admin\youtube; python scripts\refresh_youtube_analytics_dashboard.py
+
+  # Blindspot analysis from the real private analytics (bot traffic, sub
+  # conversion, search share, content-format concentration...)
+  - id: analyze_blindspots
+    run: Set-Location C:\Users\Admin\youtube; python scripts\analyze_blindspots.py
+
+  # Ops cockpit: pipeline health, topics, pain points, backlog, analytics, blindspots
+  - id: build_ops_dashboard
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_ops_dashboard.py
+
+  # Word + Excel deliverable for the analytics/blindspot report
+  - id: build_analytics_report
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_analytics_report.py
+
+  # MrBeast audit: chẩn đoán + plan action + SOP + build-to-sell (Word + Excel)
+  - id: build_mrbeast_audit
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_mrbeast_audit.py
+
+  - id: build_mrbeast_report
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_mrbeast_report.py
+
+  # Evergreen plan: 24 video từ keyword + comment thật (18 chủ đề đối thủ chưa làm)
+  - id: build_evergreen_plan
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_evergreen_plan.py
+
+  # Report Hub: trang điểm vào duy nhất, gom link mọi báo cáo + số liệu chính
+  - id: build_report_hub
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_report_hub.py
+
+  # Đóng gói site tĩnh (link tài liệu trỏ về Drive) + verify không lọt secret
+  - id: build_static_deploy
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_static_deploy.py --site-url https://dashboard.azzamedu.com
+
+  # Deploy lên Cloudflare Pages → https://dashboard.azzamedu.com
+  - id: deploy_cloudflare
+    run: Set-Location C:\Users\Admin\youtube; python scripts\deploy_to_cloudflare.py --apply
+
+  # Push the numbers into the Wiki page that the dagu UI renders.
+  # dagu cannot iframe a local HTML file, so the Wiki carries the real figures
+  # plus file:// links, and the HTML stays openable from the file system.
+  - id: publish_to_wiki
+    run: Set-Location C:\Users\Admin\youtube; python scripts\publish_dashboards_to_ui.py
+
+  - id: report_health
+    run: Set-Location C:\Users\Admin\youtube; python scripts\telegram_reporter.py --report pipeline_health --send --approve APPROVE
+
+  - id: final_note
+    run: Write-Host "WF23 complete. Mo REPORT_HUB.html de vao tat ca bao cao."

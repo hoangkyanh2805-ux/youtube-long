@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Azzam Hermes Dashboard - 2026-10-01</title>
+  <style>
+    :root {
+      --bg: #f6f7f9;
+      --surface: #ffffff;
+      --surface-strong: #101828;
+      --text: #101828;
+      --muted: #5f6b7a;
+      --border: #d7dde5;
+      --blue: #175cd3;
+      --green: #067647;
+      --amber: #b54708;
+      --red: #b42318;
+      --focus: #1d4ed8;
+      color-scheme: light dark;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #111418;
+        --surface: #191e24;
+        --surface-strong: #e6edf5;
+        --text: #edf2f7;
+        --muted: #a9b4c2;
+        --border: #374151;
+        --blue: #8ab4ff;
+        --green: #62d49f;
+        --amber: #f6bd60;
+        --red: #ff8a80;
+        --focus: #93c5fd;
+      }
+    }
+    * { box-sizing: border-box; }
+    html { font-size: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+      line-height: 1.5;
+    }
+    a { color: var(--blue); }
+    a:focus-visible {
+      outline: 0.1875rem solid var(--focus);
+      outline-offset: 0.1875rem;
+    }
+    .skip-link {
+      position: absolute;
+      inset-block-start: -10rem;
+      inset-inline-start: 1rem;
+      background: var(--surface-strong);
+      color: var(--bg);
+      padding: 0.75rem 1rem;
+      z-index: 10;
+    }
+    .skip-link:focus { inset-block-start: 1rem; }
+    header {
+      background: var(--surface);
+      border-block-end: 1px solid var(--border);
+    }
+    .shell {
+      inline-size: min(100% - 2rem, 76rem);
+      margin-inline: auto;
+    }
+    .topbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: end;
+      justify-content: space-between;
+      padding-block: 1.25rem;
+    }
+    h1, h2, h3 { line-height: 1.2; margin: 0; }
+    h1 { font-size: 2rem; }
+    h2 { font-size: 1.1rem; }
+    h3 { font-size: 1rem; }
+    main { padding-block: 1.25rem 2rem; }
+    .status-line {
+      color: var(--muted);
+      margin-block: 0.35rem 0;
+      max-inline-size: 72ch;
+    }
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-block-start: 0.75rem;
+    }
+    .badge {
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 0.25rem 0.65rem;
+      background: var(--bg);
+      font-size: 0.875rem;
+      color: var(--muted);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+    .kpis {
+      grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+      margin-block-end: 1rem;
+    }
+    .panel, .kpi {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 0.5rem;
+      padding: 1rem;
+    }
+    .kpi strong {
+      display: block;
+      margin-block-start: 0.35rem;
+      font-size: 1.7rem;
+      line-height: 1;
+      font-variant-numeric: tabular-nums;
+    }
+    .label { color: var(--muted); font-size: 0.875rem; }
+    .content-grid {
+      grid-template-columns: 1fr;
+    }
+    @media (min-width: 58rem) {
+      .content-grid { grid-template-columns: 1.2fr 0.8fr; align-items: start; }
+    }
+    ul { padding-inline-start: 1.2rem; margin-block-end: 0; }
+    li + li { margin-block-start: 0.45rem; }
+    .metric-row {
+      display: grid;
+      grid-template-columns: minmax(8rem, 1fr) auto;
+      gap: 0.75rem;
+      border-block-start: 1px solid var(--border);
+      padding-block: 0.7rem;
+    }
+    .metric-row:first-of-type { border-block-start: 0; }
+    .value { font-variant-numeric: tabular-nums; font-weight: 700; }
+    .ok { color: var(--green); }
+    .warn { color: var(--amber); }
+    .risk { color: var(--red); }
+    footer {
+      border-block-start: 1px solid var(--border);
+      color: var(--muted);
+      padding-block: 1rem;
+      font-size: 0.875rem;
+    }
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        scroll-behavior: auto !important;
+      }
+    }
+    @media (prefers-contrast: more) {
+      :root { --muted: var(--text); --border: var(--text); }
+      .panel, .kpi, .badge { border-width: 2px; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <header>
+    <div class="shell topbar">
+      <div>
+        <h1>Azzam Hermes Dashboard</h1>
+        <p class="status-line">Run Mode: Local L2. Generated from local CSV/Markdown workspace data.</p>
+        <div class="badge-row" aria-label="Dashboard status">
+          <span class="badge">Report date: 2026-10-01</span>
+          <span class="badge">External action: NONE</span>
+          <span class="badge">Approval: local review</span>
+        </div>
+      </div>
+      <p class="status-line"><a href="../reports/daily_status.md">Open daily_status.md</a></p>
+    </div>
+  </header>
+  <main id="main-content" class="shell">
+    <section aria-labelledby="snapshot-heading">
+      <h2 id="snapshot-heading">Snapshot</h2>
+      <div class="grid kpis" role="list">
+        <article class="kpi" role="listitem"><span class="label">Videos</span><strong>100</strong></article>
+        <article class="kpi" role="listitem"><span class="label">Shorts</span><strong>13</strong></article>
+        <article class="kpi" role="listitem"><span class="label">Lives</span><strong>58</strong></article>
+        <article class="kpi" role="listitem"><span class="label">Views</span><strong>89,267</strong></article>
+        <article class="kpi" role="listitem"><span class="label">Likes</span><strong>2,282</strong></article>
+        <article class="kpi" role="listitem"><span class="label">Comments</span><strong>33</strong></article>
+        <article class="kpi" role="listitem"><span class="label">Draft Shorts</span><strong>10</strong></article>
+        <article class="kpi" role="listitem"><span class="label">Ready/Scheduled</span><strong>0</strong></article>
+      </div>
+    </section>
+    <div class="grid content-grid">
+      <section class="panel" aria-labelledby="actions-heading">
+        <h2 id="actions-heading">Today Next Actions</h2>
+        <ul><li>Review 10 draft Shorts and approve the first one for recording.</li><li>Record `S-RC-API-001` with keyword `CHECKLIST`.</li><li>Use `RC-API-001` as the next remake reference: LIVE TRADING XAUUSD - FOREX DAY 3/8/2026 - GOLD TRADER ALLIANCE.</li><li>Review `outputs/content/live_agenda.md` and choose a live time.</li><li>Move one reviewed Short from `Backlog` to `Ready` after human approval.</li></ul>
+      </section>
+      <section class="panel" aria-labelledby="guardrails-heading">
+        <h2 id="guardrails-heading">Guardrails</h2>
+        <ul>
+          <li class="ok">Drafts require human review before recording or publishing.</li>
+          <li class="ok">No auto-publish path is enabled.</li>
+          <li class="ok">No trading execution path is enabled.</li>
+          <li class="ok">No guaranteed-profit claims.</li>
+        </ul>
+      </section>
+      <section class="panel" aria-labelledby="pipeline-heading">
+        <h2 id="pipeline-heading">Pipeline Highlights</h2>
+        <div class="metric-row"><span class="label">Top draft Short</span><span class="value">S-RC-API-001</span></div>
+        <div class="metric-row"><span class="label">Short title</span><span class="value">XAUUSD live checklist before entry</span></div>
+        <div class="metric-row"><span class="label">Telegram keyword</span><span class="value">CHECKLIST</span></div>
+        <div class="metric-row"><span class="label">Top remake candidate</span><span class="value">RC-API-001</span></div>
+        <div class="metric-row"><span class="label">Candidate priority</span><span class="value">119</span></div>
+        <div class="metric-row"><span class="label">Candidate title</span><span class="value">LIVE TRADING XAUUSD - FOREX DAY 3/8/2026 - GOLD TRADER ALLIANCE</span></div>
+      </section>
+      <section class="panel" aria-labelledby="risks-heading">
+        <h2 id="risks-heading">Risks / Blockers</h2>
+        <ul><li class="risk">No Shorts are marked Ready or Scheduled yet.</li><li class="risk">YouTube Data API stats are available, but subscriber delta and retention still need private analytics or repeated snapshots.</li></ul>
+      </section>
+    </div>
+  </main>
+  <footer>
+    <div class="shell">Generated by Hermes Dashboard from local workspace files. Review in VS Code before any Sheet, Telegram, or YouTube action.</div>
+  </footer>
+</body>
+</html>

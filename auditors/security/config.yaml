@@ -1,0 +1,22 @@
+# Security/Secrets Auditor Config
+
+security_auditor:
+  scan_paths:
+    - ../../agents/
+    - ../../data/
+    - ../../auditors/
+    - ../../outputs/
+    - ../../docs/
+    - ../../knowledge/
+    - ../../README.md
+    - ../../PROJECT_STATUS_REPORT.md
+  secret_patterns:
+    - API key patterns
+    - Token patterns
+    - Password patterns
+  compliance_checks:
+    - income_claim: false
+    - disclaimer_required: true
+    - marketing_claims: review_required
+  log_path: security_logs/
+  compliance_report_path: ../../compliance_reports/

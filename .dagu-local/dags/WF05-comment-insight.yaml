@@ -1,0 +1,19 @@
+description: "WF05 - Community command dry-run and audience insight guardrail path."
+type: chain
+working_dir: "C:/Users/Admin/youtube/dagu"
+dotenv: []
+shell: "powershell.exe"
+shell_args:
+  - "-NoProfile"
+  - "-ExecutionPolicy"
+  - "Bypass"
+  - "-Command"
+steps:
+  - id: validate_run_records
+    run: Set-Location C:\Users\Admin\youtube; python scripts\validate_run_record.py outputs\runs
+  - id: refresh_daily_report
+    run: Set-Location C:\Users\Admin\youtube; python scripts\daily_report_renderer.py --root . --date 2026-10-01
+  - id: telegram_dry_run_status
+    run: Set-Location C:\Users\Admin\youtube; python scripts\telegram_gateway.py --root . --command daily_status --daily-status outputs\reports\daily_status.md --dry-run
+  - id: final_note
+    run: Write-Host "WF05 dry-run only. Reply/send/broadcast stays locked behind L3 approval."

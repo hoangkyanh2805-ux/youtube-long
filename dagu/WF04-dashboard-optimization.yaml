@@ -1,0 +1,19 @@
+description: "WF04 - Refresh local dashboard, reports, validations, and optimization cockpit."
+type: chain
+working_dir: "C:/Users/Admin/youtube/dagu"
+dotenv: []
+shell: "powershell.exe"
+shell_args:
+  - "-NoProfile"
+  - "-ExecutionPolicy"
+  - "Bypass"
+  - "-Command"
+steps:
+  - id: validate_run_records
+    run: Set-Location C:\Users\Admin\youtube; python scripts\validate_run_record.py outputs\runs
+  - id: run_tests
+    run: Set-Location C:\Users\Admin\youtube; python -m unittest
+  - id: refresh_dashboard
+    run: Set-Location C:\Users\Admin\youtube; python scripts\daily_report_renderer.py --root . --date 2026-10-01
+  - id: dashboard_url
+    run: Write-Host "Open file:///C:/Users/Admin/youtube/outputs/dashboard/index.html"

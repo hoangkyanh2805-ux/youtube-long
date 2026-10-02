@@ -1,0 +1,64 @@
+{
+  "apply_status": "ok",
+  "apply_response": {
+    "spreadsheetId": "1-iUAsn_soGh2a9w7KtUdZHxvZCQpcPaX5Zy9YFtTiRE",
+    "replies": [
+      {},
+      {},
+      {}
+    ],
+    "commentUpdateState": "NO_UPDATES_REQUESTED"
+  },
+  "created_sheets": [
+    {
+      "target": "Shorts Pipeline",
+      "title": "shorts_pipeline"
+    }
+  ],
+  "sheet_id_refresh": [
+    {
+      "target": "Video Inventory",
+      "matched_title": "video_inventory",
+      "old_sheet_id": 1006,
+      "new_sheet_id": 1054047411,
+      "status": "updated"
+    },
+    {
+      "target": "Remake Candidates",
+      "matched_title": "remake_plan",
+      "old_sheet_id": 1005,
+      "new_sheet_id": 289865627,
+      "status": "updated"
+    },
+    {
+      "target": "Shorts Pipeline",
+      "matched_title": "shorts_pipeline",
+      "old_sheet_id": 1003,
+      "new_sheet_id": 1153839002,
+      "status": "updated"
+    }
+  ],
+  "read_back": [
+    {
+      "target": "Video Inventory",
+      "range": "'video_inventory'!A1:V101",
+      "expected_rows": 101,
+      "actual_rows": 101,
+      "status": "ok"
+    },
+    {
+      "target": "Remake Candidates",
+      "range": "'remake_plan'!A1:W51",
+      "expected_rows": 51,
+      "actual_rows": 51,
+      "status": "ok"
+    },
+    {
+      "target": "Shorts Pipeline",
+      "range": "'shorts_pipeline'!A1:AA11",
+      "expected_rows": 11,
+      "actual_rows": 11,
+      "status": "ok"
+    }
+  ]
+}

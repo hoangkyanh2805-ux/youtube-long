@@ -1,0 +1,22 @@
+# Integration QA Auditor Config
+
+integration_qa:
+  scan_paths:
+    - ../../agents/
+    - ../../data/
+    - ../../auditors/
+    - ../../README.md
+  file_ownership_rules:
+    - trading_runtime: trade_journal/, signals/
+    - youtube_data: video_inventory.csv, all_videos.json, channel_info.json
+    - content_bridge: pain_points_master.csv, content_calendar.csv, video_scripts/
+    - hermes_dashboard: dashboard/, reports/
+    - google_sheet_operator: all sheets
+    - telegram_gateway: telegram_logs/, leads/
+    - youtube_workflow: outputs/youtube_workflow/, transcript_topics.csv
+    - learning_tutor: outputs/learning/study_vault/
+    - platform_ux: docs/platform-ux-rules.md, outputs/audit/platform_ux_review.md
+    - founder_ops: outputs/founder/, knowledge/distilled/founder-context.md
+    - aegis_guardrail: outputs/audit/aegis_guardrail_report.md
+  log_path: integration_logs/
+  conflict_report_path: ../../conflict_reports/

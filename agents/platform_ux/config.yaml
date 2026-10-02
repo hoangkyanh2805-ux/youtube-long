@@ -1,0 +1,48 @@
+# Platform UX Agent Config
+
+platform_ux:
+  source_pattern: ehmo/platform-design-skills
+  source_url: https://github.com/ehmo/platform-design-skills
+  mode: internal_adapter
+  install_status: installed_in_codex
+  installed_skills:
+    - web
+    - ios
+    - android
+    - macos
+    - ipados
+    - watchos
+    - tvos
+    - visionos
+  primary_skill_to_adapt: web-design-guidelines
+  surfaces:
+    google_sheet:
+      purpose: control room
+      rules:
+        - dense_scan_first
+        - stable_columns
+        - status_visible
+        - no_hidden_ids
+    markdown_report:
+      purpose: daily decision page
+      rules:
+        - one_page_bias
+        - next_action_above_details
+        - risks_visible
+    telegram:
+      purpose: command channel
+      rules:
+        - concise
+        - one_primary_action
+        - no_secret_output
+        - approval_required_for_broadcast
+    dashboard:
+      purpose: scan view
+      rules:
+        - kpi_first
+        - trend_and_next_action_visible
+        - no_marketing_layout_for_ops
+  outputs:
+    rules_doc: ../../docs/platform-ux-rules.md
+    review_report: ../../outputs/audit/platform_ux_review.md
+

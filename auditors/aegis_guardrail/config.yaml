@@ -1,0 +1,48 @@
+# Aegis Guardrail Auditor Config
+
+aegis_guardrail:
+  source_pattern: GanyuanRan/Aegis
+  source_url: https://github.com/GanyuanRan/Aegis
+  mode: internal_adapter
+  install_status: installed_in_codex
+  installed_skills:
+    - using-aegis
+    - establishing-project-context
+    - anti-entropy-governance
+    - recording-architecture-decisions
+    - long-task-continuation
+    - first-principles-review
+  report_path: ../../outputs/audit/aegis_guardrail_report.md
+  baseline_sources:
+    - ../../README.md
+    - ../../multi_agent_architecture.md
+    - ../../docs/github-skill-pack-agent-map.md
+    - ../../PROJECT_STATUS_REPORT.md
+    - ../../outputs/reports/daily_status.md
+  scan_paths:
+    - ../../agents/
+    - ../../auditors/
+    - ../../outputs/
+    - ../../data/
+  preflight_checks:
+    - baseline_read
+    - file_ownership_verified
+    - secret_scan
+    - compliance_claim_scan
+    - external_action_gate
+  post_action_checks:
+    - read_back_required_for_sheet_sync
+    - output_path_exists
+    - drift_note_recorded
+  human_approval_required:
+    - install_third_party_skill
+    - paid_api_bulk_run
+    - youtube_publish
+    - telegram_broadcast
+    - offer_or_pricing_change
+    - destructive_sheet_rewrite
+  forbidden:
+    - live_trade_execution
+    - committing_real_secrets
+    - guaranteed_profit_claims
+

@@ -1,0 +1,73 @@
+{
+  "source": "youtube-data-api-v3/commentThreads.list",
+  "query": "how to trade gold for beginners",
+  "input": null,
+  "started_at": "2026-10-01T13:27:07.725937+00:00",
+  "quota_cost_per_call": 1,
+  "search_api_calls": 1,
+  "search_quota_units": 100,
+  "total_api_calls": 9,
+  "total_quota_units": 108,
+  "videos": [
+    {
+      "video_id": "udvUjY5YLwo",
+      "threads_fetched": 85,
+      "comments_flat": 134,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "MKJz4yURCEs",
+      "threads_fetched": 100,
+      "comments_flat": 118,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "X82qlU1cgLI",
+      "threads_fetched": 100,
+      "comments_flat": 104,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "_YVQN6_nkfs",
+      "threads_fetched": 100,
+      "comments_flat": 198,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "E0YMb62jY64",
+      "threads_fetched": 11,
+      "comments_flat": 14,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "oc2zqnvsqi0",
+      "threads_fetched": 100,
+      "comments_flat": 151,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "sK-_6uIGMck",
+      "threads_fetched": 100,
+      "comments_flat": 155,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "7HD5ZG2MmeQ",
+      "threads_fetched": 91,
+      "comments_flat": 128,
+      "api_calls": 1,
+      "status": "ok"
+    }
+  ],
+  "finished_at": "2026-10-01T13:27:22.550937+00:00",
+  "total_raw_rows": 1002,
+  "total_normalized": 1002,
+  "total_painpoint_candidates": 263
+}

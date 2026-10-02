@@ -1,0 +1,476 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Azzam Ops Dashboard — 2026-10-02</title>
+<style>
+:root {
+  --bg:#0f1216; --surface:#171c22; --surface2:#1e242c; --border:#2c343d;
+  --text:#e6edf5; --muted:#94a3b8; --blue:#60a5fa; --green:#4ade80;
+  --amber:#fbbf24; --red:#f87171; --accent:#38bdf8;
+}
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--text);
+  font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  line-height:1.5; padding:24px; }
+.wrap { max-width:1280px; margin:0 auto; }
+header { border-bottom:1px solid var(--border); padding-bottom:16px; margin-bottom:24px; }
+h1 { margin:0 0 4px; font-size:24px; letter-spacing:-0.02em; }
+h2 { font-size:15px; text-transform:uppercase; letter-spacing:0.08em;
+  color:var(--muted); margin:32px 0 12px; font-weight:600; }
+.sub { color:var(--muted); font-size:13px; }
+.stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:12px; }
+.stat { background:var(--surface); border:1px solid var(--border);
+  border-radius:10px; padding:14px 16px; }
+.stat-label { font-size:11px; text-transform:uppercase; letter-spacing:0.06em;
+  color:var(--muted); }
+.stat-value { font-size:26px; font-weight:700; margin:4px 0 2px;
+  font-variant-numeric:tabular-nums; }
+.stat-note { font-size:11px; color:var(--muted); }
+.grid2 { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+@media (max-width:860px) { .grid2 { grid-template-columns:1fr; } }
+.card { background:var(--surface); border:1px solid var(--border);
+  border-radius:10px; padding:16px 18px; }
+ul.checks { list-style:none; margin:0; padding:0; }
+ul.checks li { display:flex; align-items:center; gap:8px; padding:5px 0;
+  font-size:13px; }
+.dot { width:8px; height:8px; border-radius:50%; flex:0 0 8px; }
+li.ok .dot { background:var(--green); }
+li.bad .dot { background:var(--red); }
+li.bad { color:var(--red); }
+.topic { background:var(--surface); border:1px solid var(--border);
+  border-left:3px solid var(--accent); border-radius:8px;
+  padding:14px 16px; margin-bottom:12px; }
+.topic-head { display:flex; justify-content:space-between; align-items:baseline;
+  margin-bottom:6px; }
+.topic-name { font-weight:700; font-size:14px; letter-spacing:0.04em; }
+.topic-id { font-size:11px; color:var(--muted); font-family:ui-monospace,monospace; }
+.topic-purpose { font-size:13px; margin-bottom:3px; }
+.topic-content { font-size:12px; color:var(--muted); margin-bottom:8px; }
+code, .cmd { font-family:ui-monospace,"Cascadia Code",Consolas,monospace;
+  font-size:11.5px; background:var(--surface2); border:1px solid var(--border);
+  border-radius:5px; padding:2px 6px; color:var(--accent); }
+.cmd { display:block; padding:8px 10px; margin-top:6px; overflow-x:auto;
+  white-space:nowrap; }
+table { width:100%; border-collapse:collapse; font-size:13px;
+  background:var(--surface); border:1px solid var(--border); border-radius:10px;
+  overflow:hidden; }
+th { text-align:left; font-size:11px; text-transform:uppercase;
+  letter-spacing:0.06em; color:var(--muted); padding:10px 12px;
+  border-bottom:1px solid var(--border); background:var(--surface2); }
+td { padding:9px 12px; border-bottom:1px solid var(--border); vertical-align:top; }
+tr:last-child td { border-bottom:none; }
+.num { color:var(--muted); font-variant-numeric:tabular-nums; width:28px; }
+.score { font-variant-numeric:tabular-nums; font-weight:600; }
+.quote { color:var(--text); max-width:560px; }
+.small { font-size:12px; color:var(--muted); }
+.freq { font-size:12px; color:var(--muted); white-space:nowrap; }
+.tag { display:inline-block; font-size:10.5px; padding:2px 7px; border-radius:4px;
+  background:var(--surface2); border:1px solid var(--border); color:var(--muted);
+  white-space:nowrap; }
+.tag.fmt-short { color:var(--amber); border-color:#5a4415; }
+.tag.fmt-long { color:var(--blue); border-color:#1e3a5f; }
+a { color:var(--blue); text-decoration:none; }
+a:hover { text-decoration:underline; }
+footer { margin-top:36px; padding-top:16px; border-top:1px solid var(--border);
+  font-size:12px; color:var(--muted); }
+.guard { background:#2a1a1a; border:1px solid #5c2626; border-radius:8px;
+  padding:12px 16px; font-size:12.5px; color:#fca5a5; margin-top:12px; }
+.finding { background:var(--surface); border:1px solid var(--border);
+  border-left:3px solid var(--muted); border-radius:8px;
+  padding:12px 14px; margin-bottom:10px; }
+.finding.sev-critical { border-left-color:var(--red); }
+.finding.sev-high { border-left-color:#fb923c; }
+.finding.sev-medium { border-left-color:var(--amber); }
+.finding.sev-info { border-left-color:var(--blue); }
+.finding-head { display:flex; align-items:baseline; gap:9px; margin-bottom:5px; }
+.finding-body { font-size:12.5px; color:var(--muted); line-height:1.6; }
+.sev { font-size:10px; font-weight:700; letter-spacing:0.06em;
+  padding:2px 7px; border-radius:4px; white-space:nowrap;
+  background:var(--surface2); border:1px solid var(--border); }
+.sev.sev-critical { color:var(--red); border-color:#5c2626; }
+.sev.sev-high { color:#fb923c; border-color:#5c3a15; }
+.sev.sev-medium { color:var(--amber); border-color:#5a4415; }
+.sev.sev-info { color:var(--blue); border-color:#1e3a5f; }
+.tag-bot { display:inline-block; font-size:10px; font-weight:700;
+  padding:2px 7px; border-radius:4px; color:var(--red);
+  background:#2a1a1a; border:1px solid #5c2626; white-space:nowrap; }
+.note { font-size:11.5px; color:var(--muted); margin:-4px 0 10px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Azzam Ops Dashboard</h1>
+  <div class="sub">@azzammastertradinggold • XAUUSD / Forex • English channel •
+    cập nhật 2026-10-02 08:14 UTC</div>
+</header>
+
+<h2>Tình trạng hệ thống</h2>
+<div class="stats"><div class="stat"><div class="stat-label">Comment unique</div>
+<div class="stat-value">7,937</div>
+<div class="stat-note">đã dedupe 2 run</div></div><div class="stat"><div class="stat-label">Pain point</div>
+<div class="stat-value">1,848</div>
+<div class="stat-note">đã lọc spam + domain</div></div><div class="stat"><div class="stat-label">Video đã cào</div>
+<div class="stat-value">48</div>
+<div class="stat-note">long-form &gt;60s</div></div><div class="stat"><div class="stat-label">Content backlog</div>
+<div class="stat-value">16</div>
+<div class="stat-note">sẵn sàng sản xuất</div></div><div class="stat"><div class="stat-label">Sales angles</div>
+<div class="stat-value">8</div>
+<div class="stat-note">có evidence link</div></div><div class="stat"><div class="stat-label">MCP backend</div>
+<div class="stat-value">Tắt</div>
+<div class="stat-note">chạy capcut_server.py</div></div></div>
+
+<h2>Analytics kênh mình — số liệu thật</h2>
+<div class="note">Cửa sổ 2026-09-02 → 2026-09-30 (28 ngày) • OAuth YouTube Analytics API</div>
+<div class="stats"><div class="stat"><div class="stat-label">Views (28d)</div>
+<div class="stat-value">9,016</div>
+<div class="stat-note">kênh mình</div></div><div class="stat"><div class="stat-label">Watch time</div>
+<div class="stat-value">228.5h</div>
+<div class="stat-note">avg 98s/view</div></div><div class="stat"><div class="stat-label">Sub ròng</div>
+<div class="stat-value">-3</div>
+<div class="stat-note">+5 / -8</div></div><div class="stat"><div class="stat-label">Sub conversion</div>
+<div class="stat-value">0.055%</div>
+<div class="stat-note">ngành 0.5–2%</div></div><div class="stat"><div class="stat-label">Comment rate</div>
+<div class="stat-value">0.0111%</div>
+<div class="stat-note">1 comment</div></div><div class="stat"><div class="stat-label">Traffic nghi bot</div>
+<div class="stat-value">4,316</div>
+<div class="stat-note">47.9% tổng view</div></div></div>
+
+<div class="grid2" style="margin-top:16px">
+  <div class="card">
+    <div style="font-size:13px;margin-bottom:8px"><strong>Nguồn traffic</strong></div>
+    <table>
+      <thead><tr><th>Nguồn</th><th>Views</th><th>Tỷ lệ</th><th>Watch</th></tr></thead>
+      <tbody><tr><td><code>EXT_URL</code></td><td class="score">7,597</td><td class="score">84.3%</td><td class="small">9,035 min</td></tr><tr><td><code>NO_LINK_OTHER</code></td><td class="score">508</td><td class="score">5.6%</td><td class="small">2,911 min</td></tr><tr><td><code>SUBSCRIBER</code></td><td class="score">433</td><td class="score">4.8%</td><td class="small">1,065 min</td></tr><tr><td><code>SHORTS</code></td><td class="score">231</td><td class="score">2.6%</td><td class="small">7 min</td></tr><tr><td><code>YT_SEARCH</code></td><td class="score">110</td><td class="score">1.2%</td><td class="small">120 min</td></tr><tr><td><code>YT_CHANNEL</code></td><td class="score">96</td><td class="score">1.1%</td><td class="small">412 min</td></tr><tr><td><code>YT_OTHER_PAGE</code></td><td class="score">11</td><td class="score">0.1%</td><td class="small">113 min</td></tr><tr><td><code>RELATED_VIDEO</code></td><td class="score">10</td><td class="score">0.1%</td><td class="small">9 min</td></tr></tbody>
+    </table>
+  </div>
+  <div class="card">
+    <div style="font-size:13px;margin-bottom:8px"><strong>Nguồn ngoài (EXT_URL)</strong></div>
+    <table>
+      <thead><tr><th>Referrer</th><th>Views</th><th></th></tr></thead>
+      <tbody><tr><td><code>com.example.seofast</code></td><td class="score">3,470</td><td><span class=tag-bot>NGHI BOT</span></td></tr><tr><td><code>com.playzero.playbotsseofast</code></td><td class="score">795</td><td><span class=tag-bot>NGHI BOT</span></td></tr><tr><td><code>example.seofast</code></td><td class="score">49</td><td><span class=tag-bot>NGHI BOT</span></td></tr><tr><td><code>playzero.playbotsseofast</code></td><td class="score">2</td><td><span class=tag-bot>NGHI BOT</span></td></tr><tr><td><code>Google Search</code></td><td class="score">1</td><td></td></tr><tr><td><code>YouTube</code></td><td class="score">1</td><td></td></tr><tr><td><code>telegram.org</code></td><td class="score">1</td><td></td></tr></tbody>
+    </table>
+  </div>
+</div>
+
+<h2>Điểm mù — phát hiện từ dữ liệu</h2>
+<div class="note">11 phát hiện • 2 critical • 2026-10-02 08:14 UTC</div>
+
+<div class="finding sev-critical">
+  <div class="finding-head">
+    <span class="sev sev-critical">CRITICAL</span>
+    <strong>Traffic từ nguồn nghi bot: 4,316 views</strong>
+  </div>
+  <div class="finding-body">47.9% tổng view 28 ngày đến từ referrer không phải site thật. Đây là dấu hiệu view mua/view farm — YouTube có thể coi là fake engagement và xoá view hoặc phạt kênh.</div>
+</div>
+<div class="finding sev-critical">
+  <div class="finding-head">
+    <span class="sev sev-critical">CRITICAL</span>
+    <strong>90% view dồn vào 1 ngày (2026-09-29)</strong>
+  </div>
+  <div class="finding-body">Ngày 2026-09-29 có 8,153 view, trong khi trung vị các ngày còn lại chỉ 29. Phân bố này không tự nhiên với kênh organic — view tăng đột biến rồi tắt ngay là dấu hiệu traffic mua, không phải nội dung viral.</div>
+</div>
+<div class="finding sev-high">
+  <div class="finding-head">
+    <span class="sev sev-high">HIGH</span>
+    <strong>Tìm kiếm YouTube chỉ 1.2% traffic</strong>
+  </div>
+  <div class="finding-body">Kênh gần như không được tìm thấy trên YouTube (110 view). Trong khi đó EXT_URL chiếm 84%. Kênh đang phụ thuộc nguồn ngoài, không có discoverability tự nhiên — không bền vững.</div>
+</div>
+<div class="finding sev-high">
+  <div class="finding-head">
+    <span class="sev sev-high">HIGH</span>
+    <strong>Sub conversion chỉ 0.055%</strong>
+  </div>
+  <div class="finding-body">5 sub mới / 9,016 view. Mức tham chiếu ngành 0.5–2%. Viewer xem nhưng không đăng ký — thiếu CTA hoặc nội dung không giữ chân.</div>
+</div>
+<div class="finding sev-high">
+  <div class="finding-head">
+    <span class="sev sev-high">HIGH</span>
+    <strong>Sub ròng âm: +5 / -8</strong>
+  </div>
+  <div class="finding-body">Kênh mất nhiều sub hơn được. Cần xem lại nội dung gần đây và tần suất đăng.</div>
+</div>
+<div class="finding sev-high">
+  <div class="finding-head">
+    <span class="sev sev-high">HIGH</span>
+    <strong>Comment rate 0.0111% (1 comment / 9,016 view)</strong>
+  </div>
+  <div class="finding-body">Tương tác bình luận gần như không có. Đây là chỉ số chết cho thuật toán và cho phễu community. Like/comment = 901:1 (bình thường 20–50:1).</div>
+</div>
+<div class="finding sev-medium">
+  <div class="finding-head">
+    <span class="sev sev-medium">MEDIUM</span>
+    <strong>Shorts: 1.8 giây/view — view không thật</strong>
+  </div>
+  <div class="finding-body">231 view Shorts nhưng chỉ 7 phút xem. View hợp lệ của Shorts thường ≥10 giây. View bị tính nhưng người xem lướt qua ngay.</div>
+</div>
+<div class="finding sev-medium">
+  <div class="finding-head">
+    <span class="sev sev-medium">MEDIUM</span>
+    <strong>View trung bình chỉ 98s (0.29% video)</strong>
+  </div>
+  <div class="finding-body">Người xem rời đi sau ~98 giây. Nếu số này đúng thì độ dài video trung bình ~9.4 giờ (livestream) — nghĩa là viewer chỉ xem phần rất nhỏ. Hook và phần đầu video cần làm lại.</div>
+</div>
+<div class="finding sev-medium">
+  <div class="finding-head">
+    <span class="sev sev-medium">MEDIUM</span>
+    <strong>Top video 100% là livestream (15/15)</strong>
+  </div>
+  <div class="finding-body">Không có video dạng long-form biên tập hoặc Shorts trong top. Livestream khó lên đề xuất (không có thumbnail/SEO như video thường) và không tái sử dụng được. Kênh thiếu nội dung evergreen.</div>
+</div>
+<div class="finding sev-info">
+  <div class="finding-head">
+    <span class="sev sev-info">INFO</span>
+    <strong>Top địa lý: RU (31%)</strong>
+  </div>
+  <div class="finding-body">Kênh tiếng Anh nhưng cần kiểm tra tỷ trọng thị trường trả tiền cao (US/UK/CA/AU). Nếu phần lớn view đến từ thị trường RPM thấp, doanh thu sẽ thấp dù view cao.</div>
+</div>
+<div class="finding sev-info">
+  <div class="finding-head">
+    <span class="sev sev-info">INFO</span>
+    <strong>94% view trên mobile</strong>
+  </div>
+  <div class="finding-body">Thumbnail, hook 3 giây đầu và phụ đề phải tối ưu cho màn hình dọc/nhỏ. Text nhỏ trên thumbnail gần như vô nghĩa với nhóm này.</div>
+</div>
+
+<h2>Kiểm tra pipeline</h2>
+<div class="grid2">
+  <div class="card">
+    <ul class="checks"><li class="bad"><span class="dot"></span>CapCut MCP backend (port 9001)</li><li class="ok"><span class="dot"></span>Pain point data</li><li class="ok"><span class="dot"></span>Content backlog</li><li class="ok"><span class="dot"></span>Sales angles</li><li class="ok"><span class="dot"></span>Asset library</li><li class="ok"><span class="dot"></span>Prompt pack</li><li class="ok"><span class="dot"></span>SOP final</li></ul>
+  </div>
+  <div class="card">
+    <div style="font-size:13px;margin-bottom:8px"><strong>Luồng điều phối</strong></div>
+    <div style="font-size:12.5px;color:var(--muted);line-height:1.7">
+      Cào comment → chấm điểm pain → Alan duyệt ở topic <strong>COMMENT</strong>
+      → gửi brief sang topic <strong>EDIT</strong> → editor dựng bằng CapCut MCP
+      → QC → đăng → báo cáo về topic <strong>GENERAL</strong>.
+    </div>
+    <div class="guard">
+      Guardrail: không cam kết lợi nhuận, không trade giả. Mọi lệnh gửi
+      Telegram đều phải có <code>--approve APPROVE</code>. Editor không tự đăng.
+    </div>
+  </div>
+</div>
+
+<h2>Topic Telegram</h2>
+
+<div class="topic">
+  <div class="topic-head">
+    <span class="topic-name">EDIT</span>
+    <span class="topic-id">thread 205</span>
+  </div>
+  <div class="topic-purpose">Content đã duyệt → editor lấy làm việc</div>
+  <div class="topic-content">Báo cáo content brief, hook, CTA, quy trình</div>
+  <code class="cmd">python scripts/telegram_reporter.py --report content_brief --send --approve APPROVE</code>
+</div>
+<div class="topic">
+  <div class="topic-head">
+    <span class="topic-name">COMMENT</span>
+    <span class="topic-id">thread 206</span>
+  </div>
+  <div class="topic-purpose">Cào comment + pain point → Alan duyệt</div>
+  <div class="topic-content">Top pain point mới, link nguồn, yêu cầu duyệt</div>
+  <code class="cmd">python scripts/telegram_reporter.py --report comment --send --approve APPROVE</code>
+</div>
+<div class="topic">
+  <div class="topic-head">
+    <span class="topic-name">GENERAL</span>
+    <span class="topic-id">thread 2</span>
+  </div>
+  <div class="topic-purpose">Báo cáo tổng hợp</div>
+  <div class="topic-content">Daily status, pipeline health</div>
+  <code class="cmd">python scripts/telegram_reporter.py --report pipeline_health --send --approve APPROVE</code>
+</div>
+
+<h2>Pipeline 8 bước</h2>
+<table>
+  <thead><tr><th>#</th><th>Bước</th><th>Tool</th><th>Việc</th><th>Tần suất</th></tr></thead>
+  <tbody>
+<tr>
+  <td class="num">1</td>
+  <td><strong>Cào comment</strong></td>
+  <td><code>competitor_longform_scrape.py</code></td>
+  <td>YouTube API → comment → pain point</td>
+  <td class="freq">Hàng ngày</td>
+</tr>
+<tr>
+  <td class="num">2</td>
+  <td><strong>Phân tích pain</strong></td>
+  <td><code>extract_painpoints.py</code></td>
+  <td>Lọc spam + domain + chấm điểm</td>
+  <td class="freq">Hàng ngày</td>
+</tr>
+<tr>
+  <td class="num">3</td>
+  <td><strong>Chốt content</strong></td>
+  <td><code>build_strategy.py</code></td>
+  <td>Sales angle + keyword + backlog</td>
+  <td class="freq">Hàng tuần</td>
+</tr>
+<tr>
+  <td class="num">4</td>
+  <td><strong>Alan duyệt</strong></td>
+  <td><code>Telegram topic COMMENT (206)</code></td>
+  <td>Duyệt pain point → chốt 3 Short + 1 Long</td>
+  <td class="freq">Hàng ngày</td>
+</tr>
+<tr>
+  <td class="num">5</td>
+  <td><strong>Gửi brief</strong></td>
+  <td><code>telegram_reporter.py --report content_brief</code></td>
+  <td>Đẩy brief sang topic EDIT (205)</td>
+  <td class="freq">Hàng ngày</td>
+</tr>
+<tr>
+  <td class="num">6</td>
+  <td><strong>Editor dựng</strong></td>
+  <td><code>CapCut MCP + CapCut Pro</code></td>
+  <td>MCP dựng draft → editor polish → export</td>
+  <td class="freq">Hàng ngày</td>
+</tr>
+<tr>
+  <td class="num">7</td>
+  <td><strong>QC + đăng</strong></td>
+  <td><code>Checklist 8 điểm</code></td>
+  <td>Guardrail chặn đăng nếu vi phạm</td>
+  <td class="freq">Hàng ngày</td>
+</tr>
+<tr>
+  <td class="num">8</td>
+  <td><strong>Báo cáo</strong></td>
+  <td><code>dagu WF07 + telegram_reporter.py</code></td>
+  <td>Weekly review + pipeline health</td>
+  <td class="freq">Hàng tuần</td>
+</tr></tbody>
+</table>
+
+<h2>Top pain point — chờ Alan duyệt</h2>
+<table>
+  <thead><tr><th>#</th><th>Nhóm</th><th>Score</th><th>Nội dung comment</th><th>Nguồn</th></tr></thead>
+  <tbody>
+<tr>
+  <td class="num">1</td>
+  <td><span class="tag">strategy_rules|education_gap</span></td>
+  <td class="score">11.086</td>
+  <td class="quote">Thanks for adding 1000 in my debt, i meant this as a joke. Tho ORB is useless most of the time you never get the retracement you want or when you get it price r</td>
+  <td><a href="https://www.youtube.com/shorts/I29peidTQxU" target="_blank" rel="noopener">nguồn</a></td>
+</tr>
+<tr>
+  <td class="num">2</td>
+  <td><span class="tag">risk_management|education_gap</span></td>
+  <td class="score">10.772</td>
+  <td class="quote">Man, you&#x27;ve genuinely changed my life. I was a college dropout, down to my last bit of savings, and decided to teach myself trading from scratch. I’ve watched a</td>
+  <td><a href="https://www.youtube.com/shorts/JD_sWSjIiJE" target="_blank" rel="noopener">nguồn</a></td>
+</tr>
+<tr>
+  <td class="num">3</td>
+  <td><span class="tag">education_gap</span></td>
+  <td class="score">9.393</td>
+  <td class="quote">don&#x27;t take this for granted, this guy is blessing people with these breakdowns that a kindergartener could understand.  Also, appreciate how TTrades is ANTI-ram</td>
+  <td><a href="https://www.youtube.com/watch?v=CHIK5oBRKiw" target="_blank" rel="noopener">nguồn</a></td>
+</tr>
+<tr>
+  <td class="num">4</td>
+  <td><span class="tag">education_gap</span></td>
+  <td class="score">9.29</td>
+  <td class="quote">I&#x27;m actually really good at this TDA. My problem is dicipline. I do not stick to my plan. It almost always does what I think it will when I am planning.then I s</td>
+  <td><a href="https://www.youtube.com/shorts/GKN-iVjJpyA" target="_blank" rel="noopener">nguồn</a></td>
+</tr>
+<tr>
+  <td class="num">5</td>
+  <td><span class="tag">risk_management|entry_timing|education_gap</span></td>
+  <td class="score">9.234</td>
+  <td class="quote">I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losi</td>
+  <td><a href="https://www.youtube.com/watch?v=JXHrTloZ-nE" target="_blank" rel="noopener">nguồn</a></td>
+</tr>
+<tr>
+  <td class="num">6</td>
+  <td><span class="tag">other_question_or_pain</span></td>
+  <td class="score">9.185</td>
+  <td class="quote">We need mmxm buy and sell models from ttrades , who agrees???</td>
+  <td><a href="https://www.youtube.com/watch?v=3OivsP1j_UE" target="_blank" rel="noopener">nguồn</a></td>
+</tr>
+<tr>
+  <td class="num">7</td>
+  <td><span class="tag">other_question_or_pain</span></td>
+  <td class="score">8.815</td>
+  <td class="quote">One of the books that made me profitable was 44 trading powers by lucian, I mean it helped me with so much investing andtrading stuff, hope you all guys find it</td>
+  <td><a href="https://www.youtube.com/shorts/990oOC-bHxA" target="_blank" rel="noopener">nguồn</a></td>
+</tr>
+<tr>
+  <td class="num">8</td>
+  <td><span class="tag">risk_management|strategy_rules</span></td>
+  <td class="score">8.808</td>
+  <td class="quote">Robots are better than me because they can trade for me while I&#x27;m sleeping. They have better strategies, and they follow the strategy, which sometimes I don&#x27;t b</td>
+  <td><a href="https://www.youtube.com/shorts/TvWks6oJ-9U" target="_blank" rel="noopener">nguồn</a></td>
+</tr></tbody>
+</table>
+
+<h2>Content backlog — sẵn sàng cho editor</h2>
+<table>
+  <thead><tr><th>#</th><th>Format</th><th>Tiêu đề nháp</th><th>Pain cluster</th><th>CTA</th><th>Evidence</th></tr></thead>
+  <tbody>
+<tr>
+  <td class="num">1</td>
+  <td><span class="tag fmt-short">Short</span></td>
+  <td>Đừng học ICT khi chưa biết cái này</td>
+  <td class="small">education_gap / basic không vững</td>
+  <td class="small">Comment &#x27;ROADMAP&#x27; để nhận lộ trình</td>
+  <td class="score">1041</td>
+</tr>
+<tr>
+  <td class="num">2</td>
+  <td><span class="tag fmt-long">Long</span></td>
+  <td>Lộ trình 30 ngày từ 0</td>
+  <td class="small">education_gap / basic không vững</td>
+  <td class="small">Comment &#x27;ROADMAP&#x27; để nhận lộ trình</td>
+  <td class="score">1041</td>
+</tr>
+<tr>
+  <td class="num">3</td>
+  <td><span class="tag fmt-short">Short</span></td>
+  <td>Xoá 5 indicator này ngay</td>
+  <td class="small">overcomplicating / strategy quá phức tạp</td>
+  <td class="small">Comment &#x27;SIMPLE&#x27; để nhận template 1-setup</td>
+  <td class="score">532</td>
+</tr>
+<tr>
+  <td class="num">4</td>
+  <td><span class="tag fmt-long">Long</span></td>
+  <td>Từ 10 indicator → 1 setup trong 30 ngày</td>
+  <td class="small">overcomplicating / strategy quá phức tạp</td>
+  <td class="small">Comment &#x27;SIMPLE&#x27; để nhận template 1-setup</td>
+  <td class="score">532</td>
+</tr>
+<tr>
+  <td class="num">5</td>
+  <td><span class="tag fmt-short">Short</span></td>
+  <td>1 lệnh này xoá sạch tài khoản</td>
+  <td class="small">risk_management / cháy tài khoản</td>
+  <td class="small">Comment &#x27;RISK&#x27; để nhận risk calculator</td>
+  <td class="score">488</td>
+</tr>
+<tr>
+  <td class="num">6</td>
+  <td><span class="tag fmt-long">Long</span></td>
+  <td>Risk management masterclass</td>
+  <td class="small">risk_management / cháy tài khoản</td>
+  <td class="small">Comment &#x27;RISK&#x27; để nhận risk calculator</td>
+  <td class="score">488</td>
+</tr></tbody>
+</table>
+
+<footer>
+  Sinh tự động từ dữ liệu thật trong repo. Không có số liệu nào được nhập tay.<br>
+  Nguồn: YouTube Data API v3 (commentThreads, channels.list) + YouTube Analytics API
+  (OAuth, private metrics) + phân tích pain point + strategy builder.<br>
+  Chạy <code>python scripts/analyze_blindspots.py</code> để cập nhật phần điểm mù.
+</footer>
+
+</div>
+</body>
+</html>

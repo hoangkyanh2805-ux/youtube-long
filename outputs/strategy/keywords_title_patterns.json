@@ -1,0 +1,406 @@
+{
+  "source": "n-gram mining — competitor title patterns, counted once per unique video",
+  "count": 200,
+  "top_patterns": [
+    {
+      "phrase": "ict concepts",
+      "video_count": 8
+    },
+    {
+      "phrase": "step step",
+      "video_count": 4
+    },
+    {
+      "phrase": "market structure",
+      "video_count": 3
+    },
+    {
+      "phrase": "scalping strategy",
+      "video_count": 3
+    },
+    {
+      "phrase": "simplified ict",
+      "video_count": 2
+    },
+    {
+      "phrase": "simplified ict concepts",
+      "video_count": 2
+    },
+    {
+      "phrase": "trading beginners",
+      "video_count": 2
+    },
+    {
+      "phrase": "ever step",
+      "video_count": 2
+    },
+    {
+      "phrase": "ever step step",
+      "video_count": 2
+    },
+    {
+      "phrase": "trading strategy",
+      "video_count": 2
+    },
+    {
+      "phrase": "ict daily",
+      "video_count": 1
+    },
+    {
+      "phrase": "daily bias",
+      "video_count": 1
+    },
+    {
+      "phrase": "bias ever",
+      "video_count": 1
+    },
+    {
+      "phrase": "ict daily bias",
+      "video_count": 1
+    },
+    {
+      "phrase": "daily bias ever",
+      "video_count": 1
+    },
+    {
+      "phrase": "ict entry",
+      "video_count": 1
+    },
+    {
+      "phrase": "entry checklist",
+      "video_count": 1
+    },
+    {
+      "phrase": "checklist ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "ict entry checklist",
+      "video_count": 1
+    },
+    {
+      "phrase": "entry checklist ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "checklist ict concepts",
+      "video_count": 1
+    },
+    {
+      "phrase": "liquidity buyside",
+      "video_count": 1
+    },
+    {
+      "phrase": "buyside amp",
+      "video_count": 1
+    },
+    {
+      "phrase": "amp sellside",
+      "video_count": 1
+    },
+    {
+      "phrase": "sellside ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "liquidity buyside amp",
+      "video_count": 1
+    },
+    {
+      "phrase": "buyside amp sellside",
+      "video_count": 1
+    },
+    {
+      "phrase": "amp sellside ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "sellside ict concepts",
+      "video_count": 1
+    },
+    {
+      "phrase": "order blocks",
+      "video_count": 1
+    },
+    {
+      "phrase": "blocks simplified",
+      "video_count": 1
+    },
+    {
+      "phrase": "order blocks simplified",
+      "video_count": 1
+    },
+    {
+      "phrase": "blocks simplified ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "optimal trade",
+      "video_count": 1
+    },
+    {
+      "phrase": "trade entry",
+      "video_count": 1
+    },
+    {
+      "phrase": "entry ote",
+      "video_count": 1
+    },
+    {
+      "phrase": "ote ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "optimal trade entry",
+      "video_count": 1
+    },
+    {
+      "phrase": "trade entry ote",
+      "video_count": 1
+    },
+    {
+      "phrase": "entry ote ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "ote ict concepts",
+      "video_count": 1
+    },
+    {
+      "phrase": "inversion fair",
+      "video_count": 1
+    },
+    {
+      "phrase": "fair value",
+      "video_count": 1
+    },
+    {
+      "phrase": "value gaps",
+      "video_count": 1
+    },
+    {
+      "phrase": "gaps ifvg",
+      "video_count": 1
+    },
+    {
+      "phrase": "ifvg ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "inversion fair value",
+      "video_count": 1
+    },
+    {
+      "phrase": "fair value gaps",
+      "video_count": 1
+    },
+    {
+      "phrase": "value gaps ifvg",
+      "video_count": 1
+    },
+    {
+      "phrase": "gaps ifvg ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "ifvg ict concepts",
+      "video_count": 1
+    },
+    {
+      "phrase": "structure shift",
+      "video_count": 1
+    },
+    {
+      "phrase": "shift ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "market structure shift",
+      "video_count": 1
+    },
+    {
+      "phrase": "structure shift ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "shift ict concepts",
+      "video_count": 1
+    },
+    {
+      "phrase": "smt divergence",
+      "video_count": 1
+    },
+    {
+      "phrase": "divergence ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "smt divergence ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "divergence ict concepts",
+      "video_count": 1
+    },
+    {
+      "phrase": "important liquidity",
+      "video_count": 1
+    },
+    {
+      "phrase": "liquidity levels",
+      "video_count": 1
+    },
+    {
+      "phrase": "levels draw",
+      "video_count": 1
+    },
+    {
+      "phrase": "draw liquidity",
+      "video_count": 1
+    },
+    {
+      "phrase": "liquidity ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "important liquidity levels",
+      "video_count": 1
+    },
+    {
+      "phrase": "liquidity levels draw",
+      "video_count": 1
+    },
+    {
+      "phrase": "levels draw liquidity",
+      "video_count": 1
+    },
+    {
+      "phrase": "draw liquidity ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "intraday bias",
+      "video_count": 1
+    },
+    {
+      "phrase": "bias simplified",
+      "video_count": 1
+    },
+    {
+      "phrase": "intraday bias simplified",
+      "video_count": 1
+    },
+    {
+      "phrase": "bias simplified ict",
+      "video_count": 1
+    },
+    {
+      "phrase": "teaching day",
+      "video_count": 1
+    },
+    {
+      "phrase": "day trade",
+      "video_count": 1
+    },
+    {
+      "phrase": "trade less",
+      "video_count": 1
+    },
+    {
+      "phrase": "less minute",
+      "video_count": 1
+    },
+    {
+      "phrase": "minute shorts",
+      "video_count": 1
+    },
+    {
+      "phrase": "teaching day trade",
+      "video_count": 1
+    },
+    {
+      "phrase": "day trade less",
+      "video_count": 1
+    },
+    {
+      "phrase": "trade less minute",
+      "video_count": 1
+    },
+    {
+      "phrase": "less minute shorts",
+      "video_count": 1
+    },
+    {
+      "phrase": "trading expert",
+      "video_count": 1
+    },
+    {
+      "phrase": "expert reacts",
+      "video_count": 1
+    },
+    {
+      "phrase": "reacts shorts",
+      "video_count": 1
+    },
+    {
+      "phrase": "trading expert reacts",
+      "video_count": 1
+    },
+    {
+      "phrase": "expert reacts shorts",
+      "video_count": 1
+    },
+    {
+      "phrase": "buy sell",
+      "video_count": 1
+    },
+    {
+      "phrase": "sell hold",
+      "video_count": 1
+    },
+    {
+      "phrase": "hold shorts",
+      "video_count": 1
+    },
+    {
+      "phrase": "buy sell hold",
+      "video_count": 1
+    },
+    {
+      "phrase": "sell hold shorts",
+      "video_count": 1
+    },
+    {
+      "phrase": "biggest myths",
+      "video_count": 1
+    },
+    {
+      "phrase": "myths tell",
+      "video_count": 1
+    },
+    {
+      "phrase": "tell day",
+      "video_count": 1
+    },
+    {
+      "phrase": "day traders",
+      "video_count": 1
+    },
+    {
+      "phrase": "traders shorts",
+      "video_count": 1
+    },
+    {
+      "phrase": "biggest myths tell",
+      "video_count": 1
+    },
+    {
+      "phrase": "myths tell day",
+      "video_count": 1
+    },
+    {
+      "phrase": "tell day traders",
+      "video_count": 1
+    }
+  ]
+}

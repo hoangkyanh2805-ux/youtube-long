@@ -1,0 +1,2 @@
+metric_id,section,metric_name,definition,period,current_value,target_value,status,trend,source_tab,source_filter,owner,last_refresh,notes
+growth_001,Growth,Published Shorts,Shorts published in the selected period,This week,0,7,Red,Flat,Shorts Pipeline,status=Published,Coordinator,,

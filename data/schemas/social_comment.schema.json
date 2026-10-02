@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.youtube-ops/schemas/social_comment.schema.json",
+  "title": "Normalized social comment",
+  "type": "object",
+  "required": [
+    "platform",
+    "content_id",
+    "content_url",
+    "comment_id",
+    "comment_text",
+    "collected_at",
+    "source_actor"
+  ],
+  "properties": {
+    "platform": {"enum": ["youtube", "tiktok", "instagram", "facebook", "unknown"]},
+    "channel_or_account": {"type": ["string", "null"]},
+    "content_id": {"type": "string"},
+    "content_url": {"type": "string"},
+    "comment_id": {"type": "string"},
+    "comment_text": {"type": "string", "minLength": 1},
+    "comment_timestamp": {"type": ["string", "null"]},
+    "collected_at": {"type": "string"},
+    "engagement_likes": {"type": "integer", "minimum": 0},
+    "reply_count": {"type": "integer", "minimum": 0},
+    "language": {"type": ["string", "null"]},
+    "author_hash": {"type": ["string", "null"]},
+    "parent_comment_id": {"type": ["string", "null"]},
+    "source_actor": {"type": "string"},
+    "source_run_id": {"type": ["string", "null"]}
+  },
+  "additionalProperties": false
+}

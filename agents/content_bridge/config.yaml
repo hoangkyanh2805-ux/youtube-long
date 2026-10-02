@@ -1,0 +1,21 @@
+# Content Bridge Agent Config
+
+content_bridge:
+  youtube_api_key: ${YT_API_KEY}
+  x_api_key: ${X_API_KEY}
+  pain_points_path: ../../data/pain_points_master.csv
+  content_calendar_path: ../../data/content_calendar.csv
+  video_scripts_path: video_scripts/
+  research_sources:
+    - x_twitter
+    - youtube_comments
+    - youtube_trends
+    - telegram_groups
+    - google_trends
+  shorts_per_day: 3
+  long_per_week: 2
+  livestream_per_week: 2
+  guardrails:
+    sales_copy_draft_only: true
+    no_auto_publish: true
+  offer_reference: ../../offer.jpg

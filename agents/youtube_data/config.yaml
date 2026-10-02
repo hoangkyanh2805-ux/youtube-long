@@ -1,0 +1,13 @@
+# YouTube Data Agent Config
+
+youtube_data:
+  api_key: ${YT_API_KEY}
+  channel_id_self: UCBZ7LaffmEPv91sWcfroJdQ
+  channel_id_opposition: UCdS8VXFlNvVohM09qzZGCkA
+  playlist_id_self: UUBZ7LaffmEPv91sWcfroJdQ
+  video_inventory_path: ../../data/video_inventory.csv
+  all_videos_path: ../../data/all_videos.json
+  channel_info_path: ../../data/channel_info.json
+  fetch_limit: 500
+  cache_enabled: true
+  quota_tracking: true

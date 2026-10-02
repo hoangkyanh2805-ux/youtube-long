@@ -1,0 +1,1834 @@
+﻿{
+    "video_id":  "AOz1YPOKvEs",
+    "language":  "en",
+    "transcript":  [
+                       {
+                           "text":  "in this video we\u0027re going to show you",
+                           "start":  0.12,
+                           "duration":  3.0
+                       },
+                       {
+                           "text":  "everything you need to know about",
+                           "start":  1.86,
+                           "duration":  3.959
+                       },
+                       {
+                           "text":  "reading Candlestick charts fast here\u0027s",
+                           "start":  3.12,
+                           "duration":  4.02
+                       },
+                       {
+                           "text":  "exactly what we\u0027ll be covering in this",
+                           "start":  5.819,
+                           "duration":  2.521
+                       },
+                       {
+                           "text":  "video",
+                           "start":  7.14,
+                           "duration":  3.12
+                       },
+                       {
+                           "text":  "as always if you want more videos more",
+                           "start":  8.34,
+                           "duration":  3.839
+                       },
+                       {
+                           "text":  "often please hit the like button as it",
+                           "start":  10.26,
+                           "duration":  3.539
+                       },
+                       {
+                           "text":  "allows for our team to keep producing",
+                           "start":  12.179,
+                           "duration":  4.321
+                       },
+                       {
+                           "text":  "videos on YouTube now here\u0027s how you",
+                           "start":  13.799,
+                           "duration":  4.56
+                       },
+                       {
+                           "text":  "actually read a candlestick",
+                           "start":  16.5,
+                           "duration":  3.96
+                       },
+                       {
+                           "text":  "green candlesticks are bullish because",
+                           "start":  18.359,
+                           "duration":  4.621
+                       },
+                       {
+                           "text":  "price appreciated and went upwards for",
+                           "start":  20.46,
+                           "duration":  4.979
+                       },
+                       {
+                           "text":  "the time period red candlesticks are",
+                           "start":  22.98,
+                           "duration":  5.039
+                       },
+                       {
+                           "text":  "bearish because price depreciated and",
+                           "start":  25.439,
+                           "duration":  5.041
+                       },
+                       {
+                           "text":  "went downwards for the time period this",
+                           "start":  28.019,
+                           "duration":  4.201
+                       },
+                       {
+                           "text":  "rectangle area is known as the",
+                           "start":  30.48,
+                           "duration":  4.56
+                       },
+                       {
+                           "text":  "Candlestick body or the real body",
+                           "start":  32.22,
+                           "duration":  4.679
+                       },
+                       {
+                           "text":  "these lines that stick out above and",
+                           "start":  35.04,
+                           "duration":  3.72
+                       },
+                       {
+                           "text":  "below the Candlestick body are known as",
+                           "start":  36.899,
+                           "duration":  4.621
+                       },
+                       {
+                           "text":  "the Wicks or Shadows or tails",
+                           "start":  38.76,
+                           "duration":  4.799
+                       },
+                       {
+                           "text":  "for green candlesticks the opening price",
+                           "start":  41.52,
+                           "duration":  3.84
+                       },
+                       {
+                           "text":  "is at the bottom of the Candlestick body",
+                           "start":  43.559,
+                           "duration":  4.081
+                       },
+                       {
+                           "text":  "and then the close price is at the top",
+                           "start":  45.36,
+                           "duration":  4.019
+                       },
+                       {
+                           "text":  "of the Candlestick body",
+                           "start":  47.64,
+                           "duration":  3.72
+                       },
+                       {
+                           "text":  "for red candlesticks the opening price",
+                           "start":  49.379,
+                           "duration":  3.66
+                       },
+                       {
+                           "text":  "is at the top of the Candlestick body",
+                           "start":  51.36,
+                           "duration":  3.96
+                       },
+                       {
+                           "text":  "and the closing price is at the bottom",
+                           "start":  53.039,
+                           "duration":  5.16
+                       },
+                       {
+                           "text":  "of the Candlestick body the wick ends at",
+                           "start":  55.32,
+                           "duration":  4.62
+                       },
+                       {
+                           "text":  "the top represent the highest price",
+                           "start":  58.199,
+                           "duration":  4.2
+                       },
+                       {
+                           "text":  "point of the time period the wick ends",
+                           "start":  59.94,
+                           "duration":  4.679
+                       },
+                       {
+                           "text":  "at the bottom represent the lowest price",
+                           "start":  62.399,
+                           "duration":  5.101
+                       },
+                       {
+                           "text":  "point for the time period",
+                           "start":  64.619,
+                           "duration":  4.5
+                       },
+                       {
+                           "text":  "now what does the size of the",
+                           "start":  67.5,
+                           "duration":  4.64
+                       },
+                       {
+                           "text":  "Candlestick body tell you",
+                           "start":  69.119,
+                           "duration":  3.021
+                       },
+                       {
+                           "text":  "the bigger the Candlestick body",
+                           "start":  72.54,
+                           "duration":  4.14
+                       },
+                       {
+                           "text":  "represents momentum gain as price",
+                           "start":  74.22,
+                           "duration":  4.8
+                       },
+                       {
+                           "text":  "traveled a greater distance during that",
+                           "start":  76.68,
+                           "duration":  4.2
+                       },
+                       {
+                           "text":  "time period",
+                           "start":  79.02,
+                           "duration":  3.599
+                       },
+                       {
+                           "text":  "the smaller the Candlestick body",
+                           "start":  80.88,
+                           "duration":  4.26
+                       },
+                       {
+                           "text":  "represents momentum loss as price",
+                           "start":  82.619,
+                           "duration":  4.621
+                       },
+                       {
+                           "text":  "traveled a shorter distance during that",
+                           "start":  85.14,
+                           "duration":  3.6
+                       },
+                       {
+                           "text":  "time period",
+                           "start":  87.24,
+                           "duration":  3.36
+                       },
+                       {
+                           "text":  "when you have a very small Candlestick",
+                           "start":  88.74,
+                           "duration":  4.14
+                       },
+                       {
+                           "text":  "body or close to no body this is known",
+                           "start":  90.6,
+                           "duration":  4.559
+                       },
+                       {
+                           "text":  "as a doji which represents indecision",
+                           "start":  92.88,
+                           "duration":  4.62
+                       },
+                       {
+                           "text":  "from buyers and sellers because price",
+                           "start":  95.159,
+                           "duration":  4.5
+                       },
+                       {
+                           "text":  "swung up and swung down during that time",
+                           "start":  97.5,
+                           "duration":  4.5
+                       },
+                       {
+                           "text":  "but then closed close to the same price",
+                           "start":  99.659,
+                           "duration":  4.201
+                       },
+                       {
+                           "text":  "as where it opened from which means",
+                           "start":  102.0,
+                           "duration":  4.079
+                       },
+                       {
+                           "text":  "buyers and sellers got nowhere and again",
+                           "start":  103.86,
+                           "duration":  3.78
+                       },
+                       {
+                           "text":  "shows indecision",
+                           "start":  106.079,
+                           "duration":  3.301
+                       },
+                       {
+                           "text":  "now before we show this on the charts",
+                           "start":  107.64,
+                           "duration":  3.299
+                       },
+                       {
+                           "text":  "why are candlesticks important to",
+                           "start":  109.38,
+                           "duration":  3.739
+                       },
+                       {
+                           "text":  "understand",
+                           "start":  110.939,
+                           "duration":  2.18
+                       },
+                       {
+                           "text":  "candlesticks tell a story and are a",
+                           "start":  114.54,
+                           "duration":  4.02
+                       },
+                       {
+                           "text":  "reflection of what buyers and sellers",
+                           "start":  116.82,
+                           "duration":  3.18
+                       },
+                       {
+                           "text":  "are doing meaning the Candlestick",
+                           "start":  118.56,
+                           "duration":  3.0
+                       },
+                       {
+                           "text":  "pattern that forms at that particular",
+                           "start":  120.0,
+                           "duration":  3.299
+                       },
+                       {
+                           "text":  "Moment In Time tells you a lot about",
+                           "start":  121.56,
+                           "duration":  3.839
+                       },
+                       {
+                           "text":  "what is going on in terms of the buying",
+                           "start":  123.299,
+                           "duration":  4.261
+                       },
+                       {
+                           "text":  "and selling occurring in the market so",
+                           "start":  125.399,
+                           "duration":  3.36
+                       },
+                       {
+                           "text":  "Traders will look at Candlestick",
+                           "start":  127.56,
+                           "duration":  2.52
+                       },
+                       {
+                           "text":  "patterns and the movement of",
+                           "start":  128.759,
+                           "duration":  3.06
+                       },
+                       {
+                           "text":  "candlesticks to make trading decisions",
+                           "start":  130.08,
+                           "duration":  4.739
+                       },
+                       {
+                           "text":  "which is also known as price action now",
+                           "start":  131.819,
+                           "duration":  4.021
+                       },
+                       {
+                           "text":  "let\u0027s go through this right on the",
+                           "start":  134.819,
+                           "duration":  3.321
+                       },
+                       {
+                           "text":  "charts",
+                           "start":  135.84,
+                           "duration":  2.3
+                       },
+                       {
+                           "text":  "this here is the asset you are looking",
+                           "start":  139.2,
+                           "duration":  3.84
+                       },
+                       {
+                           "text":  "at and in this case it is the Apple",
+                           "start":  141.12,
+                           "duration":  3.18
+                       },
+                       {
+                           "text":  "stock",
+                           "start":  143.04,
+                           "duration":  3.48
+                       },
+                       {
+                           "text":  "this here is your time frame right now",
+                           "start":  144.3,
+                           "duration":  4.86
+                       },
+                       {
+                           "text":  "it shows 1D which translates to the",
+                           "start":  146.52,
+                           "duration":  4.079
+                       },
+                       {
+                           "text":  "Daily time frame meaning every",
+                           "start":  149.16,
+                           "duration":  3.42
+                       },
+                       {
+                           "text":  "Candlestick you see represents one day",
+                           "start":  150.599,
+                           "duration":  4.201
+                       },
+                       {
+                           "text":  "of time if we were to switch this to the",
+                           "start":  152.58,
+                           "duration":  4.08
+                       },
+                       {
+                           "text":  "weekly time frame it would show one W",
+                           "start":  154.8,
+                           "duration":  3.6
+                       },
+                       {
+                           "text":  "and then every Candlestick you see on",
+                           "start":  156.66,
+                           "duration":  3.719
+                       },
+                       {
+                           "text":  "screen would represent one week of time",
+                           "start":  158.4,
+                           "duration":  3.9
+                       },
+                       {
+                           "text":  "if we were to switch this to the one",
+                           "start":  160.379,
+                           "duration":  4.201
+                       },
+                       {
+                           "text":  "hour time frame it would show one H and",
+                           "start":  162.3,
+                           "duration":  3.9
+                       },
+                       {
+                           "text":  "then every Candlestick on screen would",
+                           "start":  164.58,
+                           "duration":  4.14
+                       },
+                       {
+                           "text":  "represent one hour of time this bar",
+                           "start":  166.2,
+                           "duration":  5.22
+                       },
+                       {
+                           "text":  "below tells you the date and time so if",
+                           "start":  168.72,
+                           "duration":  4.32
+                       },
+                       {
+                           "text":  "you take your mouse and place it on top",
+                           "start":  171.42,
+                           "duration":  4.08
+                       },
+                       {
+                           "text":  "of this candle here",
+                           "start":  173.04,
+                           "duration":  4.74
+                       },
+                       {
+                           "text":  "you\u0027ll see the dotted lines connecting",
+                           "start":  175.5,
+                           "duration":  4.019
+                       },
+                       {
+                           "text":  "the candle to the scale below which",
+                           "start":  177.78,
+                           "duration":  4.38
+                       },
+                       {
+                           "text":  "shows the date as January 3rd",
+                           "start":  179.519,
+                           "duration":  4.621
+                       },
+                       {
+                           "text":  "if you move your mouse one candle to the",
+                           "start":  182.16,
+                           "duration":  4.5
+                       },
+                       {
+                           "text":  "right you\u0027ll see one day later which is",
+                           "start":  184.14,
+                           "duration":  4.02
+                       },
+                       {
+                           "text":  "January 4th",
+                           "start":  186.66,
+                           "duration":  3.42
+                       },
+                       {
+                           "text":  "again because you are on the daily time",
+                           "start":  188.16,
+                           "duration":  3.9
+                       },
+                       {
+                           "text":  "frame every Candlestick represents one",
+                           "start":  190.08,
+                           "duration":  3.36
+                       },
+                       {
+                           "text":  "day of time",
+                           "start":  192.06,
+                           "duration":  3.3
+                       },
+                       {
+                           "text":  "now this bar to the right tells you the",
+                           "start":  193.44,
+                           "duration":  3.78
+                       },
+                       {
+                           "text":  "price of the asset",
+                           "start":  195.36,
+                           "duration":  3.54
+                       },
+                       {
+                           "text":  "let\u0027s say you want to know the price of",
+                           "start":  197.22,
+                           "duration":  4.019
+                       },
+                       {
+                           "text":  "this green candle here remember green",
+                           "start":  198.9,
+                           "duration":  4.559
+                       },
+                       {
+                           "text":  "candlesticks open below at the bottom of",
+                           "start":  201.239,
+                           "duration":  4.441
+                       },
+                       {
+                           "text":  "the rectangle here and close above at",
+                           "start":  203.459,
+                           "duration":  4.081
+                       },
+                       {
+                           "text":  "the top of the rectangle here so if you",
+                           "start":  205.68,
+                           "duration":  3.419
+                       },
+                       {
+                           "text":  "want to know the opening Price Place",
+                           "start":  207.54,
+                           "duration":  2.88
+                       },
+                       {
+                           "text":  "your mouse at the bottom of the",
+                           "start":  209.099,
+                           "duration":  3.301
+                       },
+                       {
+                           "text":  "rectangle and notice how the dotted",
+                           "start":  210.42,
+                           "duration":  3.84
+                       },
+                       {
+                           "text":  "lines connect the candle to the scale on",
+                           "start":  212.4,
+                           "duration":  4.74
+                       },
+                       {
+                           "text":  "the right and it shows 126 dollars and",
+                           "start":  214.26,
+                           "duration":  4.8
+                       },
+                       {
+                           "text":  "five cents which means when the market",
+                           "start":  217.14,
+                           "duration":  4.56
+                       },
+                       {
+                           "text":  "opened on January 6 the Apple stock was",
+                           "start":  219.06,
+                           "duration":  5.099
+                       },
+                       {
+                           "text":  "trading at 126 dollars and five cents",
+                           "start":  221.7,
+                           "duration":  4.14
+                       },
+                       {
+                           "text":  "now if you want to know the closing",
+                           "start":  224.159,
+                           "duration":  3.781
+                       },
+                       {
+                           "text":  "price place your mouse at the top of the",
+                           "start":  225.84,
+                           "duration":  3.42
+                       },
+                       {
+                           "text":  "rectangle",
+                           "start":  227.94,
+                           "duration":  3.06
+                       },
+                       {
+                           "text":  "look to the scale on the right and",
+                           "start":  229.26,
+                           "duration":  3.74
+                       },
+                       {
+                           "text":  "notice how it says",
+                           "start":  231.0,
+                           "duration":  4.44
+                       },
+                       {
+                           "text":  "129.61 which means when the market",
+                           "start":  233.0,
+                           "duration":  4.9
+                       },
+                       {
+                           "text":  "closed on January 6 the Apple stock",
+                           "start":  235.44,
+                           "duration":  4.879
+                       },
+                       {
+                           "text":  "finished trading at",
+                           "start":  237.9,
+                           "duration":  5.699
+                       },
+                       {
+                           "text":  "129.61 this is why green candles are",
+                           "start":  240.319,
+                           "duration":  6.041
+                       },
+                       {
+                           "text":  "bullish because price opened at 126",
+                           "start":  243.599,
+                           "duration":  6.2
+                       },
+                       {
+                           "text":  "dollars and five cents and closed at",
+                           "start":  246.36,
+                           "duration":  6.06
+                       },
+                       {
+                           "text":  "129.61 meaning the Apple stock",
+                           "start":  249.799,
+                           "duration":  4.08
+                       },
+                       {
+                           "text":  "appreciated",
+                           "start":  252.42,
+                           "duration":  5.099
+                       },
+                       {
+                           "text":  "3.56 on the trading day of January 6",
+                           "start":  253.879,
+                           "duration":  5.801
+                       },
+                       {
+                           "text":  "which is bullish price action because",
+                           "start":  257.519,
+                           "duration":  4.56
+                       },
+                       {
+                           "text":  "buying interest in the stock drove price",
+                           "start":  259.68,
+                           "duration":  5.519
+                       },
+                       {
+                           "text":  "upwards now the wick below is the lowest",
+                           "start":  262.079,
+                           "duration":  4.861
+                       },
+                       {
+                           "text":  "price that the Apple stock reached that",
+                           "start":  265.199,
+                           "duration":  3.921
+                       },
+                       {
+                           "text":  "day",
+                           "start":  266.94,
+                           "duration":  2.18
+                       },
+                       {
+                           "text":  "place your mouse at the bottom of the",
+                           "start":  269.28,
+                           "duration":  3.12
+                       },
+                       {
+                           "text":  "wick",
+                           "start":  270.96,
+                           "duration":  3.26
+                       },
+                       {
+                           "text":  "and it shows",
+                           "start":  272.4,
+                           "duration":  5.34
+                       },
+                       {
+                           "text":  "124.90 as the day\u0027s lowest price",
+                           "start":  274.22,
+                           "duration":  5.56
+                       },
+                       {
+                           "text":  "now the wick above is the highest price",
+                           "start":  277.74,
+                           "duration":  5.72
+                       },
+                       {
+                           "text":  "that the Apple stock reached that day",
+                           "start":  279.78,
+                           "duration":  3.68
+                       },
+                       {
+                           "text":  "place your mouse to the top of the wick",
+                           "start":  284.4,
+                           "duration":  5.4
+                       },
+                       {
+                           "text":  "and it shows 130 dollars and 30 cents as",
+                           "start":  286.86,
+                           "duration":  5.16
+                       },
+                       {
+                           "text":  "the day\u0027s highest price",
+                           "start":  289.8,
+                           "duration":  3.839
+                       },
+                       {
+                           "text":  "so let\u0027s say you want to know the price",
+                           "start":  292.02,
+                           "duration":  4.5
+                       },
+                       {
+                           "text":  "of this red candle here remember red",
+                           "start":  293.639,
+                           "duration":  5.28
+                       },
+                       {
+                           "text":  "candlesticks open above at the top of",
+                           "start":  296.52,
+                           "duration":  4.619
+                       },
+                       {
+                           "text":  "the rectangle here and close below at",
+                           "start":  298.919,
+                           "duration":  4.261
+                       },
+                       {
+                           "text":  "the bottom of the rectangle here for the",
+                           "start":  301.139,
+                           "duration":  4.141
+                       },
+                       {
+                           "text":  "opening price of January 3rd place your",
+                           "start":  303.18,
+                           "duration":  4.14
+                       },
+                       {
+                           "text":  "mouse at the top of the rectangle and it",
+                           "start":  305.28,
+                           "duration":  5.699
+                       },
+                       {
+                           "text":  "shows 130 dollars and twenty four cents",
+                           "start":  307.32,
+                           "duration":  5.64
+                       },
+                       {
+                           "text":  "for the closing price of January 3rd",
+                           "start":  310.979,
+                           "duration":  3.361
+                       },
+                       {
+                           "text":  "place your mouse at the bottom of the",
+                           "start":  312.96,
+                           "duration":  4.44
+                       },
+                       {
+                           "text":  "rectangle and it shows 125 dollars and",
+                           "start":  314.34,
+                           "duration":  4.859
+                       },
+                       {
+                           "text":  "13 cents",
+                           "start":  317.4,
+                           "duration":  3.72
+                       },
+                       {
+                           "text":  "this is why red candlesticks are bearish",
+                           "start":  319.199,
+                           "duration":  4.321
+                       },
+                       {
+                           "text":  "because price open at 130 dollars and 24",
+                           "start":  321.12,
+                           "duration":  4.579
+                       },
+                       {
+                           "text":  "cents and closed at",
+                           "start":  323.52,
+                           "duration":  4.739
+                       },
+                       {
+                           "text":  "125.13 meaning the Apple stock",
+                           "start":  325.699,
+                           "duration":  5.141
+                       },
+                       {
+                           "text":  "depreciated by five dollars and eleven",
+                           "start":  328.259,
+                           "duration":  4.921
+                       },
+                       {
+                           "text":  "cents on January 3rd which is bearish",
+                           "start":  330.84,
+                           "duration":  4.26
+                       },
+                       {
+                           "text":  "price action",
+                           "start":  333.18,
+                           "duration":  4.019
+                       },
+                       {
+                           "text":  "the wick below is the lowest price that",
+                           "start":  335.1,
+                           "duration":  5.539
+                       },
+                       {
+                           "text":  "the Apple stock reached that day",
+                           "start":  337.199,
+                           "duration":  3.44
+                       },
+                       {
+                           "text":  "place your mouse at the bottom of the",
+                           "start":  341.4,
+                           "duration":  3.139
+                       },
+                       {
+                           "text":  "wick and it shows",
+                           "start":  342.9,
+                           "duration":  5.82
+                       },
+                       {
+                           "text":  "124.21 as the day\u0027s lowest price",
+                           "start":  344.539,
+                           "duration":  6.761
+                       },
+                       {
+                           "text":  "the wick above is the highest price that",
+                           "start":  348.72,
+                           "duration":  6.14
+                       },
+                       {
+                           "text":  "the Apple stock reached that day",
+                           "start":  351.3,
+                           "duration":  3.56
+                       },
+                       {
+                           "text":  "place your mouse at the top of the wick",
+                           "start":  355.259,
+                           "duration":  3.561
+                       },
+                       {
+                           "text":  "and it shows",
+                           "start":  357.3,
+                           "duration":  5.76
+                       },
+                       {
+                           "text":  "130.93 as the day\u0027s highest price",
+                           "start":  358.82,
+                           "duration":  5.74
+                       },
+                       {
+                           "text":  "so if you want to use the exact same",
+                           "start":  363.06,
+                           "duration":  3.12
+                       },
+                       {
+                           "text":  "charting platform we are using right now",
+                           "start":  364.56,
+                           "duration":  5.22
+                       },
+                       {
+                           "text":  "go to tools.wisetrade.com",
+                           "start":  366.18,
+                           "duration":  3.6
+                       },
+                       {
+                           "text":  "now when you see more red candles than",
+                           "start":  370.38,
+                           "duration":  3.599
+                       },
+                       {
+                           "text":  "green candles this represents a",
+                           "start":  372.24,
+                           "duration":  3.899
+                       },
+                       {
+                           "text":  "downtrend and bearish price action and a",
+                           "start":  373.979,
+                           "duration":  4.56
+                       },
+                       {
+                           "text":  "depreciation of the asset as Sellers and",
+                           "start":  376.139,
+                           "duration":  4.56
+                       },
+                       {
+                           "text":  "bears continue to sell more of the asset",
+                           "start":  378.539,
+                           "duration":  4.981
+                       },
+                       {
+                           "text":  "causing the push downwards when you see",
+                           "start":  380.699,
+                           "duration":  5.22
+                       },
+                       {
+                           "text":  "more green candles than red candles this",
+                           "start":  383.52,
+                           "duration":  4.32
+                       },
+                       {
+                           "text":  "represents an uptrend and bullish price",
+                           "start":  385.919,
+                           "duration":  4.201
+                       },
+                       {
+                           "text":  "action and an appreciation of the asset",
+                           "start":  387.84,
+                           "duration":  4.68
+                       },
+                       {
+                           "text":  "as buyers and Bulls continue to buy more",
+                           "start":  390.12,
+                           "duration":  4.859
+                       },
+                       {
+                           "text":  "of the asset causing the push upwards",
+                           "start":  392.52,
+                           "duration":  4.14
+                       },
+                       {
+                           "text":  "when you see a bunch of green candles",
+                           "start":  394.979,
+                           "duration":  3.961
+                       },
+                       {
+                           "text":  "together one after the other this Show\u0027s",
+                           "start":  396.66,
+                           "duration":  5.64
+                       },
+                       {
+                           "text":  "price is gaining more upwards momentum",
+                           "start":  398.94,
+                           "duration":  4.92
+                       },
+                       {
+                           "text":  "when you see a bunch of red candles",
+                           "start":  402.3,
+                           "duration":  3.6
+                       },
+                       {
+                           "text":  "together one after the other this Show\u0027s",
+                           "start":  403.86,
+                           "duration":  4.559
+                       },
+                       {
+                           "text":  "prices gaining more downwards momentum",
+                           "start":  405.9,
+                           "duration":  4.44
+                       },
+                       {
+                           "text":  "when you see a mix of both red and green",
+                           "start":  408.419,
+                           "duration":  3.601
+                       },
+                       {
+                           "text":  "candles together and sideways price",
+                           "start":  410.34,
+                           "duration":  3.18
+                       },
+                       {
+                           "text":  "movement this shows indecision",
+                           "start":  412.02,
+                           "duration":  4.26
+                       },
+                       {
+                           "text":  "consolidation in a choppy Market so",
+                           "start":  413.52,
+                           "duration":  4.5
+                       },
+                       {
+                           "text":  "before we continue we want to hear from",
+                           "start":  416.28,
+                           "duration":  3.66
+                       },
+                       {
+                           "text":  "you tell us in the comments below right",
+                           "start":  418.02,
+                           "duration":  3.959
+                       },
+                       {
+                           "text":  "now what topics we should cover next as",
+                           "start":  419.94,
+                           "duration":  3.78
+                       },
+                       {
+                           "text":  "we always look at the comments to decide",
+                           "start":  421.979,
+                           "duration":  4.211
+                       },
+                       {
+                           "text":  "on next video topics",
+                           "start":  423.72,
+                           "duration":  3.78
+                       },
+                       {
+                           "text":  "[Music]",
+                           "start":  426.19,
+                           "duration":  3.53
+                       },
+                       {
+                           "text":  "also please hit the like button as it",
+                           "start":  427.5,
+                           "duration":  3.96
+                       },
+                       {
+                           "text":  "allows for our team to continue to",
+                           "start":  429.72,
+                           "duration":  5.039
+                       },
+                       {
+                           "text":  "produce free YouTube videos",
+                           "start":  431.46,
+                           "duration":  7.26
+                       },
+                       {
+                           "text":  "so how do you identify an uptrend",
+                           "start":  434.759,
+                           "duration":  6.601
+                       },
+                       {
+                           "text":  "you have your runs here",
+                           "start":  438.72,
+                           "duration":  5.699
+                       },
+                       {
+                           "text":  "and your pullbacks here",
+                           "start":  441.36,
+                           "duration":  5.16
+                       },
+                       {
+                           "text":  "which means an uptrend makes higher",
+                           "start":  444.419,
+                           "duration":  4.081
+                       },
+                       {
+                           "text":  "highs and higher lows",
+                           "start":  446.52,
+                           "duration":  4.079
+                       },
+                       {
+                           "text":  "from a price action standpoint a moving",
+                           "start":  448.5,
+                           "duration":  4.319
+                       },
+                       {
+                           "text":  "uptrend shows bullish momentum and that",
+                           "start":  450.599,
+                           "duration":  4.32
+                       },
+                       {
+                           "text":  "the buyers are in control so you lean",
+                           "start":  452.819,
+                           "duration":  3.901
+                       },
+                       {
+                           "text":  "towards taking long entries to trade",
+                           "start":  454.919,
+                           "duration":  5.641
+                       },
+                       {
+                           "text":  "with the moving upwards herd momentum",
+                           "start":  456.72,
+                           "duration":  6.18
+                       },
+                       {
+                           "text":  "so now how do you identify a trend",
+                           "start":  460.56,
+                           "duration":  5.4
+                       },
+                       {
+                           "text":  "change from an uptrend to a downtrend",
+                           "start":  462.9,
+                           "duration":  5.579
+                       },
+                       {
+                           "text":  "type 1. you have your moving uptrend",
+                           "start":  465.96,
+                           "duration":  4.2
+                       },
+                       {
+                           "text":  "through the higher highs and higher lows",
+                           "start":  468.479,
+                           "duration":  4.081
+                       },
+                       {
+                           "text":  "before a lower low forms signaling a",
+                           "start":  470.16,
+                           "duration":  4.259
+                       },
+                       {
+                           "text":  "trend change from an uptrend to a",
+                           "start":  472.56,
+                           "duration":  3.359
+                       },
+                       {
+                           "text":  "downtrend",
+                           "start":  474.419,
+                           "duration":  3.9
+                       },
+                       {
+                           "text":  "type 2 you have your moving uptrend to",
+                           "start":  475.919,
+                           "duration":  4.141
+                       },
+                       {
+                           "text":  "the higher highs and higher lows before",
+                           "start":  478.319,
+                           "duration":  3.72
+                       },
+                       {
+                           "text":  "you have a lower low form",
+                           "start":  480.06,
+                           "duration":  4.62
+                       },
+                       {
+                           "text":  "followed by a lower high pullback before",
+                           "start":  482.039,
+                           "duration":  4.621
+                       },
+                       {
+                           "text":  "the full Trend change breakout and lower",
+                           "start":  484.68,
+                           "duration":  4.28
+                       },
+                       {
+                           "text":  "low",
+                           "start":  486.66,
+                           "duration":  2.3
+                       },
+                       {
+                           "text":  "type 3",
+                           "start":  489.24,
+                           "duration":  3.0
+                       },
+                       {
+                           "text":  "you have your uptrend through the higher",
+                           "start":  490.56,
+                           "duration":  3.84
+                       },
+                       {
+                           "text":  "highs and higher lows before you have a",
+                           "start":  492.24,
+                           "duration":  4.2
+                       },
+                       {
+                           "text":  "lower high that forms signaling a trend",
+                           "start":  494.4,
+                           "duration":  5.22
+                       },
+                       {
+                           "text":  "change from an uptrend to a downtrend",
+                           "start":  496.44,
+                           "duration":  7.319
+                       },
+                       {
+                           "text":  "so how do you identify a downtrend",
+                           "start":  499.62,
+                           "duration":  7.199
+                       },
+                       {
+                           "text":  "you have your runs here",
+                           "start":  503.759,
+                           "duration":  5.821
+                       },
+                       {
+                           "text":  "and your pullbacks here",
+                           "start":  506.819,
+                           "duration":  4.38
+                       },
+                       {
+                           "text":  "which means a downtrend makes lower",
+                           "start":  509.58,
+                           "duration":  3.959
+                       },
+                       {
+                           "text":  "highs and lower lows",
+                           "start":  511.199,
+                           "duration":  4.321
+                       },
+                       {
+                           "text":  "from a price action standpoint a moving",
+                           "start":  513.539,
+                           "duration":  3.901
+                       },
+                       {
+                           "text":  "downtrend shows bearish momentum and",
+                           "start":  515.52,
+                           "duration":  3.66
+                       },
+                       {
+                           "text":  "that the sellers are in control so you",
+                           "start":  517.44,
+                           "duration":  3.42
+                       },
+                       {
+                           "text":  "lean towards taking short entries to",
+                           "start":  519.18,
+                           "duration":  3.84
+                       },
+                       {
+                           "text":  "trade with the moving downwards herd",
+                           "start":  520.86,
+                           "duration":  3.96
+                       },
+                       {
+                           "text":  "momentum",
+                           "start":  523.02,
+                           "duration":  3.6
+                       },
+                       {
+                           "text":  "so now how do you identify a trend",
+                           "start":  524.82,
+                           "duration":  4.62
+                       },
+                       {
+                           "text":  "change from a downtrend to an uptrend",
+                           "start":  526.62,
+                           "duration":  4.92
+                       },
+                       {
+                           "text":  "type one you have your moving downtrend",
+                           "start":  529.44,
+                           "duration":  3.899
+                       },
+                       {
+                           "text":  "to the lower highs and lower lows before",
+                           "start":  531.54,
+                           "duration":  3.84
+                       },
+                       {
+                           "text":  "a higher high forms signaling a trend",
+                           "start":  533.339,
+                           "duration":  5.341
+                       },
+                       {
+                           "text":  "change from a downtrend to an uptrend",
+                           "start":  535.38,
+                           "duration":  5.94
+                       },
+                       {
+                           "text":  "type two you have your moving downtrend",
+                           "start":  538.68,
+                           "duration":  4.62
+                       },
+                       {
+                           "text":  "the lower highs and lower lows before",
+                           "start":  541.32,
+                           "duration":  4.32
+                       },
+                       {
+                           "text":  "you have a higher high form followed by",
+                           "start":  543.3,
+                           "duration":  4.56
+                       },
+                       {
+                           "text":  "a higher low pullback before the full",
+                           "start":  545.64,
+                           "duration":  5.759
+                       },
+                       {
+                           "text":  "Trend change breakout and higher high",
+                           "start":  547.86,
+                           "duration":  6.18
+                       },
+                       {
+                           "text":  "three you have your movie downtrend",
+                           "start":  551.399,
+                           "duration":  4.62
+                       },
+                       {
+                           "text":  "through the lower highs and lower lows",
+                           "start":  554.04,
+                           "duration":  3.84
+                       },
+                       {
+                           "text":  "before you have a higher low that forms",
+                           "start":  556.019,
+                           "duration":  3.421
+                       },
+                       {
+                           "text":  "first followed by a trend change",
+                           "start":  557.88,
+                           "duration":  4.2
+                       },
+                       {
+                           "text":  "breakout and higher high",
+                           "start":  559.44,
+                           "duration":  5.1
+                       },
+                       {
+                           "text":  "so how do you identify a sideways",
+                           "start":  562.08,
+                           "duration":  4.68
+                       },
+                       {
+                           "text":  "ranging Market",
+                           "start":  564.54,
+                           "duration":  5.64
+                       },
+                       {
+                           "text":  "price is making same highs and same lows",
+                           "start":  566.76,
+                           "duration":  6.0
+                       },
+                       {
+                           "text":  "and moving in a sideways Direction",
+                           "start":  570.18,
+                           "duration":  4.74
+                       },
+                       {
+                           "text":  "in markets like this look to take trades",
+                           "start":  572.76,
+                           "duration":  5.46
+                       },
+                       {
+                           "text":  "in both directions with confidence",
+                           "start":  574.92,
+                           "duration":  7.02
+                       },
+                       {
+                           "text":  "so how do you identify momentum gain",
+                           "start":  578.22,
+                           "duration":  5.82
+                       },
+                       {
+                           "text":  "the first way to identify momentum gain",
+                           "start":  581.94,
+                           "duration":  4.38
+                       },
+                       {
+                           "text":  "is to look for tight price movement in",
+                           "start":  584.04,
+                           "duration":  4.5
+                       },
+                       {
+                           "text":  "an uptrend notice how prices vary tight",
+                           "start":  586.32,
+                           "duration":  4.44
+                       },
+                       {
+                           "text":  "together without wide swings which shows",
+                           "start":  588.54,
+                           "duration":  4.5
+                       },
+                       {
+                           "text":  "buyers are in full control and that not",
+                           "start":  590.76,
+                           "duration":  4.019
+                       },
+                       {
+                           "text":  "enough sellers are in the market to",
+                           "start":  593.04,
+                           "duration":  3.6
+                       },
+                       {
+                           "text":  "cause swings in the opposite direction",
+                           "start":  594.779,
+                           "duration":  4.74
+                       },
+                       {
+                           "text":  "you want to trade with this upwards gain",
+                           "start":  596.64,
+                           "duration":  5.16
+                       },
+                       {
+                           "text":  "of momentum and not against it",
+                           "start":  599.519,
+                           "duration":  3.781
+                       },
+                       {
+                           "text":  "in the opposite direction in the",
+                           "start":  601.8,
+                           "duration":  4.02
+                       },
+                       {
+                           "text":  "downtrend notice again how price is very",
+                           "start":  603.3,
+                           "duration":  4.979
+                       },
+                       {
+                           "text":  "tight together without wide swings which",
+                           "start":  605.82,
+                           "duration":  4.44
+                       },
+                       {
+                           "text":  "shows that sellers are in full control",
+                           "start":  608.279,
+                           "duration":  3.901
+                       },
+                       {
+                           "text":  "and that there are not enough buyers in",
+                           "start":  610.26,
+                           "duration":  3.78
+                       },
+                       {
+                           "text":  "the market to cause swings in the",
+                           "start":  612.18,
+                           "duration":  3.36
+                       },
+                       {
+                           "text":  "opposite direction you want to trade",
+                           "start":  614.04,
+                           "duration":  4.26
+                       },
+                       {
+                           "text":  "with this downwards gain of momentum and",
+                           "start":  615.54,
+                           "duration":  4.2
+                       },
+                       {
+                           "text":  "not against it",
+                           "start":  618.3,
+                           "duration":  3.719
+                       },
+                       {
+                           "text":  "so the second way to identify momentum",
+                           "start":  619.74,
+                           "duration":  5.039
+                       },
+                       {
+                           "text":  "gain is candles growing in size in an",
+                           "start":  622.019,
+                           "duration":  4.44
+                       },
+                       {
+                           "text":  "uptrend notice how each candle is",
+                           "start":  624.779,
+                           "duration":  3.661
+                       },
+                       {
+                           "text":  "getting larger and larger and moving a",
+                           "start":  626.459,
+                           "duration":  4.021
+                       },
+                       {
+                           "text":  "greater distance per candle which shows",
+                           "start":  628.44,
+                           "duration":  4.14
+                       },
+                       {
+                           "text":  "a gain in bullish momentum you want to",
+                           "start":  630.48,
+                           "duration":  4.44
+                       },
+                       {
+                           "text":  "trade with this gain of momentum and not",
+                           "start":  632.58,
+                           "duration":  3.84
+                       },
+                       {
+                           "text":  "against it",
+                           "start":  634.92,
+                           "duration":  3.539
+                       },
+                       {
+                           "text":  "and then a downtrend notice again how",
+                           "start":  636.42,
+                           "duration":  3.78
+                       },
+                       {
+                           "text":  "each candle is getting larger and larger",
+                           "start":  638.459,
+                           "duration":  3.961
+                       },
+                       {
+                           "text":  "and moving a greater distance per candle",
+                           "start":  640.2,
+                           "duration":  4.079
+                       },
+                       {
+                           "text":  "which shows a gain and bearish momentum",
+                           "start":  642.42,
+                           "duration":  3.9
+                       },
+                       {
+                           "text":  "you want to trade with this gain of",
+                           "start":  644.279,
+                           "duration":  5.041
+                       },
+                       {
+                           "text":  "bearish momentum and not against it",
+                           "start":  646.32,
+                           "duration":  6.9
+                       },
+                       {
+                           "text":  "so how do you identify momentum loss",
+                           "start":  649.32,
+                           "duration":  6.12
+                       },
+                       {
+                           "text":  "the first way to identify momentum loss",
+                           "start":  653.22,
+                           "duration":  4.02
+                       },
+                       {
+                           "text":  "is to look for wide swings of price",
+                           "start":  655.44,
+                           "duration":  4.86
+                       },
+                       {
+                           "text":  "after tight price movement so this",
+                           "start":  657.24,
+                           "duration":  4.8
+                       },
+                       {
+                           "text":  "uptrend here is tight price movement",
+                           "start":  660.3,
+                           "duration":  3.479
+                       },
+                       {
+                           "text":  "which means the buyers are in full",
+                           "start":  662.04,
+                           "duration":  3.9
+                       },
+                       {
+                           "text":  "control you then had wide swings",
+                           "start":  663.779,
+                           "duration":  4.261
+                       },
+                       {
+                           "text":  "occurring which shows momentum loss and",
+                           "start":  665.94,
+                           "duration":  3.66
+                       },
+                       {
+                           "text":  "that the buyers are no longer in",
+                           "start":  668.04,
+                           "duration":  3.299
+                       },
+                       {
+                           "text":  "complete control and can lead to a",
+                           "start":  669.6,
+                           "duration":  4.14
+                       },
+                       {
+                           "text":  "possible reversal of price if paired",
+                           "start":  671.339,
+                           "duration":  4.62
+                       },
+                       {
+                           "text":  "with Trend change price action going in",
+                           "start":  673.74,
+                           "duration":  3.539
+                       },
+                       {
+                           "text":  "the opposite direction",
+                           "start":  675.959,
+                           "duration":  3.241
+                       },
+                       {
+                           "text":  "this downtrend here is tight price",
+                           "start":  677.279,
+                           "duration":  3.721
+                       },
+                       {
+                           "text":  "movement which means the sellers are in",
+                           "start":  679.2,
+                           "duration":  3.9
+                       },
+                       {
+                           "text":  "full control you then had wide swings",
+                           "start":  681.0,
+                           "duration":  4.14
+                       },
+                       {
+                           "text":  "occurring which shows momentum loss and",
+                           "start":  683.1,
+                           "duration":  3.78
+                       },
+                       {
+                           "text":  "that the sellers are no longer in",
+                           "start":  685.14,
+                           "duration":  3.48
+                       },
+                       {
+                           "text":  "complete control and can lead to a",
+                           "start":  686.88,
+                           "duration":  3.72
+                       },
+                       {
+                           "text":  "possible reversal of price if paired",
+                           "start":  688.62,
+                           "duration":  4.38
+                       },
+                       {
+                           "text":  "with Trend change price action",
+                           "start":  690.6,
+                           "duration":  4.62
+                       },
+                       {
+                           "text":  "the second way to identify momentum loss",
+                           "start":  693.0,
+                           "duration":  4.56
+                       },
+                       {
+                           "text":  "is to look for shrinking candles in a",
+                           "start":  695.22,
+                           "duration":  4.08
+                       },
+                       {
+                           "text":  "downtrend notice how you start with a",
+                           "start":  697.56,
+                           "duration":  3.54
+                       },
+                       {
+                           "text":  "big red candle and then every candle",
+                           "start":  699.3,
+                           "duration":  4.08
+                       },
+                       {
+                           "text":  "after gets smaller and smaller which",
+                           "start":  701.1,
+                           "duration":  4.5
+                       },
+                       {
+                           "text":  "shows a loss of downwards momentum as",
+                           "start":  703.38,
+                           "duration":  4.38
+                       },
+                       {
+                           "text":  "the distance traveled per candle is less",
+                           "start":  705.6,
+                           "duration":  4.08
+                       },
+                       {
+                           "text":  "and less this can lead to a possible",
+                           "start":  707.76,
+                           "duration":  4.259
+                       },
+                       {
+                           "text":  "reversal of price",
+                           "start":  709.68,
+                           "duration":  4.44
+                       },
+                       {
+                           "text":  "in an uptrend notice how you start with",
+                           "start":  712.019,
+                           "duration":  4.32
+                       },
+                       {
+                           "text":  "a big green candle and then every candle",
+                           "start":  714.12,
+                           "duration":  4.38
+                       },
+                       {
+                           "text":  "after gets smaller and smaller which",
+                           "start":  716.339,
+                           "duration":  4.5
+                       },
+                       {
+                           "text":  "shows a loss of upwards momentum as the",
+                           "start":  718.5,
+                           "duration":  4.2
+                       },
+                       {
+                           "text":  "distance traveled per candle is less and",
+                           "start":  720.839,
+                           "duration":  3.721
+                       },
+                       {
+                           "text":  "less this can lead to a possible",
+                           "start":  722.7,
+                           "duration":  4.139
+                       },
+                       {
+                           "text":  "reversal of price",
+                           "start":  724.56,
+                           "duration":  4.38
+                       },
+                       {
+                           "text":  "the third way to identify momentum loss",
+                           "start":  726.839,
+                           "duration":  3.721
+                       },
+                       {
+                           "text":  "is to look for a candle color change",
+                           "start":  728.94,
+                           "duration":  3.66
+                       },
+                       {
+                           "text":  "after you have consecutive candles of",
+                           "start":  730.56,
+                           "duration":  4.08
+                       },
+                       {
+                           "text":  "the same color in the downtrend notice",
+                           "start":  732.6,
+                           "duration":  4.08
+                       },
+                       {
+                           "text":  "that you have all right candles before a",
+                           "start":  734.64,
+                           "duration":  4.02
+                       },
+                       {
+                           "text":  "green candle appears this shows momentum",
+                           "start":  736.68,
+                           "duration":  4.02
+                       },
+                       {
+                           "text":  "loss because price failed to produce",
+                           "start":  738.66,
+                           "duration":  4.44
+                       },
+                       {
+                           "text":  "another candle with a lower low closing",
+                           "start":  740.7,
+                           "duration":  4.5
+                       },
+                       {
+                           "text":  "price and instead made a higher closing",
+                           "start":  743.1,
+                           "duration":  4.2
+                       },
+                       {
+                           "text":  "price through the green candle this can",
+                           "start":  745.2,
+                           "duration":  5.22
+                       },
+                       {
+                           "text":  "lead to a possible reversal of price",
+                           "start":  747.3,
+                           "duration":  5.159
+                       },
+                       {
+                           "text":  "in an uptrend notice how you have all",
+                           "start":  750.42,
+                           "duration":  3.539
+                       },
+                       {
+                           "text":  "green candles before a red candle",
+                           "start":  752.459,
+                           "duration":  3.781
+                       },
+                       {
+                           "text":  "appears this shows momentum loss because",
+                           "start":  753.959,
+                           "duration":  4.32
+                       },
+                       {
+                           "text":  "price failed to produce another candle",
+                           "start":  756.24,
+                           "duration":  4.32
+                       },
+                       {
+                           "text":  "with a higher high closing price and",
+                           "start":  758.279,
+                           "duration":  3.901
+                       },
+                       {
+                           "text":  "instead made a lower closing price",
+                           "start":  760.56,
+                           "duration":  3.719
+                       },
+                       {
+                           "text":  "through the red candle this can lead to",
+                           "start":  762.18,
+                           "duration":  4.52
+                       },
+                       {
+                           "text":  "a possible reversal of price",
+                           "start":  764.279,
+                           "duration":  4.68
+                       },
+                       {
+                           "text":  "if you want to take your trading to the",
+                           "start":  766.7,
+                           "duration":  3.879
+                       },
+                       {
+                           "text":  "next level head on over to our website",
+                           "start":  768.959,
+                           "duration":  4.081
+                       },
+                       {
+                           "text":  "at ystrade.com as we have a ton of",
+                           "start":  770.579,
+                           "duration":  4.38
+                       },
+                       {
+                           "text":  "content on our site that won\u0027t ever be",
+                           "start":  773.04,
+                           "duration":  4.7
+                       },
+                       {
+                           "text":  "available on YouTube",
+                           "start":  774.959,
+                           "duration":  2.781
+                       },
+                       {
+                           "text":  "make sure to hit the like button on this",
+                           "start":  778.76,
+                           "duration":  4.48
+                       },
+                       {
+                           "text":  "video as it allows for our team to",
+                           "start":  781.019,
+                           "duration":  4.56
+                       },
+                       {
+                           "text":  "continue to produce more free videos on",
+                           "start":  783.24,
+                           "duration":  4.74
+                       },
+                       {
+                           "text":  "YouTube also make sure to follow us on",
+                           "start":  785.579,
+                           "duration":  4.741
+                       },
+                       {
+                           "text":  "our Instagram account at y Street so",
+                           "start":  787.98,
+                           "duration":  3.659
+                       },
+                       {
+                           "text":  "thanks for watching and I\u0027ll see you in",
+                           "start":  790.32,
+                           "duration":  1.92
+                       },
+                       {
+                           "text":  "the next episode",
+                           "start":  791.639,
+                           "duration":  11.481
+                       },
+                       {
+                           "text":  "[Music]",
+                           "start":  792.24,
+                           "duration":  13.21
+                       },
+                       {
+                           "text":  "thank you",
+                           "start":  803.12,
+                           "duration":  5.45
+                       },
+                       {
+                           "text":  "[Music]",
+                           "start":  805.45,
+                           "duration":  3.12
+                       }
+                   ],
+    "metadata":  {
+                     "title":  "How To Read Candlestick Charts FAST (Beginner\u0027s Guide)",
+                     "author_name":  "Wysetrade",
+                     "author_url":  "https://www.youtube.com/channel/UC32oVb-nfyRBNlWzUw3dC5Q",
+                     "thumbnail_url":  "https://i.ytimg.com/vi/AOz1YPOKvEs/sddefault.jpg"
+                 },
+    "length_seconds":  809,
+    "lengthText":  "13:29"
+}

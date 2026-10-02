@@ -1,0 +1,19 @@
+description: "WF04 - Build the cloned YouTube Analytics Dashboard demo and copy it into project outputs."
+type: chain
+working_dir: "C:/Users/Admin/youtube/dagu"
+dotenv: []
+shell: "powershell.exe"
+shell_args:
+  - "-NoProfile"
+  - "-ExecutionPolicy"
+  - "Bypass"
+  - "-Command"
+steps:
+  - id: validate_run_records
+    run: Set-Location C:\Users\Admin\youtube; python scripts\validate_run_record.py outputs\runs
+  - id: build_vendor_demo
+    run: Set-Location C:\Users\Admin\youtube\vendor\youtube-analytics-dashboard; $env:PYTHONUTF8='1'; python build_dashboard.py --demo
+  - id: copy_demo_dashboard
+    run: Set-Location C:\Users\Admin\youtube; Copy-Item vendor\youtube-analytics-dashboard\dashboard.html outputs\dashboard\youtube-analytics-demo.html -Force
+  - id: dashboard_url
+    run: Write-Host "Open file:///C:/Users/Admin/youtube/outputs/dashboard/youtube-analytics-demo.html"

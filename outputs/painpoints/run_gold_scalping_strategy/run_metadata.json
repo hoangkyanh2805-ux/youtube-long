@@ -1,0 +1,73 @@
+{
+  "source": "youtube-data-api-v3/commentThreads.list",
+  "query": "gold scalping strategy",
+  "input": null,
+  "started_at": "2026-10-01T13:27:23.640423+00:00",
+  "quota_cost_per_call": 1,
+  "search_api_calls": 1,
+  "search_quota_units": 100,
+  "total_api_calls": 9,
+  "total_quota_units": 108,
+  "videos": [
+    {
+      "video_id": "en8RMFRqSME",
+      "threads_fetched": 100,
+      "comments_flat": 147,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "I29peidTQxU",
+      "threads_fetched": 100,
+      "comments_flat": 205,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "xXy2CBssQQA",
+      "threads_fetched": 95,
+      "comments_flat": 153,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "3E7k47dZeWk",
+      "threads_fetched": 91,
+      "comments_flat": 118,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "nCBF6wrOKic",
+      "threads_fetched": 100,
+      "comments_flat": 117,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "sK-_6uIGMck",
+      "threads_fetched": 100,
+      "comments_flat": 155,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "fSp-jMvNOhE",
+      "threads_fetched": 27,
+      "comments_flat": 41,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "XBcMiYK7qYY",
+      "threads_fetched": 100,
+      "comments_flat": 239,
+      "api_calls": 1,
+      "status": "ok"
+    }
+  ],
+  "finished_at": "2026-10-01T13:27:34.683164+00:00",
+  "total_raw_rows": 1175,
+  "total_normalized": 1175,
+  "total_painpoint_candidates": 362
+}

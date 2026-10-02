@@ -1,0 +1,39 @@
+description: "WF21 - Weekly operating review: rebuild reports, refresh analytics dashboard, and post the weekly summary to GENERAL."
+type: chain
+working_dir: "C:/Users/Admin/youtube/dagu"
+dotenv: []
+shell: "powershell.exe"
+shell_args:
+  - "-NoProfile"
+  - "-ExecutionPolicy"
+  - "Bypass"
+  - "-Command"
+schedule: "0 9 * * 1"
+hist_retention_days: 90
+tags:
+  - weekly
+  - review
+steps:
+  - id: sync_workflows
+    run: Set-Location C:\Users\Admin\youtube; python scripts\sync_dagu_workflows.py
+
+  - id: validate_run_records
+    run: Set-Location C:\Users\Admin\youtube; python scripts\validate_run_record.py outputs\runs
+
+  - id: rebuild_strategy
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_strategy.py
+
+  - id: rebuild_playbook
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_mrbeast_playbook.py
+
+  - id: refresh_analytics_dashboard
+    run: Set-Location C:\Users\Admin\youtube; python scripts\refresh_youtube_analytics_dashboard.py
+
+  - id: rebuild_ops_dashboard
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_ops_dashboard.py
+
+  - id: weekly_report
+    run: Set-Location C:\Users\Admin\youtube; python scripts\telegram_reporter.py --report pipeline_health --send --approve APPROVE
+
+  - id: final_note
+    run: Write-Host "WF21 complete. Review the analytics dashboard and pick one weekly move."

@@ -1,0 +1,83 @@
+{
+  "source": "youtube-data-api-v3/commentThreads.list",
+  "started_at": "2026-10-01T13:19:40.501950+00:00",
+  "quota_cost_per_call": 1,
+  "total_api_calls": 10,
+  "total_quota_units": 10,
+  "videos": [
+    {
+      "video_id": "Aw54JvrSnk4",
+      "threads_fetched": 1,
+      "comments_flat": 2,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "jXGNsDAdTOI",
+      "threads_fetched": 1,
+      "comments_flat": 1,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "NTuWmNLWdfo",
+      "threads_fetched": 1,
+      "comments_flat": 1,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "p9DYQ-8_F7g",
+      "threads_fetched": 4,
+      "comments_flat": 7,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "3qQ5G_DCLdc",
+      "threads_fetched": 1,
+      "comments_flat": 1,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "4dm-6MhQ5_c",
+      "threads_fetched": 3,
+      "comments_flat": 5,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "yZuXzg9MHfI",
+      "threads_fetched": 1,
+      "comments_flat": 2,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "4e1duYMKJhc",
+      "threads_fetched": 3,
+      "comments_flat": 7,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "_lt1prpCOeI",
+      "threads_fetched": 1,
+      "comments_flat": 2,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "pFYFLVlZqRg",
+      "threads_fetched": 1,
+      "comments_flat": 1,
+      "api_calls": 1,
+      "status": "ok"
+    }
+  ],
+  "finished_at": "2026-10-01T13:19:46.554054+00:00",
+  "total_raw_rows": 29,
+  "total_normalized": 29,
+  "total_painpoint_candidates": 8
+}

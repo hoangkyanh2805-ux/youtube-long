@@ -1,0 +1,1006 @@
+{
+  "source": "n-gram mining — audience language from comment text",
+  "count": 500,
+  "top_longtail": [
+    {
+      "phrase": "stop loss",
+      "freq": 43,
+      "words": 2
+    },
+    {
+      "phrase": "supply demand",
+      "freq": 36,
+      "words": 2
+    },
+    {
+      "phrase": "market structure",
+      "freq": 33,
+      "words": 2
+    },
+    {
+      "phrase": "risk management",
+      "freq": 29,
+      "words": 2
+    },
+    {
+      "phrase": "daily bias",
+      "freq": 23,
+      "words": 2
+    },
+    {
+      "phrase": "swing trading",
+      "freq": 21,
+      "words": 2
+    },
+    {
+      "phrase": "trading strategy",
+      "freq": 20,
+      "words": 2
+    },
+    {
+      "phrase": "started trading",
+      "freq": 19,
+      "words": 2
+    },
+    {
+      "phrase": "paper trading",
+      "freq": 15,
+      "words": 2
+    },
+    {
+      "phrase": "prop firms",
+      "freq": 15,
+      "words": 2
+    },
+    {
+      "phrase": "support resistance",
+      "freq": 13,
+      "words": 2
+    },
+    {
+      "phrase": "prop firm",
+      "freq": 12,
+      "words": 2
+    },
+    {
+      "phrase": "every day",
+      "freq": 12,
+      "words": 2
+    },
+    {
+      "phrase": "order block",
+      "freq": 12,
+      "words": 2
+    },
+    {
+      "phrase": "orb strategy",
+      "freq": 11,
+      "words": 2
+    },
+    {
+      "phrase": "candle candle",
+      "freq": 10,
+      "words": 2
+    },
+    {
+      "phrase": "chart examples",
+      "freq": 10,
+      "words": 2
+    },
+    {
+      "phrase": "learning trade",
+      "freq": 9,
+      "words": 2
+    },
+    {
+      "phrase": "stop losses",
+      "freq": 9,
+      "words": 2
+    },
+    {
+      "phrase": "liquidity sweep",
+      "freq": 9,
+      "words": 2
+    },
+    {
+      "phrase": "trading without",
+      "freq": 9,
+      "words": 2
+    },
+    {
+      "phrase": "trade trade",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "trading years",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "minute scalping",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "per day",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "money trading",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "break structure",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "trading real",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "trading journey",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "ict concepts",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "following strategy",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "learn trade",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "entry points",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "entry model",
+      "freq": 8,
+      "words": 2
+    },
+    {
+      "phrase": "trading without proper",
+      "freq": 8,
+      "words": 3
+    },
+    {
+      "phrase": "trading without proper guidance",
+      "freq": 8,
+      "words": 4
+    },
+    {
+      "phrase": "demand zones",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "profitable trader",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "trading account",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "trading isnt",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "demand supply",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "live trade",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "start trading",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "higher timeframe",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "per trade",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "risk reward",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "strategy work",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "essential mentor",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "mentor keep",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "trade analyst",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "strategic entry",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "provided risk",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "risk assessments",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "investor essential mentor",
+      "freq": 7,
+      "words": 3
+    },
+    {
+      "phrase": "essential mentor keep",
+      "freq": 7,
+      "words": 3
+    },
+    {
+      "phrase": "mentor keep accountable",
+      "freq": 7,
+      "words": 3
+    },
+    {
+      "phrase": "trade analyst guided",
+      "freq": 7,
+      "words": 3
+    },
+    {
+      "phrase": "pinpointed strategic entry",
+      "freq": 7,
+      "words": 3
+    },
+    {
+      "phrase": "strategic entry points",
+      "freq": 7,
+      "words": 3
+    },
+    {
+      "phrase": "entry points provided",
+      "freq": 7,
+      "words": 3
+    },
+    {
+      "phrase": "points provided risk",
+      "freq": 7,
+      "words": 3
+    },
+    {
+      "phrase": "provided risk assessments",
+      "freq": 7,
+      "words": 3
+    },
+    {
+      "phrase": "risk assessments ensuring",
+      "freq": 7,
+      "words": 3
+    },
+    {
+      "phrase": "beginner investor essential mentor",
+      "freq": 7,
+      "words": 4
+    },
+    {
+      "phrase": "investor essential mentor keep",
+      "freq": 7,
+      "words": 4
+    },
+    {
+      "phrase": "essential mentor keep accountable",
+      "freq": 7,
+      "words": 4
+    },
+    {
+      "phrase": "trade analyst guided identify",
+      "freq": 7,
+      "words": 4
+    },
+    {
+      "phrase": "trends pinpointed strategic entry",
+      "freq": 7,
+      "words": 4
+    },
+    {
+      "phrase": "pinpointed strategic entry points",
+      "freq": 7,
+      "words": 4
+    },
+    {
+      "phrase": "strategic entry points provided",
+      "freq": 7,
+      "words": 4
+    },
+    {
+      "phrase": "entry points provided risk",
+      "freq": 7,
+      "words": 4
+    },
+    {
+      "phrase": "points provided risk assessments",
+      "freq": 7,
+      "words": 4
+    },
+    {
+      "phrase": "provided risk assessments ensuring",
+      "freq": 7,
+      "words": 4
+    },
+    {
+      "phrase": "risk assessments ensuring trades",
+      "freq": 7,
+      "words": 4
+    },
+    {
+      "phrase": "manage risk",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "trade while",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "entry exit",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "forex trading",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "strategy works",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "new trading",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "trade trend",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "simple strategy",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "learn trading",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "demo trading",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "love trading",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "demand zone",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "day trading",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "risk tolerance",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "daily candle",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "min candle",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "nice setup",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "risk control",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "changed trading",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "move stop",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "move stop loss",
+      "freq": 5,
+      "words": 3
+    },
+    {
+      "phrase": "order blocks",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "small profit",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "trading patience",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "forex fury",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "supply demand zones",
+      "freq": 5,
+      "words": 3
+    },
+    {
+      "phrase": "youtube trading",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "swing trader",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "bias entry",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "demand strategy",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "supply demand strategy",
+      "freq": 5,
+      "words": 3
+    },
+    {
+      "phrase": "last candle",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "trade real",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "set stop",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "set stop loss",
+      "freq": 5,
+      "words": 3
+    },
+    {
+      "phrase": "trading demo",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "draw liquidity",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "best strategy",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "every setup",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "new trader",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "trade without",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "liquidity strategy",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "learned trade",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "trade live",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "every trade",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "pat strategy",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "trading stocks",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "trade forex",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "enter trade",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "right mentor",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "mentor side",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "opportunities right mentor",
+      "freq": 5,
+      "words": 3
+    },
+    {
+      "phrase": "right mentor side",
+      "freq": 5,
+      "words": 3
+    },
+    {
+      "phrase": "mentor side keeps",
+      "freq": 5,
+      "words": 3
+    },
+    {
+      "phrase": "right opportunities right mentor",
+      "freq": 5,
+      "words": 4
+    },
+    {
+      "phrase": "opportunities right mentor side",
+      "freq": 5,
+      "words": 4
+    },
+    {
+      "phrase": "right mentor side keeps",
+      "freq": 5,
+      "words": 4
+    },
+    {
+      "phrase": "mentor side keeps steady",
+      "freq": 5,
+      "words": 4
+    },
+    {
+      "phrase": "mentor keep accountable chris",
+      "freq": 5,
+      "words": 4
+    },
+    {
+      "phrase": "looks chart",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "hour candle",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "entry timing",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "time timeframe",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "timeframe period",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "time timeframe period",
+      "freq": 5,
+      "words": 3
+    },
+    {
+      "phrase": "profitable trading",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "scalping strategies",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "different minute scalping",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "minute scalping strategies",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "scalping strategies always",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "tried different minute scalping",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "different minute scalping strategies",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "minute scalping strategies always",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "scalping strategies always stopped",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "ict concept",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "trading advice",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "trading mistake",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "trading advice anyone",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "first started trading",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "started trading mistake",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "trading mistake reacting",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "trading advice anyone new",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "charts first started trading",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "first started trading mistake",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "started trading mistake reacting",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "trading mistake reacting every",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "stop looking",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "landing trading",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "stop looking minute",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "started landing trading",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "landing trading patience",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "trading patience execution",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "stop looking minute charts",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "hits started landing trading",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "started landing trading patience",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "landing trading patience execution",
+      "freq": 4,
+      "words": 4
+    },
+    {
+      "phrase": "ict himself",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "liquidity concept",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "trading pay",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "day small",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "moves trade",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "trend minute",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "minute chart",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "chart ema",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "profit close",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "small trade",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "trade done",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "done day",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "day psychology",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "psychology stopped",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "turn trade",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "trade started",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "started trading pay",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "trading pay bills",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "die per day",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "per day small",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "day small pre",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "market moves trade",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "moves trade trend",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "trade trend minute",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "trend minute chart",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "minute chart ema",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "chart ema vwap",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "hard small profit",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "small profit close",
+      "freq": 4,
+      "words": 3
+    },
+    {
+      "phrase": "profit close small",
+      "freq": 4,
+      "words": 3
+    }
+  ]
+}

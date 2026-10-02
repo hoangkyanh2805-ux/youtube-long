@@ -1,0 +1,19 @@
+description: "WF06 - Lead, offer, and revenue learning local package without external broadcast."
+type: chain
+working_dir: "C:/Users/Admin/youtube/dagu"
+dotenv: []
+shell: "powershell.exe"
+shell_args:
+  - "-NoProfile"
+  - "-ExecutionPolicy"
+  - "Bypass"
+  - "-Command"
+steps:
+  - id: validate_run_records
+    run: Set-Location C:\Users\Admin\youtube; python scripts\validate_run_record.py outputs\runs
+  - id: build_sheet_payload_dry_run
+    run: Set-Location C:\Users\Admin\youtube; python scripts\sheet_sync_payload.py --root . --output-dir outputs\sheets
+  - id: refresh_dashboard
+    run: Set-Location C:\Users\Admin\youtube; python scripts\daily_report_renderer.py --root . --date 2026-10-01
+  - id: final_note
+    run: Write-Host "WF06 local funnel payload prepared. Pricing, offer, Sheet write, and Telegram broadcast require L3 approval."

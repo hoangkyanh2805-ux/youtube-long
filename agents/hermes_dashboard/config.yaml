@@ -1,0 +1,16 @@
+# Hermes Dashboard Agent Config
+
+hermes_dashboard:
+  youtube_data_path: ../../data/
+  content_bridge_path: ../../data/
+  trade_journal_path: ../../data/
+  telegram_gateway_path: ../../data/
+  dashboard_path: dashboard/
+  reports_path: reports/
+  report_frequency:
+    daily: true
+    weekly: true
+  alert_thresholds:
+    subs_growth_negative: -5
+    views_drop_percent: 30
+    engagement_rate_low: 1

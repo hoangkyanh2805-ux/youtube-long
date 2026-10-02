@@ -1,0 +1,31 @@
+# Google Sheet Operator Agent Config
+
+google_sheet_operator:
+  sheet_url: https://docs.google.com/spreadsheets/d/1-iUAsn_soGh2a9w7KtUdZHxvZCQpcPaX5Zy9YFtTiRE/edit?usp=sharing
+  sheet_id: 1-iUAsn_soGh2a9w7KtUdZHxvZCQpcPaX5Zy9YFtTiRE
+  credentials_path: ${GOOGLE_SHEETS_CREDENTIALS_PATH}
+  credentials_path_fallback: ${GOOGLE_APPLICATION_CREDENTIALS}
+  apply_script: ../../scripts/google_sheet_apply.py
+  apply_report_path: ../../outputs/sheets/sheet_apply_report.json
+  sheets:
+    - Dashboard
+    - Video Inventory
+    - Shorts Pipeline
+    - Live Pipeline
+    - Remake Candidates
+    - Trade Journal
+    - Offer Funnel
+    - Lead Log
+    - Pain Points
+    - Agent Tasks
+    - Daily Report
+  sync_frequency: 15min
+  data_sources:
+    - ../../data/video_inventory.csv
+    - ../../data/pain_points_master.csv
+    - ../../data/trade_journal.csv
+    - ../../data/leads.csv
+  guardrails:
+    live_apply_requires: --approve APPLY
+    read_back_required: true
+    destructive_rewrite_requires_human: true

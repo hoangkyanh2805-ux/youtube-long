@@ -1,0 +1,91 @@
+description: "WF22 - Daily content pipeline with a human approval gate. Crawls comments, scores pain points, then WAITS in the dagu UI for Alan to approve before the brief reaches the editor."
+type: graph
+working_dir: "C:/Users/Admin/youtube/dagu"
+dotenv: []
+shell: "powershell.exe"
+shell_args:
+  - "-NoProfile"
+  - "-ExecutionPolicy"
+  - "Bypass"
+  - "-Command"
+schedule: "30 7 * * *"
+hist_retention_days: 30
+tags:
+  - daily
+  - content
+  - approval-gate
+steps:
+  - id: sync_workflows
+    run: Set-Location C:\Users\Admin\youtube; python scripts\sync_dagu_workflows.py
+
+  - id: validate_run_records
+    run: Set-Location C:\Users\Admin\youtube; python scripts\validate_run_record.py outputs\runs
+
+  - id: scrape_comments
+    run: Set-Location C:\Users\Admin\youtube; python scripts\competitor_longform_scrape.py
+
+  - id: score_painpoints
+    run: Set-Location C:\Users\Admin\youtube; python scripts\extract_painpoints.py outputs\competitor_longform\raw_comments.json --output-dir outputs\competitor_longform --actor youtube-data-api-v3/commentThreads.list
+
+  - id: rebuild_strategy
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_strategy.py
+
+  - id: rebuild_dashboard
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_ops_dashboard.py
+
+  - id: send_painpoints_for_review
+    run: Set-Location C:\Users\Admin\youtube; python scripts\telegram_reporter.py --report comment --send --approve APPROVE
+
+  # ── APPROVAL GATE ────────────────────────────────────────────────────────
+  # Pipeline stops here. Alan opens the dagu UI, reads the artifact, and either
+  # completes the task (pipeline continues to the editor brief) or pushes it
+  # back to rebuild_strategy with feedback (pipeline rewinds and re-runs).
+  - id: approve_content_brief
+    action: human.task
+    depends: [send_painpoints_for_review, rebuild_strategy]
+    with:
+      prompt: >-
+        Alan: review the pain points in the Telegram COMMENT topic, then approve
+        to send today's brief (3 Shorts + 1 Long) to the editor, or push back
+        with feedback to rebuild the strategy.
+      artifacts:
+        - ops-dashboard.html
+      form:
+        type: object
+        title: Content approval
+        properties:
+          decision:
+            type: string
+            title: Decision
+            description: Approve to release the brief, or reject to stop the pipeline.
+            enum:
+              - approve
+              - reject
+          note:
+            type: string
+            title: Note (optional)
+            description: Why, or what to change next time.
+            maxLength: 500
+        required:
+          - decision
+      push_back:
+        rewind_to: rebuild_strategy
+        form:
+          type: object
+          title: Feedback to rebuild the strategy
+          properties:
+            feedback:
+              type: string
+              title: What to change
+              description: Which pain points to drop, or which angle to prioritise.
+              maxLength: 500
+          required:
+            - feedback
+
+  - id: brief_to_editor
+    run: Set-Location C:\Users\Admin\youtube; python scripts\telegram_reporter.py --report content_brief --send --approve APPROVE
+    depends: [approve_content_brief]
+
+  - id: final_note
+    run: Write-Host "WF22 complete. Alan approved, brief delivered to the EDIT topic, editor can start."
+    depends: [brief_to_editor]

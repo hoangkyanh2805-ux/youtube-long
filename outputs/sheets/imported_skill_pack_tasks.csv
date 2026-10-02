@@ -1,0 +1,6 @@
+task_id,agent,source_repo,task,output,status,human_gate
+T-010,Learning Tutor Agent,bevibing/tutor-skills,"Turn approved checklist Short into lesson and quiz","outputs/learning/study_vault/","Backlog","Review before Telegram use"
+T-011,YouTube Workflow Agent,ZeroPointRepo/youtube-skills,"Enrich top 5 remake candidates with transcript topics","data/processed/transcript_topics.csv","Backlog","Approve paid/bulk TranscriptAPI run"
+T-012,Platform UX Agent,ehmo/platform-design-skills,"Review daily report, Sheet payload, Telegram draft, dashboard surface","outputs/audit/platform_ux_review.md","Backlog","None for local review"
+T-013,Aegis Guardrail Auditor,GanyuanRan/Aegis,"Run baseline/evidence/drift check before Sheet sync or Telegram send","outputs/audit/aegis_guardrail_report.md","Backlog","Required for external actions"
+T-014,Founder Ops Agent,ognjengt/founder-skills + gvkhosla/founder-skills,"Write weekly founder brief from metrics and funnel status","outputs/founder/weekly_founder_brief.md","Backlog","Approval for offer/pricing changes"

@@ -1,0 +1,73 @@
+{
+  "source": "youtube-data-api-v3/commentThreads.list",
+  "query": "gold price action trading",
+  "input": null,
+  "started_at": "2026-10-01T13:26:35.312691+00:00",
+  "quota_cost_per_call": 1,
+  "search_api_calls": 1,
+  "search_quota_units": 100,
+  "total_api_calls": 9,
+  "total_quota_units": 108,
+  "videos": [
+    {
+      "video_id": "lfQ5v950YX8",
+      "threads_fetched": 11,
+      "comments_flat": 14,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "0L6Rcgp6j7Y",
+      "threads_fetched": 100,
+      "comments_flat": 209,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "5mw_y1HK_rI",
+      "threads_fetched": 16,
+      "comments_flat": 17,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "sK-_6uIGMck",
+      "threads_fetched": 100,
+      "comments_flat": 155,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "Qgx3t-pmzN8",
+      "threads_fetched": 100,
+      "comments_flat": 140,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "MKJz4yURCEs",
+      "threads_fetched": 100,
+      "comments_flat": 118,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "3E7k47dZeWk",
+      "threads_fetched": 91,
+      "comments_flat": 118,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "7HD5ZG2MmeQ",
+      "threads_fetched": 91,
+      "comments_flat": 128,
+      "api_calls": 1,
+      "status": "ok"
+    }
+  ],
+  "finished_at": "2026-10-01T13:26:48.300987+00:00",
+  "total_raw_rows": 899,
+  "total_normalized": 899,
+  "total_painpoint_candidates": 254
+}

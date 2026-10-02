@@ -1,0 +1,19 @@
+description: "WF01 - New topic to local publish-ready content package."
+type: chain
+working_dir: "C:/Users/Admin/youtube/dagu"
+dotenv: []
+shell: "powershell.exe"
+shell_args:
+  - "-NoProfile"
+  - "-ExecutionPolicy"
+  - "Bypass"
+  - "-Command"
+steps:
+  - id: validate_run_records
+    run: Set-Location C:\Users\Admin\youtube; python scripts\validate_run_record.py outputs\runs
+  - id: generate_content_drafts
+    run: Set-Location C:\Users\Admin\youtube; python scripts\content_bridge.py --candidates data\processed\remake_candidates_api.csv --output-dir outputs\content --short-limit 5 --live-limit 2
+  - id: refresh_dashboard
+    run: Set-Location C:\Users\Admin\youtube; python scripts\daily_report_renderer.py --root . --date 2026-10-01
+  - id: final_note
+    run: Write-Host "WF01 local draft package generated. Human approval is required before recording, upload, or publish."

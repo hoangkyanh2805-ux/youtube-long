@@ -1,0 +1,25 @@
+# Telegram Gateway Agent Config
+
+telegram_gateway:
+  bot_token: ${TELEGRAM_BOT_TOKEN}
+  chat_id: ${TELEGRAM_CHAT_ID}
+  thread_id: ${TELEGRAM_THREAD_ID}
+  telegram_logs_path: telegram_logs/
+  leads_path: ../../data/leads.csv
+  runtime_script: ../../scripts/telegram_gateway.py
+  chat_id_discovery:
+    command: python scripts/telegram_gateway.py --discover-chat-id
+    setup: Add the bot to the target group or forum topic, send one message, then run discovery.
+  commands:
+    - /diagnose
+    - /remake
+    - /painpoints
+    - /report
+    - /next
+  guardrails:
+    broadcast_require_approval: true
+    send_requires: --approve APPROVE
+    dry_run_first: true
+    sales_copy_draft_only: true
+    no_auto_publish: true
+  github_reference: https://github.com/ChiefDojer/telegram-bot-base

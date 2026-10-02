@@ -1,0 +1,8 @@
+workflow_id,name,primary_owner,trigger,required_output,human_gate,feedback_destination,status
+WF01,New Topic to Published Video,Hermes Orchestrator,Approved topic,publish-ready package and measurement plan,"Topic; script; final publish",Channel Brain and Founder Memory,READY
+WF02,Competitor and Keyword to Backlog,youtube_data,Research request or scheduled review,evidence-backed priority backlog,Backlog approval,Content Bridge and Channel Brain,READY
+WF03,Long Video to Shorts Remake Thumbnail,content_bridge,Approved master or remake candidate,shorts remake chart and thumbnail asset package,Final asset approval,Editor rules and Prompt Registry,READY
+WF04,Upload to Funnel Optimization,hermes_dashboard,Ready-to-publish video or metric review,upload record funnel diagnosis and experiment log,"Publish; title or thumbnail change",Dashboard and Channel Brain,READY
+WF05,Comment to Audience Insight,telegram_gateway,New comments or community review,reply queue escalation list and pain points,Sensitive replies and sales CTA,Content Bridge and FAQ,READY
+WF06,Audience to Lead Offer Revenue,founder_ops,Approved offer window,funnel package lead log and revenue report,"Offer; pricing; broadcast",Founder Memory and Product Plan,READY
+WF07,Weekly Review to Workflow Improvement,founder_ops,Weekly cycle or repeated error,decision brief improvement backlog and version log,Strategy or permission changes,Skills Prompt Registry and Founder Memory,READY

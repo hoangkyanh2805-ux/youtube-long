@@ -1,0 +1,34 @@
+# Learning Tutor Agent Config
+
+learning_tutor:
+  source_pattern: bevibing/tutor-skills
+  source_url: https://github.com/bevibing/tutor-skills
+  mode: internal_adapter
+  install_status: installed_in_codex
+  installed_skills:
+    - tutor-setup
+    - tutor
+  inputs:
+    shorts_scripts: ../../outputs/content/shorts_scripts.md
+    live_agenda: ../../outputs/content/live_agenda.md
+    pain_points: ../../data/pain_points_master.csv
+    remake_candidates: ../../data/processed/remake_candidates.csv
+  outputs:
+    study_vault_dashboard: ../../outputs/learning/study_vault/dashboard.md
+    concept_dir: ../../outputs/learning/study_vault/concepts/
+    quiz_dir: ../../outputs/learning/study_vault/quizzes/
+  lesson_defaults:
+    audience: XAUUSD beginner or losing trader
+    telegram_keyword: CHECKLIST
+    quiz_questions_per_concept: 4
+    proficiency_levels:
+      weak: 0-39
+      fair: 40-69
+      good: 70-89
+      mastered: 90-100
+  guardrails:
+    educational_only: true
+    no_profit_guarantees: true
+    no_personal_financial_advice: true
+    no_auto_publish: true
+

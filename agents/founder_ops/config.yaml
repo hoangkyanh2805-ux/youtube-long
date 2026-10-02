@@ -1,0 +1,53 @@
+# Founder Ops Agent Config
+
+founder_ops:
+  source_patterns:
+    - ognjengt/founder-skills
+    - gvkhosla/founder-skills
+  source_urls:
+    - https://github.com/ognjengt/founder-skills
+    - https://github.com/gvkhosla/founder-skills
+  mode: internal_adapter
+  install_status: installed_in_codex
+  installed_skills:
+    - sop-creator
+    - cro-optimization
+    - viral-hook-creator
+    - lead-magnet-generator
+    - strategic-planning
+    - go-to-market-plan
+    - x-writer
+    - linkedin-writer
+    - outreach-specialist
+    - competitor-intel
+    - brand-copywriter
+    - pricing-strategist
+    - prd-generator
+    - product-hunt-launch-plan
+    - marketing-ideas
+  cadence:
+    weekly_review: true
+    daily_override_if_blocked: true
+  inputs:
+    daily_status: ../../outputs/reports/daily_status.md
+    video_inventory: ../../data/processed/video_inventory.csv
+    remake_candidates: ../../data/processed/remake_candidates.csv
+    content_calendar: ../../outputs/content/content_calendar.csv
+    leads: ../../data/leads.csv
+    trade_journal: ../../data/trade_journal.csv
+    aegis_report: ../../outputs/audit/aegis_guardrail_report.md
+  outputs:
+    weekly_brief: ../../outputs/founder/weekly_founder_brief.md
+    founder_context: ../../knowledge/distilled/founder-context.md
+  decision_contract:
+    verdict: required
+    recommended_move: exactly_one
+    concrete_steps_max: 3
+    proof_metric: required
+    memory_update: required
+  guardrails:
+    no_offer_change_without_approval: true
+    no_external_send: true
+    no_profit_guarantees: true
+    preserve_strategy_loop: Shorts -> Live -> Telegram -> Offer
+

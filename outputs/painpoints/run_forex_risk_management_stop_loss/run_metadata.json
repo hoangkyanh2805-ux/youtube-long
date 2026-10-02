@@ -1,0 +1,73 @@
+{
+  "source": "youtube-data-api-v3/commentThreads.list",
+  "query": "forex risk management stop loss",
+  "input": null,
+  "started_at": "2026-10-01T13:26:49.594874+00:00",
+  "quota_cost_per_call": 1,
+  "search_api_calls": 1,
+  "search_quota_units": 100,
+  "total_api_calls": 9,
+  "total_quota_units": 108,
+  "videos": [
+    {
+      "video_id": "npfiV52dXoc",
+      "threads_fetched": 100,
+      "comments_flat": 161,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "JrDNeM9p2J4",
+      "threads_fetched": 100,
+      "comments_flat": 215,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "smtAdlhwFHA",
+      "threads_fetched": 92,
+      "comments_flat": 131,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "v_8HUVzO-rw",
+      "threads_fetched": 80,
+      "comments_flat": 123,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "-zrFkI1cm4o",
+      "threads_fetched": 100,
+      "comments_flat": 120,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "Dyg4lZo89sM",
+      "threads_fetched": 25,
+      "comments_flat": 47,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "_D1MYH6D7jc",
+      "threads_fetched": 100,
+      "comments_flat": 117,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "7f2bpEwiJCY",
+      "threads_fetched": 100,
+      "comments_flat": 129,
+      "api_calls": 1,
+      "status": "ok"
+    }
+  ],
+  "finished_at": "2026-10-01T13:27:06.756286+00:00",
+  "total_raw_rows": 1043,
+  "total_normalized": 1043,
+  "total_painpoint_candidates": 284
+}

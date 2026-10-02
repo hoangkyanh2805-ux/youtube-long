@@ -1,0 +1,70 @@
+# ===== BÍ MẬT — KHÔNG BAO GIỜ COMMIT =====
+.env
+.env.*
+!.env.example
+secrets/
+token.json
+*token*.json
+client_secret*.json
+*service_account*.json
+hermess-*.json
+*.pem
+*.key
+*.p12
+credentials*.json
+
+# ===== DEPENDENCY / BUILD (nặng, tái tạo được) =====
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ===== TOOL NHỊ PHÂN NẶNG (>200MB, tải lại được) =====
+tools/cloudflared/
+tools/ffmpeg/
+tools/VectCutAPI/
+tools/capcut-mcp/
+tools/*/.venv/
+*.exe
+*.dll
+*.pyd
+*.so
+
+# ===== SẢN PHẨM MEDIA (nặng, sinh lại được) =====
+# outputs/production: 8,592 ảnh frame + video (1 GB) — sinh lại được, không commit
+outputs/production/
+outputs/capcut_drafts/
+outputs/**/*.mp4
+outputs/**/*.wav
+outputs/**/*.mov
+outputs/**/*.mp3
+outputs/**/*.jpg
+outputs/**/*.png
+outputs/**/*.zip
+# Giữ lại dữ liệu nhỏ có giá trị
+!outputs/reports/**
+!outputs/strategy/**
+!outputs/dashboard/**
+!outputs/audit/**
+!outputs/mrbeast_audit/**
+!outputs/sheets/**
+
+# ===== RUNTIME / LOG / CACHE =====
+.dagu-local/logs/
+.dagu-local/data/
+.dagu-local/*.log
+*.log
+.dashboard_serve.json
+cache/
+*.tmp
+
+# ===== OS / EDITOR =====
+Thumbs.db
+desktop.ini
+.DS_Store
+.idea/

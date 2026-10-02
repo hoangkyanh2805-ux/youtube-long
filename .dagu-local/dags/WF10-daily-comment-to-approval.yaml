@@ -1,0 +1,28 @@
+description: "WF10 - Daily comment scrape to approval: crawl comments, score pain points, report to Telegram COMMENT topic."
+type: chain
+working_dir: "C:/Users/Admin/youtube/dagu"
+dotenv: []
+shell: "powershell.exe"
+shell_args:
+  - "-NoProfile"
+  - "-ExecutionPolicy"
+  - "Bypass"
+  - "-Command"
+steps:
+  - id: validate_run_records
+    run: Set-Location C:\Users\Admin\youtube; python scripts\validate_run_record.py outputs\runs
+
+  - id: scrape_longform_comments
+    run: Set-Location C:\Users\Admin\youtube; python scripts\competitor_longform_scrape.py
+
+  - id: build_painpoint_pool
+    run: Set-Location C:\Users\Admin\youtube; python scripts\extract_painpoints.py outputs\competitor_longform\raw_comments.json --output-dir outputs\competitor_longform --actor youtube-data-api-v3/commentThreads.list
+
+  - id: refresh_dashboard
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_ops_dashboard.py
+
+  - id: report_to_comment_topic
+    run: Set-Location C:\Users\Admin\youtube; python scripts\telegram_reporter.py --report comment --send --approve APPROVE
+
+  - id: final_note
+    run: Write-Host "WF10 done. Alan reviews the COMMENT topic (thread 206) and approves pain points for tomorrow's content."

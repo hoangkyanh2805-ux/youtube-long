@@ -1,0 +1,16 @@
+# Trading Runtime Agent Config
+
+trade_runtime:
+  market_data:
+    enabled: false
+    api_key: ${MARKET_DATA_API_KEY}
+  signal_generation:
+    enabled: false
+    strategy: xauusd_trading
+  trade_journal:
+    path: ../../data/trade_journal.csv
+  signals:
+    path: signals/
+  guardrails:
+    no_auto_execute: true
+    no_live_trade: true

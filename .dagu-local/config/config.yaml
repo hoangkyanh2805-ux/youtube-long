@@ -1,0 +1,12 @@
+# Local-only dagu config for a single-machine setup.
+#
+# Two things are deliberately turned off:
+#   coordinator: gRPC task queue that requires a separate `dagu worker`
+#                process to dequeue runs. On one machine it only adds a
+#                failure mode (runs sit in "queued" forever).
+#   auth:        the web UI binds to 127.0.0.1 only, and requiring login
+#                would block the local API calls the scripts and MCP use.
+coordinator:
+  enabled: false
+auth:
+  mode: none

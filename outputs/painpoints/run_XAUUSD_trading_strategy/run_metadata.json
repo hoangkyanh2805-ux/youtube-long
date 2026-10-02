@@ -1,0 +1,73 @@
+{
+  "source": "youtube-data-api-v3/commentThreads.list",
+  "query": "XAUUSD trading strategy",
+  "input": null,
+  "started_at": "2026-10-01T13:26:23.291107+00:00",
+  "quota_cost_per_call": 1,
+  "search_api_calls": 1,
+  "search_quota_units": 100,
+  "total_api_calls": 9,
+  "total_quota_units": 108,
+  "videos": [
+    {
+      "video_id": "3E7k47dZeWk",
+      "threads_fetched": 91,
+      "comments_flat": 118,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "Er7rWHlwlqU",
+      "threads_fetched": 64,
+      "comments_flat": 68,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "MKJz4yURCEs",
+      "threads_fetched": 100,
+      "comments_flat": 115,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "AY7fWmE1CBk",
+      "threads_fetched": 100,
+      "comments_flat": 166,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "NW53PqrXCXA",
+      "threads_fetched": 19,
+      "comments_flat": 23,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "G0o72fvqHis",
+      "threads_fetched": 7,
+      "comments_flat": 7,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "RRK4bjdS7ks",
+      "threads_fetched": 9,
+      "comments_flat": 8,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "7HD5ZG2MmeQ",
+      "threads_fetched": 91,
+      "comments_flat": 128,
+      "api_calls": 1,
+      "status": "ok"
+    }
+  ],
+  "finished_at": "2026-10-01T13:26:34.361566+00:00",
+  "total_raw_rows": 633,
+  "total_normalized": 633,
+  "total_painpoint_candidates": 198
+}

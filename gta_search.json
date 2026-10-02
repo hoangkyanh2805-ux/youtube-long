@@ -1,0 +1,2212 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3FtvSt6cPLvg6iZ6EtiWr3nU-FU",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 92,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-f8z42VECSgq-W_7qlSlf_5XSP4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jhaw9IfX0Wo"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-28T10:33:52Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 29/9/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jhaw9IfX0Wo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jhaw9IfX0Wo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jhaw9IfX0Wo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jhaw9IfX0Wo/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jhaw9IfX0Wo/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2026-09-28T10:33:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vKL170WOq6fMl7mkzE9HaycaUWA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "muqGnzlvDS8"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-27T12:00:16Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Smart Entries In Strong Trend I Forex trading Xauusd",
+        "description": "Forex trading XAUUSD is one of the most popular ways traders participate in the global financial markets, especially when ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/muqGnzlvDS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/muqGnzlvDS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/muqGnzlvDS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/muqGnzlvDS8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/muqGnzlvDS8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-27T12:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4Ox-FbINUqsDwvGS9-elclDkL7E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OmTAuCL6Xvs"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-26T11:00:03Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "How Market Structure Starts To Reversal I Forex trading Xauusd",
+        "description": "Forex trading XAUUSD is one of the most popular ways traders participate in the global financial markets, especially when ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OmTAuCL6Xvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OmTAuCL6Xvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OmTAuCL6Xvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OmTAuCL6Xvs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OmTAuCL6Xvs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-26T11:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w5gCis-hefo-NvJ8qII_WjDy6CA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ttnP6ys-SdQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-25T18:31:27Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 24/9/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ttnP6ys-SdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ttnP6ys-SdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ttnP6ys-SdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ttnP6ys-SdQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ttnP6ys-SdQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-25T18:31:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "saP-VRCsQJB7K7OpM7xtFmpAe_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Uwl8mYSIDVI"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-25T12:55:47Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 28/9/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uwl8mYSIDVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uwl8mYSIDVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uwl8mYSIDVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uwl8mYSIDVI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uwl8mYSIDVI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-25T12:55:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aHtaEAd_Q94uuRiI5xOMYmohufw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LRP8KyOe278"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-16T14:54:11Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 16/9/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LRP8KyOe278/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LRP8KyOe278/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LRP8KyOe278/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LRP8KyOe278/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LRP8KyOe278/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-16T14:54:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pGWrIlQjwOZMk5WIcA0hw4TOA1Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FtTdmuKoTBg"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-12T12:00:29Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "SMC Bearish Entry Setup I Forex trading Xauusd",
+        "description": "Forex trading XAUUSD is one of the most popular ways traders participate in the global financial markets, especially when ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FtTdmuKoTBg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FtTdmuKoTBg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FtTdmuKoTBg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FtTdmuKoTBg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FtTdmuKoTBg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-12T12:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uq4PU5UqInBIb2y4NAomEGaGNH8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aMz5NW6vr8Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T12:00:24Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Smart Trend Reversal Strategy I Forex trading Xauusd",
+        "description": "Forex trading XAUUSD is one of the most popular ways traders participate in the global financial markets, especially when ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aMz5NW6vr8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aMz5NW6vr8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aMz5NW6vr8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aMz5NW6vr8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aMz5NW6vr8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T12:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QJ0m26AuaArIkCUyDsVNsll2SVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ATVSJg8vyyM"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-08T15:18:26Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 8/9/2026 - GOLD TRADER ALLIANCE #cpi",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ATVSJg8vyyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ATVSJg8vyyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ATVSJg8vyyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ATVSJg8vyyM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ATVSJg8vyyM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-08T15:18:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6Ki-0637-BbaCYPVo9GPmXsILnM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sfhwGXwrEoE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-07T14:22:44Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 7/9/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sfhwGXwrEoE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sfhwGXwrEoE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sfhwGXwrEoE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sfhwGXwrEoE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sfhwGXwrEoE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-07T14:22:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xgR9tgJVN8JQ2HLzta2B1c11Udo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sg7c0WIroA8"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-02T12:00:34Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Don&#39;t Trade Gold Without Knowing This #xauusd #trading #forex",
+        "description": "Forex trading XAUUSD is one of the most popular ways traders participate in the global financial markets, especially when ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sg7c0WIroA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sg7c0WIroA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sg7c0WIroA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Sg7c0WIroA8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Sg7c0WIroA8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-02T12:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zPliOQI0Vs-10T-I3Q336DKrNAw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ATxjC6bYxsg"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-08T12:00:16Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "This Liquidity Strategy That Works Everyday I Forex trading Xauusd",
+        "description": "Forex trading XAUUSD is one of the most popular ways traders participate in the global financial markets, especially when ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ATxjC6bYxsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ATxjC6bYxsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ATxjC6bYxsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ATxjC6bYxsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ATxjC6bYxsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-08T12:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Uz_LoMYI5UPH7p_UJ149w8HNOCQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Aw54JvrSnk4"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-03T13:16:28Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 3/8/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aw54JvrSnk4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aw54JvrSnk4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aw54JvrSnk4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aw54JvrSnk4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aw54JvrSnk4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-03T13:16:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EqFvExWq4cX0SSGa_I-6tSlZIXg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x8EPzy07M6c"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-30T14:13:33Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 30/7/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x8EPzy07M6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x8EPzy07M6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x8EPzy07M6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x8EPzy07M6c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x8EPzy07M6c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-30T14:13:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wjg1sGR5uIm8aIq0gue64ApwAsw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jXGNsDAdTOI"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-27T10:50:33Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 27/7/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jXGNsDAdTOI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jXGNsDAdTOI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jXGNsDAdTOI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jXGNsDAdTOI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jXGNsDAdTOI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-27T10:50:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KJuOrASkuoo4yXmO6v7DrXN9hMM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "464FLwzcq88"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-10T13:15:40Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 10/7/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/464FLwzcq88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/464FLwzcq88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/464FLwzcq88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/464FLwzcq88/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/464FLwzcq88/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-10T13:15:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7GDr-8WkYfT5aWeNWn16skH5Afk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ax9I4cYrfx4"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-09T15:05:24Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 9/7/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ax9I4cYrfx4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ax9I4cYrfx4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ax9I4cYrfx4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ax9I4cYrfx4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ax9I4cYrfx4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-09T15:05:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TjGAjEn3okGvtmvUqWNNA6KT8Sg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Hzj2OYtIH50"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-08T13:01:20Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 8/7/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hzj2OYtIH50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hzj2OYtIH50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hzj2OYtIH50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hzj2OYtIH50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hzj2OYtIH50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-08T13:01:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iU54hfnWNpD2t2lyIilDHGampzc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dDasa4crYbc"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-02T10:52:57Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 02/7/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200b  Contact me (Trading room): https://t.me/+NAeNsC7vb4UzNmY1 Join our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dDasa4crYbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dDasa4crYbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dDasa4crYbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dDasa4crYbc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dDasa4crYbc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-02T10:52:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AEXlqAl6fK81rPFUCrENb8I9pHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pUig0bkXlrE"
+      },
+      "snippet": {
+        "publishedAt": "2026-06-04T15:23:23Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 4/6/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200bContact me: https://t.me/+NAeNsC7vb4UzNmY1 Join our dynamic trading ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUig0bkXlrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUig0bkXlrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUig0bkXlrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pUig0bkXlrE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pUig0bkXlrE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-06-04T15:23:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A6Pu94gqQ7kfbuLnZRx0F_lPD7c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NTuWmNLWdfo"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-31T12:00:29Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "The ultimate Gold Price Action strategy",
+        "description": "Forex trading XAUUSD is one of the most popular ways traders participate in the global financial markets, especially when ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NTuWmNLWdfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NTuWmNLWdfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NTuWmNLWdfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NTuWmNLWdfo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NTuWmNLWdfo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-31T12:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-KQCa_LUfJtZiYgxF9UCmr1EJ_w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LZGwiJhkZ14"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-30T18:04:51Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 30/5/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200bContact me: https://t.me/+NAeNsC7vb4UzNmY1 Join our dynamic trading ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LZGwiJhkZ14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LZGwiJhkZ14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LZGwiJhkZ14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LZGwiJhkZ14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LZGwiJhkZ14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-30T18:04:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v0STukg4u0s_Cb8B4bDVLjtCh48",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PvNfz-Jh_1g"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-29T14:42:30Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 29/5/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! \u200b\u200bContact me: https://t.me/+NAeNsC7vb4UzNmY1 Join our dynamic trading ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PvNfz-Jh_1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PvNfz-Jh_1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PvNfz-Jh_1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PvNfz-Jh_1g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PvNfz-Jh_1g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-29T14:42:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yIhZHSvHuF_4i8R1-5KZa8jpLQM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kfYg9VUTqqM"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-27T15:19:04Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 27/5/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! Join us: https://t.me/+NAeNsC7vb4UzNmY1 Join our dynamic trading community ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kfYg9VUTqqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kfYg9VUTqqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kfYg9VUTqqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kfYg9VUTqqM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kfYg9VUTqqM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-27T15:19:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LNv9tf0h9f_sybApG5m9KJYEZCo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p9DYQ-8_F7g"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-22T02:13:03Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "The 1-Minute Scalping Strategy Most Traders Use WRONG I Forex trading Xauusd",
+        "description": "Forex trading XAUUSD is one of the most popular ways traders participate in the global financial markets, especially when ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p9DYQ-8_F7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p9DYQ-8_F7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p9DYQ-8_F7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p9DYQ-8_F7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p9DYQ-8_F7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-22T02:13:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OOhABo0PQG9uXh6gXQgEwbjgsu0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3qQ5G_DCLdc"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-05T10:01:27Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Four Price Action Secrets (The Ultimate Guide To Price Action) I Forex trading Xauusd",
+        "description": "Forex trading XAUUSD is one of the most popular ways traders participate in the global financial markets, especially when ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3qQ5G_DCLdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3qQ5G_DCLdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3qQ5G_DCLdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3qQ5G_DCLdc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3qQ5G_DCLdc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-05T10:01:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UNxRuSa3FuM-kAo6OqqbGcpC0Jk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xb2yneNZDeU"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-04T12:00:58Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "How to Read Candlestick Charts (with ZERO experience) I Forex trading Xauusd",
+        "description": "Forex trading XAUUSD is one of the most popular ways traders participate in the global financial markets, especially when ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xb2yneNZDeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xb2yneNZDeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xb2yneNZDeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xb2yneNZDeU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xb2yneNZDeU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-04T12:00:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-wjQyBfAcFJKSoMULQQv7deKryE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qw_l5fmW1Do"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-04T06:27:11Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 04/5/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! Join us: https://t.me/+NAeNsC7vb4UzNmY1 Join our dynamic trading community ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qw_l5fmW1Do/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qw_l5fmW1Do/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qw_l5fmW1Do/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qw_l5fmW1Do/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qw_l5fmW1Do/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-04T06:27:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8WirvQVd-chRuAEGnvAwus5riCo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4dm-6MhQ5_c"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-21T10:19:43Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "How to Enter a Trade the RIGHT Way (Entry Confirmations) I Forex Trading Xauusd",
+        "description": "Discover the power of Forex Trading Xauusd and how it can transform your understanding of the gold market. In this video, we ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4dm-6MhQ5_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4dm-6MhQ5_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4dm-6MhQ5_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4dm-6MhQ5_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4dm-6MhQ5_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-21T10:19:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "19kR8nbyLBPa6ul9wDKS09gAYJE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HUU8MKViCIw"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-20T13:43:33Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 20/4/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! Join us: https://t.me/+NAeNsC7vb4UzNmY1 Join our dynamic trading community ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HUU8MKViCIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HUU8MKViCIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HUU8MKViCIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HUU8MKViCIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HUU8MKViCIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-20T13:43:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FVJakgYx2njS5DE0-TQmgBzs_Og",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_M6zZO6B1K4"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-10T12:01:20Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Dark Cloud Cover Candlestick A Powerful Reversal",
+        "description": "Dark Cloud Cover Candlestick A Powerful Reversal Experience, knowledge, signals, and profits — Biran shares it all with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_M6zZO6B1K4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_M6zZO6B1K4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_M6zZO6B1K4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_M6zZO6B1K4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_M6zZO6B1K4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-10T12:01:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G5j-7CBkAJe1SWnFxGW7LTlS3Z8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ELZQHo6o7Uo"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-04T12:00:22Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Bullish Market Structure How to Accurately Identify an Uptrend",
+        "description": "Bullish Market Structure How to Accurately Identify an Uptrend Experience, knowledge, signals, and profits — Biran shares it all ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ELZQHo6o7Uo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ELZQHo6o7Uo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ELZQHo6o7Uo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ELZQHo6o7Uo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ELZQHo6o7Uo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-04T12:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hV4Ih0XKu4N1jogYreEG83WKjr0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KCzPqhJDI24"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-03T10:50:50Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 3/4/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! Join us: https://t.me/+NAeNsC7vb4UzNmY1 Join our dynamic trading community ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KCzPqhJDI24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KCzPqhJDI24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KCzPqhJDI24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KCzPqhJDI24/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KCzPqhJDI24/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-03T10:50:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "33L8Tx1pfxxusZ9p4ZMOS6tyk6w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ielOwqMebb8"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-30T09:00:41Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Gold Price Prediction Today: XAUUSD Analysis and trends",
+        "description": "Gold Price Prediction Today: XAUUSD Analysis and trends Experience, knowledge, signals, and profits — Biran shares it all with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ielOwqMebb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ielOwqMebb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ielOwqMebb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ielOwqMebb8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ielOwqMebb8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-30T09:00:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d50Q4QJz7dJorFr1Uev7zr2oMxs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K2NXggP14Ow"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-28T12:00:34Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "How to Identify Market Highs and Lows in Forex",
+        "description": "How to Identify Market Highs and Lows in Forex Experience, knowledge, signals, and profits — Biran shares it all with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K2NXggP14Ow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K2NXggP14Ow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K2NXggP14Ow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K2NXggP14Ow/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K2NXggP14Ow/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-28T12:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OYfjV08TMkUcXjqsxTN5ji9qFN0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bVNoEuwbA0U"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-27T13:36:39Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 27/3/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! Join us: https://t.me/+NAeNsC7vb4UzNmY1 Join our dynamic trading community ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bVNoEuwbA0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bVNoEuwbA0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bVNoEuwbA0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bVNoEuwbA0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bVNoEuwbA0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-27T13:36:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x4PddIuKaL5yONRtuIzs6OTFt7Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OhtYFWr10Kk"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-21T12:00:39Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "How to Identify XAUUSD Reversal Points with Supply &amp; Demand",
+        "description": "How to Identify XAUUSD Reversal Points with Supply & Demand Experience, knowledge, signals, and profits — Biran shares it all ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OhtYFWr10Kk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OhtYFWr10Kk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OhtYFWr10Kk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OhtYFWr10Kk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OhtYFWr10Kk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-21T12:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1UPIFcYTvtx1HH3WM4H1YFuu49c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bIdbd-AVJVk"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-09T12:01:06Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "New Trader vs Pro Trader: The Secret of Market Liquidity",
+        "description": "New Trader vs Pro Trader: The Secret of Market Liquidity Experience, knowledge, signals, and profits — Biran shares it all with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bIdbd-AVJVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bIdbd-AVJVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bIdbd-AVJVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bIdbd-AVJVk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bIdbd-AVJVk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-09T12:01:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ppT6-TER4bvZhFRGJPZB3d_vhMA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yZuXzg9MHfI"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-03T12:01:38Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "How to Identify a Liquidity Sweep and Retail Trade Part 2",
+        "description": "How to Identify a Liquidity Sweep and Retail Trade Part 2 Experience, knowledge, signals, and profits — Biran shares it all with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yZuXzg9MHfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yZuXzg9MHfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yZuXzg9MHfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yZuXzg9MHfI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yZuXzg9MHfI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-03T12:01:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u6z44MqAxZDXqZYhVe5ObZ9LPNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lH5rIt_oU8k"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-02T23:15:14Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 2/3/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! Join us: https://t.me/+NAeNsC7vb4UzNmY1 Join our dynamic trading community ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lH5rIt_oU8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lH5rIt_oU8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lH5rIt_oU8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lH5rIt_oU8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lH5rIt_oU8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-02T23:15:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "APkH6iv_9SadBlosWSyB6jNicw4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4e1duYMKJhc"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-25T12:00:12Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Multi-Timeframe Analysis When Chart Patterns Meet Trendlines",
+        "description": "Multi-Timeframe Analysis When Chart Patterns Meet Trendlines Experience, knowledge, signals, and profits — Biran shares it all ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4e1duYMKJhc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4e1duYMKJhc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4e1duYMKJhc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4e1duYMKJhc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4e1duYMKJhc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-25T12:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ERfcIRh2E2qW9VTrzqpnSxUVyMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tgnu7LcDSZ0"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-19T12:01:35Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Trade Entry Explained with Charts",
+        "description": "Trade Entry Explained with Charts Experience, knowledge, signals, and profits — Biran shares it all with transparency and heart.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tgnu7LcDSZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tgnu7LcDSZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tgnu7LcDSZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tgnu7LcDSZ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tgnu7LcDSZ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-19T12:01:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RXCZRIptyRONHsdQYqguc3MnmAM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YEPXTJOml_s"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-14T12:00:56Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Technical Analysis Entry Strategy Using Charts",
+        "description": "Technical Analysis Entry Strategy Using Charts Experience, knowledge, signals, and profits — Biran shares it all with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YEPXTJOml_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YEPXTJOml_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YEPXTJOml_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YEPXTJOml_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YEPXTJOml_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-14T12:00:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g9o0ShXweLU6KU-0lH8PFw98ZWA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QzbBwo9TIGo"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-11T10:59:07Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 11/02/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! Join us: https://t.me/+NAeNsC7vb4UzNmY1 Join our dynamic trading community ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QzbBwo9TIGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QzbBwo9TIGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QzbBwo9TIGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QzbBwo9TIGo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QzbBwo9TIGo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-11T10:59:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sa8kVthnFFaXn5SHp1oWTYFhKNQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gUXco1aFJyY"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-30T12:01:18Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Price Action Analysis From Support to Resistance",
+        "description": "Price Action Analysis From Support to Resistance Experience, knowledge, signals, and profits — Biran shares it all with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gUXco1aFJyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gUXco1aFJyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gUXco1aFJyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gUXco1aFJyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gUXco1aFJyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-30T12:01:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DuD5R1XiJpo9uRu_CrJKV68XKJI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7nGwTPLaPQc"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-30T10:58:12Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "🔴 LIVE TRADING XAUUSD - FOREX DAY 30/01/2026 - GOLD TRADER ALLIANCE",
+        "description": "Learning to trade with Our Trading Community! Join us: https://t.me/+NAeNsC7vb4UzNmY1 Join our dynamic trading community ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7nGwTPLaPQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7nGwTPLaPQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7nGwTPLaPQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7nGwTPLaPQc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7nGwTPLaPQc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-30T10:58:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BEFhDsUuOwMS8YabSjCfsjPbnLA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_lt1prpCOeI"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-28T12:01:09Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Mastering the Downtrend Breakout &amp; Retest Strategy",
+        "description": "Mastering the Downtrend Breakout & Retest Strategy Experience, knowledge, signals, and profits — Biran shares it all with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_lt1prpCOeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_lt1prpCOeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_lt1prpCOeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_lt1prpCOeI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_lt1prpCOeI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-28T12:01:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "brWPpDQbzApZQm3FwMD3-atuqtY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pFYFLVlZqRg"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-17T12:01:29Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Candlestick Entry Strategy for Forex",
+        "description": "Candlestick Entry Strategy for Forex Experience, knowledge, signals, and profits — Biran shares it all with transparency and heart.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pFYFLVlZqRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pFYFLVlZqRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pFYFLVlZqRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pFYFLVlZqRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pFYFLVlZqRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-17T12:01:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ew04oY5PrB896zQUjT23zavGAEg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I_Px5E3DmXY"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-12T05:00:21Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "Gold price action right before the move #xauusd #shorts #analysis",
+        "description": "Gold price action right before the move #xauusd #shorts #analysis Experience, knowledge, signals, and profits — Biran shares it ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_Px5E3DmXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_Px5E3DmXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_Px5E3DmXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I_Px5E3DmXY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I_Px5E3DmXY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-12T05:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bnLCgoa023_qa_NQG3lRw1uD_mc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jZ52ph9j-uw"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-07T12:01:34Z",
+        "channelId": "UCdS8VXFlNvVohM09qzZGCkA",
+        "title": "How Traders Use Chart Analysis to Enter",
+        "description": "How Traders Use Chart Analysis to Enter Experience, knowledge, signals, and profits — Biran shares it all with transparency and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jZ52ph9j-uw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jZ52ph9j-uw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jZ52ph9j-uw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jZ52ph9j-uw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jZ52ph9j-uw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gold Trader Alliance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-07T12:01:34Z"
+      }
+    }
+  ]
+}

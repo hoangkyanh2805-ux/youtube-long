@@ -1,0 +1,71 @@
+{
+  "source": "youtube-data-api-v3/commentThreads.list",
+  "query": "forex entry confirmation",
+  "input": null,
+  "started_at": "2026-10-01T13:27:35.973012+00:00",
+  "quota_cost_per_call": 1,
+  "search_api_calls": 1,
+  "search_quota_units": 100,
+  "total_api_calls": 8,
+  "total_quota_units": 107,
+  "videos": [
+    {
+      "video_id": "taBdnsItyiI",
+      "threads_fetched": 100,
+      "comments_flat": 114,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "rDQiZLixjeI",
+      "status": "error",
+      "error": "YouTube API error 400: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The API server failed to successfully process the request. While this can be a transient error, it usually indicates that the request's input is invalid. Check the structure of the \\u003ccode\\u003ecommentThread\\u003c/code\\u003e resource in the request body to ensure that it is valid.\",\n    \"errors\": [\n      {\n        \"message\": \"The API server failed to successfully process the request. While this can be a transient error, it usually indicates that the request's input is invalid. Check the structure of the \\u003ccode\\u003ecommentThread\\u003c/code\\u003e resource in the request body to ensure that it is valid.\",\n        \"domain\": \"youtube.commentThread\",\n        \"reason\": \"processingFailure\",\n        \"location\": \"body\",\n        \"locationType\": \"other\"\n      }\n    ]\n  }\n}\n"
+    },
+    {
+      "video_id": "IyrbbmKv3RE",
+      "threads_fetched": 45,
+      "comments_flat": 75,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "4tFcM7NcefU",
+      "threads_fetched": 100,
+      "comments_flat": 137,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "vRoToHC9STU",
+      "threads_fetched": 83,
+      "comments_flat": 111,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "kis7l0y1JUg",
+      "threads_fetched": 100,
+      "comments_flat": 242,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "tS9o8aQjADY",
+      "threads_fetched": 100,
+      "comments_flat": 193,
+      "api_calls": 1,
+      "status": "ok"
+    },
+    {
+      "video_id": "FccA87INVUE",
+      "threads_fetched": 96,
+      "comments_flat": 107,
+      "api_calls": 1,
+      "status": "ok"
+    }
+  ],
+  "finished_at": "2026-10-01T13:28:04.471047+00:00",
+  "total_raw_rows": 979,
+  "total_normalized": 979,
+  "total_painpoint_candidates": 219
+}
