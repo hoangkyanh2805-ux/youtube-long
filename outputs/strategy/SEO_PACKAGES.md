@@ -1,6 +1,6 @@
 # P10 — GÓI SEO YOUTUBE (24 video)
 
-**Sinh:** 2026-10-02 09:19 UTC  
+**Sinh:** 2026-10-02 09:27 UTC  
 **Nguồn:** 200 long-tail thật từ comment khán giả · 99 tag đối thủ · 24 chủ đề plan
 
 > Guardrail: không nhồi keyword rác, không title gây hiểu sai. Tag lấy từ ngôn ngữ thật của khán giả, không thêm cho đủ số.
@@ -607,8 +607,8 @@ liquidity sweep, liquidity sweep xauusd, liquidity sweep trading, liquidity swee
 
 **Quy tắc 80/20:** Tiêu đề 80% từ khoá rõ nghĩa + 20% kích tò mò. Thumbnail 80% hình ảnh + 20% chữ.
 
-**Bằng chứng nhu cầu:** "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It"  
-*Nguồn: https://www.youtube.com/watch?v=JXHrTloZ-nE*
+**Bằng chứng nhu cầu:** "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the"  
+*Nguồn: https://www.youtube.com/watch?v=o0v4KQxZbpU*
 
 ---
 
@@ -668,8 +668,8 @@ minute scalping, minute scalping xauusd, minute scalping trading, minute scalpin
 
 **Quy tắc 80/20:** Tiêu đề 80% từ khoá rõ nghĩa + 20% kích tò mò. Thumbnail 80% hình ảnh + 20% chữ.
 
-**Bằng chứng nhu cầu:** "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It"  
-*Nguồn: https://www.youtube.com/watch?v=JXHrTloZ-nE*
+**Bằng chứng nhu cầu:** "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the"  
+*Nguồn: https://www.youtube.com/watch?v=o0v4KQxZbpU*
 
 ---
 
@@ -729,8 +729,8 @@ entry model, entry model xauusd, entry model trading, entry model strategy, xauu
 
 **Quy tắc 80/20:** Tiêu đề 80% từ khoá rõ nghĩa + 20% kích tò mò. Thumbnail 80% hình ảnh + 20% chữ.
 
-**Bằng chứng nhu cầu:** "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It"  
-*Nguồn: https://www.youtube.com/watch?v=JXHrTloZ-nE*
+**Bằng chứng nhu cầu:** "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the"  
+*Nguồn: https://www.youtube.com/watch?v=o0v4KQxZbpU*
 
 ---
 

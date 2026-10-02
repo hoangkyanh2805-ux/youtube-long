@@ -40,6 +40,10 @@ ensure_utf8_console()
 
 TELEGRAM_API_BASE = "https://api.telegram.org"
 
+# Dashboard công khai — dùng cho link trong báo cáo
+SITE = "https://dashboard.azzamedu.com"
+SITE_GUIDES = f"{SITE}"
+
 # Topic IDs created in the forum group. Update here if topics are recreated.
 TOPICS = {
     "edit": {"thread_id": "205", "name": "EDIT - Content đã duyệt",
@@ -525,120 +529,110 @@ def report_evergreen_plan(root: Path) -> str:
 
 
 def report_production_pipeline(root: Path) -> str:
-    """Dây chuyền sản xuất P05/P06/P10/P11 + checklist 30 ngày.
+    """Dây chuyền sản xuất — TÓM TẮT + LINK tới trang hướng dẫn chi tiết.
 
-    Gửi kết quả THẬT đã sinh, không phải mô tả. Nếu thiếu file thì nói rõ
-    file nào thiếu thay vì báo thành công giả.
+    Nguyên tắc: báo cáo dài thì không ai đọc hết. Mỗi mục chỉ 1-2 dòng
+    (con số quan trọng nhất), rồi link tới trang hướng dẫn có 5W1H + SOP
+    + đường dẫn file. Người nhận click là biết làm gì.
     """
     import csv as _csv
 
     STRAT = root / "outputs/strategy"
+    G = SITE_GUIDES
     lines = [
-        "🏭 <b>DÂY CHUYỀN SẢN XUẤT — KẾT QUẢ THẬT</b>",
+        "🏭 <b>DÂY CHUYỀN SẢN XUẤT — TÓM TẮT</b>",
         f"<i>{datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}</i>",
+        "",
+        "👉 <b>Click để xem hướng dẫn chi tiết từng phần:</b>",
+        f'{G}/guides.html',
         "",
     ]
 
-    # ── P06 phân khúc khán giả ─────────────────────────────────────────────
+    # P06
     seg_p = STRAT / "AUDIENCE_SEGMENTS.csv"
     if seg_p.exists():
         with seg_p.open(encoding="utf-8-sig", newline="") as f:
             segs = list(_csv.DictReader(f))
-        lines.append("<b>P06 — PHÂN KHÚC KHÁN GIẢ</b>")
         if segs:
             top = segs[0]
-            lines.append(f"🎯 Chọn trước: <b>{esc(top.get('name',''))}</b> "
-                         f"({top.get('score_100','')}/100)")
-            lines.append(f"• Nhu cầu {top.get('urgent','')}/10 · "
-                         f"tiền {top.get('buy_power','')}/10 · "
-                         f"hợp kênh {top.get('fit','')}/10")
-            lines.append(f"• Evidence: {top.get('n_comments','')} comment + "
-                         f"{top.get('ev_sales','')} sales-angle")
-        lines.append(f"• Chấm {len(segs)} phân khúc từ 2,567 comment thật")
-        lines.append("• ⚠️ Hai nguồn không phủ nhau — xem 2 cột riêng trong file")
+            lines += [
+                f"<b>P06 — Phân khúc khán giả</b>  <a href=\"{G}/guides/p06-audience.html\">Hướng dẫn</a>",
+                f"🎯 Chọn trước: <b>{esc(top.get('name',''))}</b> "
+                f"({top.get('score_100','')}/100 · {top.get('n_comments','')} comment)",
+                "",
+            ]
     else:
-        lines.append("❌ <b>P06</b> — thiếu <code>AUDIENCE_SEGMENTS.csv</code>")
-    lines.append("")
+        lines += ["❌ <b>P06</b> thiếu AUDIENCE_SEGMENTS.csv", ""]
 
-    # ── P10 SEO ────────────────────────────────────────────────────────────
+    # P10
     seo_p = STRAT / "SEO_PACKAGES.json"
     if seo_p.exists():
         seo = json.loads(seo_p.read_text(encoding="utf-8"))
-        lines.append("<b>P10 — GÓI SEO</b>")
-        lines.append(f"• <b>{len(seo)} gói</b> (1 gói/video)")
-        if seo:
-            wc = [p.get("desc_word_count", 0) for p in seo]
-            tg = [len(p.get("tags", [])) for p in seo]
-            lines.append(f"• Mô tả {min(wc)}-{max(wc)} từ · tag {min(tg)}-{max(tg)}/gói")
-            lines.append(f"• 5 title/gói, đều ≤60 ký tự")
-            lines.append(f"• VD: <i>{esc(seo[0]['titles'][0]['title'])}</i>")
+        wc = [p.get("desc_word_count", 0) for p in seo]
+        lines += [
+            f"<b>P10 — Gói SEO</b>  <a href=\"{G}/guides/p10-seo.html\">Hướng dẫn</a>",
+            f"• <b>{len(seo)} gói</b> · mô tả {min(wc)}-{max(wc)} từ · 20 tag/gói · 5 title",
+            "",
+        ]
     else:
-        lines.append("❌ <b>P10</b> — thiếu <code>SEO_PACKAGES.json</code>")
-    lines.append("")
+        lines += ["❌ <b>P10</b> thiếu SEO_PACKAGES.json", ""]
 
-    # ── P11 thumbnail ──────────────────────────────────────────────────────
+    # P11
     th_p = STRAT / "THUMBNAIL_CONCEPTS.json"
     if th_p.exists():
         th = json.loads(th_p.read_text(encoding="utf-8"))
-        n_con = sum(len(t.get("concepts", [])) for t in th)
-        arch = sorted({t.get("primary", "") for t in th})
-        lines.append("<b>P11 — THUMBNAIL</b>")
-        lines.append(f"• <b>{len(th)} video × 3 concept = {n_con} concept</b>")
-        lines.append(f"• 5 archetype dùng: {', '.join(a for a in arch if a)}")
-        lines.append("• Có prompt AI + design brief + tiêu chí nghiệm thu")
-        lines.append("• Guardrail: không hình gây hiểu sai, không giả mạo kết quả")
+        n = sum(len(x.get("concepts", [])) for x in th)
+        lines += [
+            f"<b>P11 — Thumbnail</b>  <a href=\"{G}/guides/p11-thumbnail.html\">Hướng dẫn</a>",
+            f"• <b>{n} concept</b> ({len(th)} video × 3) · 5 archetype · có prompt AI",
+            "",
+        ]
     else:
-        lines.append("❌ <b>P11</b> — thiếu <code>THUMBNAIL_CONCEPTS.json</code>")
-    lines.append("")
+        lines += ["❌ <b>P11</b> thiếu THUMBNAIL_CONCEPTS.json", ""]
 
-    # ── P05 đa nền tảng ────────────────────────────────────────────────────
+    # P05
     rp_p = STRAT / "REPURPOSE_PACKAGES.json"
     if rp_p.exists():
         rp = json.loads(rp_p.read_text(encoding="utf-8"))
-        n_fmt = sum(len(r.get("formats", [])) for r in rp)
-        lines.append("<b>P05 — ĐA NỀN TẢNG</b>")
-        lines.append(f"• <b>{len(rp)} video × 5 định dạng = {n_fmt} asset</b>")
-        lines.append("• Short · bài chữ · carousel · quan điểm · checklist")
-        lines.append("• Mỗi cái 1 GÓC riêng, không lặp nội dung")
-        lines.append("• Short cắt TỪ video long, không sản xuất riêng")
+        n = sum(len(x.get("formats", [])) for x in rp)
+        lines += [
+            f"<b>P05 — Đa nền tảng</b>  <a href=\"{G}/guides/p05-repurpose.html\">Hướng dẫn</a>",
+            f"• <b>{n} asset</b> ({len(rp)} video × 5) · Short cắt từ video long",
+            "",
+        ]
     else:
-        lines.append("❌ <b>P05</b> — thiếu <code>REPURPOSE_PACKAGES.json</code>")
-    lines.append("")
+        lines += ["❌ <b>P05</b> thiếu REPURPOSE_PACKAGES.json", ""]
 
-    # ── Checklist 30 ngày ──────────────────────────────────────────────────
+    # Checklist
     pc_p = STRAT / "PRODUCTION_30D.csv"
     if pc_p.exists():
         with pc_p.open(encoding="utf-8-sig", newline="") as f:
             days = list(_csv.DictReader(f))
-        lines.append("<b>CHECKLIST 30 NGÀY</b>")
-        if days:
-            lines.append(f"• Bắt đầu <b>{days[0].get('Date','')}</b> · "
-                         f"kết thúc <b>{days[-1].get('Date','')}</b>")
-        lines.append("• Nhịp <b>2 ngày/1 video long + 3 Short</b>")
-        lines.append("• Mục tiêu: 15 video long + 45 Short")
-        lines.append("• 4 mốc kiểm tra: ngày 7 · 14 · 21 · 30")
+        d0 = days[0].get("Date", "") if days else ""
+        d1 = days[-1].get("Date", "") if days else ""
+        lines += [
+            f"<b>30D — Checklist</b>  <a href=\"{G}/guides/checklist-30d.html\">Hướng dẫn</a>",
+            f"• {d0} → {d1} · 2 ngày/1 video long · 15 video + 45 Short",
+            "",
+        ]
     else:
-        lines.append("❌ <b>Checklist</b> — thiếu <code>PRODUCTION_30D.csv</code>")
-    lines.append("")
+        lines += ["❌ <b>30D</b> thiếu PRODUCTION_30D.csv", ""]
 
-    # ── Trạng thái tool ────────────────────────────────────────────────────
-    lines.append("<b>TRẠNG THÁI TOOL</b>")
-    lines.append("• Apify MCP: ✅ enabled, 8 tools (test thật OK)")
-    lines.append("• last30days: ✅ cài ở <code>skills/research/</code>")
-    lines.append("• ⚠️ Apify FREE plan <b>còn $0.0758</b> — batch lớn cần nạp thêm")
-    lines.append("")
-
-    lines.append("🌐 <b>Mở dashboard</b>: https://dashboard.azzamedu.com")
-    lines.append("")
-
-    # ── Việc cần Alan ──────────────────────────────────────────────────────
     lines += [
-        "❓ <b>Việc cần Alan làm</b>",
-        "1. Duyệt phân khúc đánh trước (SEG-B — cháy tài khoản)",
-        "2. Gửi brief cho editor Hưng? (EDITOR_HANDOFF.md)",
-        "3. Nâng Apify plan? (còn $0.0758)",
+        "━━━━━━━━━━━━━━━━━━━━",
+        "🔴 <b>CẢNH BÁO</b>",
+        "• Traffic bot <b>47.9%</b> view 28 ngày — số liệu nền là số ảo",
+        "• Apify FREE còn <b>$0.0758</b> — batch lớn cần nạp",
+        "",
+        "❓ <b>Cần Alan quyết</b>",
+        "1. Duyệt phân khúc đánh trước (SEG-B)",
+        "2. Gửi brief cho editor Hưng?",
+        "3. Nạp Apify?",
+        "",
+        f"🌐 Dashboard: {SITE}",
     ]
     return "\n".join(lines)
+
 
 
 REPORTS = {

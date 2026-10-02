@@ -1,6 +1,6 @@
 # EVERGREEN PLAN — 24 VIDEO 5-8 PHÚT
 
-*Sinh: 2026-10-02 09:13 UTC*  •  Kênh: @azzammastertradinggold  •  2 video/tuần × 12 tuần
+*Sinh: 2026-10-02 09:27 UTC*  •  Kênh: @azzammastertradinggold  •  2 video/tuần × 12 tuần
 
 **EVERGREEN là gì (giải thích rõ):**
 
@@ -159,8 +159,8 @@ Video *evergreen* = video **còn mang view nhiều tháng/năm sau khi đăng**,
 - **Outline:** 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA
 - **CTA:** Comment ENTRY for the free checklist
 - **Pain category:** `entry_timing`
-- **Bằng chứng (comment thật):** “I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the mar”
-  - [nguồn](https://www.youtube.com/watch?v=JXHrTloZ-nE)
+- **Bằng chứng (comment thật):** “Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG afte”
+  - [nguồn](https://www.youtube.com/watch?v=o0v4KQxZbpU)
 - **Đối thủ đã làm:** 0 (khoảng trống)
 
 ### 11. Scalping 1 phút  *(tuần 6)*
@@ -173,8 +173,8 @@ Video *evergreen* = video **còn mang view nhiều tháng/năm sau khi đăng**,
 - **Outline:** 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA
 - **CTA:** Comment ENTRY for the free checklist
 - **Pain category:** `entry_timing`
-- **Bằng chứng (comment thật):** “I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the mar”
-  - [nguồn](https://www.youtube.com/watch?v=JXHrTloZ-nE)
+- **Bằng chứng (comment thật):** “Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG afte”
+  - [nguồn](https://www.youtube.com/watch?v=o0v4KQxZbpU)
 - **Đối thủ đã làm:** 2 video — vd: *The 1-Minute Scalping Strategy Most Traders Use WRONG I Forex trading * (460 views)
 
 ### 12. Entry Model — vào lệnh đúng  *(tuần 6)*
@@ -187,8 +187,8 @@ Video *evergreen* = video **còn mang view nhiều tháng/năm sau khi đăng**,
 - **Outline:** 1) Hook 3s · 2) Vấn đề cụ thể · 3) Demo trên chart · 4) Sai lầm phổ biến · 5) Cách làm đúng · 6) CTA
 - **CTA:** Comment ENTRY for the free checklist
 - **Pain category:** `entry_timing`
-- **Bằng chứng (comment thật):** “I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the mar”
-  - [nguồn](https://www.youtube.com/watch?v=JXHrTloZ-nE)
+- **Bằng chứng (comment thật):** “Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG afte”
+  - [nguồn](https://www.youtube.com/watch?v=o0v4KQxZbpU)
 - **Đối thủ đã làm:** 2 video — vd: *🔥 SMC ENTRY Explained! | Smart Money Concept Strategy I Forex trading * (495 views)
 
 ### 13. Trading mà không có hướng dẫn  *(tuần 7)*

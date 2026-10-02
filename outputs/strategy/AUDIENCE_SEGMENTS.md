@@ -1,7 +1,7 @@
 # P06 — PHÂN KHÚC KHÁN GIẢ GIÁ TRỊ NHẤT
 
-**Sinh:** 2026-10-02 09:19 UTC  
-**Nguồn:** 2,567 comment đã chấm điểm · 8 pain cluster · 7,937 comment gốc · analytics 28 ngày thật
+**Sinh:** 2026-10-02 09:27 UTC  
+**Nguồn:** 2,627 comment đã chấm điểm · 8 pain cluster · 7,937 comment gốc · analytics 28 ngày thật
 
 > Nguyên tắc: **không mặc định phân khúc đông nhất là giá trị nhất.** Chấm theo nhu cầu, tiền, tiếp cận, cạnh tranh và độ hợp thế mạnh kênh.
 
@@ -9,15 +9,15 @@
 
 | # | Phân khúc | Điểm | Nhu cầu | Tiền | Tiếp cận | Cạnh tranh | Hợp kênh | Comment | Sales-angle ev |
 |---|-----------|------|---------|------|----------|-----------|----------|---------|----------------|
-| 1 | **Trader đã cháy tài khoản** ⭐ | **100.0** | 10 | 7 | 8 | 7 | 10 | 375 | 578 |
-| 2 | **Người mới mất phương hướng** ⭐ | **57.7** | 9 | 5 | 9 | 6 | 9 | 1,201 | 1,041 |
+| 1 | **Trader đã cháy tài khoản** ⭐ | **100.0** | 10 | 7 | 8 | 7 | 10 | 390 | 578 |
+| 2 | **Người mới mất phương hướng** ⭐ | **57.7** | 9 | 5 | 9 | 6 | 9 | 1,213 | 1,041 |
 | 3 | **Trader cô độc tìm cộng đồng** ⭐ | **39.7** | 6 | 6 | 8 | 5 | 10 | 0 | 358 |
-| 4 | **Scalper tìm điểm vào lệnh** | **38.5** | 9 | 7 | 7 | 9 | 9 | 263 | 339 |
-| 5 | **Trader tâm lý / FOMO** | **30.8** | 8 | 6 | 8 | 6 | 8 | 131 | 99 |
+| 4 | **Scalper tìm điểm vào lệnh** | **38.5** | 9 | 7 | 7 | 9 | 9 | 259 | 339 |
+| 5 | **Trader tâm lý / FOMO** | **30.8** | 8 | 6 | 8 | 6 | 8 | 132 | 99 |
 | 6 | **Trader kỹ thuật phức tạp hoá** | **17.9** | 7 | 8 | 7 | 8 | 8 | 0 | 532 |
-| 7 | **Trader quan tâm broker/prop firm** | **0.0** | 7 | 9 | 6 | 7 | 6 | 75 | 138 |
+| 7 | **Trader quan tâm broker/prop firm** | **0.0** | 7 | 9 | 6 | 7 | 6 | 74 | 138 |
 
-*Cột **Comment** = số comment thật khớp pain cluster trong painpoint_candidates.csv (tổng 2,045). Cột **Sales-angle ev** = evidence_count từ sales_angles.json — hai nguồn KHÔNG phủ nhau: cluster community/overcomplicating/discipline chỉ có ở sales_angles, không xuất hiện trong CSV category.*
+*Cột **Comment** = số comment thật khớp pain cluster trong painpoint_candidates.csv (tổng 2,068). Cột **Sales-angle ev** = evidence_count từ sales_angles.json — hai nguồn KHÔNG phủ nhau: cluster community/overcomplicating/discipline chỉ có ở sales_angles, không xuất hiện trong CSV category.*
 
 ## 2. CHỌN PHÂN KHÚC NÊN ĐÁNH TRƯỚC
 

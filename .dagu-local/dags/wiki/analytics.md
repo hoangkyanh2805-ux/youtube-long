@@ -1,6 +1,6 @@
 # YouTube Analytics
 
-*Cập nhật: 2026-10-02 09:14 UTC*  •  Nguồn: YouTube Data API v3 (channels.list, statistics)
+*Cập nhật: 2026-10-02 09:27 UTC*  •  Nguồn: YouTube Data API v3 (channels.list, statistics)
 
 ---
 
@@ -71,7 +71,7 @@ Mỗi lần chạy **WF23-publish-dashboards** trong UI, bản HTML mới nhất
 
 ## Điểm mù phát hiện được
 
-*11 phát hiện • sinh 2026-10-02 09:13 UTC*
+*11 phát hiện • sinh 2026-10-02 09:27 UTC*
 
 - **[CRITICAL]** Traffic từ nguồn nghi bot: 4,316 views
 - **[CRITICAL]** 90% view dồn vào 1 ngày (2026-09-29)

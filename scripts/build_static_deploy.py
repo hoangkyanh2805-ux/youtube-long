@@ -95,6 +95,7 @@ def main() -> int:
         "REPORT_HUB.html": "index.html",          # trang chính
         "ops.html": "ops.html",
         "youtube-analytics-real.html": "youtube-analytics-real.html",
+        "guides.html": "guides.html",             # mục lục hướng dẫn
     }
     copied = 0
     for src_name, dst_name in pages.items():
@@ -108,6 +109,24 @@ def main() -> int:
         shutil.copy2(src, DEPLOY / dst_name)
         copied += 1
         print(f"  ✓ {src_name:34} → {dst_name}")
+
+    # ── 1b. Copy trang hướng dẫn (SOP guide) ──────────────────────────────
+    # Mỗi báo cáo có 1 trang riêng: 5W1H + SOP + đường dẫn bấm được.
+    gsrc = DASH / "guides"
+    gdst = DEPLOY / "guides"
+    if gsrc.is_dir():
+        gdst.mkdir(parents=True, exist_ok=True)
+        n_g = 0
+        for f in sorted(gsrc.glob("*.html")):
+            if is_blocked(f):
+                print(f"  ⛔ CHẶN guides/{f.name}")
+                continue
+            shutil.copy2(f, gdst / f.name)
+            n_g += 1
+        copied += n_g
+        print(f"  ✓ guides/  → guides/  ({n_g} trang hướng dẫn)")
+    else:
+        print(f"  ✗ thiếu {gsrc.relative_to(ROOT)} — chạy build_sop_guides.py")
 
     # ── 2. Copy dữ liệu công khai ─────────────────────────────────────────
     for rel in PUBLIC_DATA:

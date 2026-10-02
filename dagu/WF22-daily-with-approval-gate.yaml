@@ -35,6 +35,10 @@ steps:
   # → P05 (đa nền tảng + editor handoff) → checklist 30 ngày.
   # Alan duyệt xong mới tới brief_to_editor, nên editor nhận gói đã duyệt.
 
+  # Trang hướng dẫn: mỗi báo cáo 1 trang 5W1H + SOP + đường dẫn bấm được
+  - id: build_sop_guides
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_sop_guides.py
+
   - id: build_audience_segments
     run: Set-Location C:\Users\Admin\youtube; python scripts\build_audience_segments.py
 

@@ -108,6 +108,26 @@ def main() -> int:
     # khi mở bằng file:// (máy local) thì dùng file:// tuyệt đối.
     # Dùng JS để chọn đúng — xem <script> ở cuối trang.
     GROUPS = [
+        ("📖 HƯỚNG DẪN — click là biết làm", [
+            ("Tất cả hướng dẫn (5W1H + SOP)", "outputs/dashboard/guides.html",
+             "8 trang hướng dẫn: hiểu 30 giây, làm theo thứ tự, link bấm là mở", "dash"),
+            ("P06 — Phân khúc khán giả", "outputs/dashboard/guides/p06-audience.html",
+             "Chọn nhóm đánh trước từ 2,567 comment thật", "dash"),
+            ("P10 — Gói SEO", "outputs/dashboard/guides/p10-seo.html",
+             "Tiêu đề + mô tả + tag copy-paste vào YouTube", "dash"),
+            ("P11 — Thumbnail + Design Brief", "outputs/dashboard/guides/p11-thumbnail.html",
+             "72 concept + prompt AI + tiêu chí nghiệm thu", "dash"),
+            ("P05 — Đa nền tảng", "outputs/dashboard/guides/p05-repurpose.html",
+             "1 video → 5 định dạng, có brief cho editor", "dash"),
+            ("30D — Checklist 30 ngày", "outputs/dashboard/guides/checklist-30d.html",
+             "Hôm nay làm gì, mốc kiểm tra ngày 7/14/21/30", "dash"),
+            ("EVERGREEN — Plan 24 video", "outputs/dashboard/guides/evergreen.html",
+             "Chủ đề từ từ khoá thật, 18/24 đối thủ chưa làm", "dash"),
+            ("ANALYTICS — Điểm mù", "outputs/dashboard/guides/analytics-blindspots.html",
+             "11 điểm mù + cảnh báo traffic bot", "dash"),
+            ("AUDIT — MrBeast", "outputs/dashboard/guides/mrbeast-audit.html",
+             "Chẩn đoán + plan 90 ngày + build-to-sell", "dash"),
+        ]),
         ("Dashboard — mở xem số liệu", [
             ("REPORT_HUB.html (trang này)", "outputs/dashboard/REPORT_HUB.html",
              "Điểm vào duy nhất — gom mọi link + số liệu chính", "dash"),

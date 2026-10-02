@@ -68,6 +68,10 @@ steps:
   - id: build_production_checklist
     run: Set-Location C:\Users\Admin\youtube; python scripts\build_production_checklist.py
 
+  # Trang hướng dẫn: mỗi báo cáo 1 trang 5W1H + SOP + đường dẫn bấm được
+  - id: build_sop_guides
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_sop_guides.py
+
   # Report Hub: trang điểm vào duy nhất, gom link mọi báo cáo + số liệu chính
   - id: build_report_hub
     run: Set-Location C:\Users\Admin\youtube; python scripts\build_report_hub.py
