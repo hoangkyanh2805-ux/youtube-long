@@ -72,7 +72,7 @@ Xem: docs/GITHUB_INTEGRATION_PLAN.md
 | Phase | Tên | Trạng thái |
 |-------|-----|------------|
 | 1 | Sentiment Analysis | ✅ Hoàn thành |
-| 2 | Competitor Analysis | ⬜ Chưa bắt đầu |
+| 2 | Competitor Analysis | ✅ Hoàn thành |
 | 3 | Content Scouting | ⬜ Chưa bắt đầu |
 | 4 | Comment Scraper | ⬜ Chưa bắt đầu |
 | 5 | Predictive Analytics | ⬜ Chưa bắt đầu |
