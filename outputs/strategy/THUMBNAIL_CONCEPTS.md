@@ -1,6 +1,6 @@
 # P11 — CONCEPT THUMBNAIL (24 video)
 
-**Sinh:** 2026-10-02 09:27 UTC  
+**Sinh:** 2026-10-02 09:36 UTC  
 **Guardrail:** không hình gây hiểu sai, không giả mạo kết quả trading.
 
 ## Bảng màu kênh
@@ -17,7 +17,7 @@
 **Nỗi đau:** risk_management  
 **Concept chọn:** T1  
 
-> "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt"
+> "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL "
 
 ### Concept
 
@@ -183,7 +183,7 @@ YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subje
 **Nỗi đau:** risk_management  
 **Concept chọn:** T1  
 
-> "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt"
+> "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL "
 
 ### Concept
 
@@ -737,7 +737,7 @@ YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subje
 **Nỗi đau:** psychology  
 **Concept chọn:** T3  
 
-> "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain"
+> "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt"
 
 ### Concept
 
@@ -905,7 +905,7 @@ YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subje
 **Nỗi đau:** psychology  
 **Concept chọn:** T3  
 
-> "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain"
+> "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt"
 
 ### Concept
 
@@ -1129,7 +1129,7 @@ YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subje
 **Nỗi đau:** risk_management  
 **Concept chọn:** T1  
 
-> "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt"
+> "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL "
 
 ### Concept
 
@@ -1185,7 +1185,7 @@ YouTube thumbnail, 16:9, 1280x720, high contrast, mobile-first legibility. Subje
 **Nỗi đau:** psychology  
 **Concept chọn:** T3  
 
-> "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain"
+> "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt"
 
 ### Concept
 

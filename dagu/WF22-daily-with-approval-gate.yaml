@@ -35,10 +35,6 @@ steps:
   # → P05 (đa nền tảng + editor handoff) → checklist 30 ngày.
   # Alan duyệt xong mới tới brief_to_editor, nên editor nhận gói đã duyệt.
 
-  # Trang hướng dẫn: mỗi báo cáo 1 trang 5W1H + SOP + đường dẫn bấm được
-  - id: build_sop_guides
-    run: Set-Location C:\Users\Admin\youtube; python scripts\build_sop_guides.py
-
   - id: build_audience_segments
     run: Set-Location C:\Users\Admin\youtube; python scripts\build_audience_segments.py
 
@@ -62,9 +58,15 @@ steps:
     run: Set-Location C:\Users\Admin\youtube; python scripts\build_ops_dashboard.py
     depends: [build_production_checklist]
 
+  # Trang hướng dẫn PHẢI sinh SAU khi có đủ dữ liệu — nếu chạy trước, guide
+  # trỏ tới file chưa tồn tại (hoặc bản cũ) → link chết trong guide.
+  - id: build_sop_guides
+    run: Set-Location C:\Users\Admin\youtube; python scripts\build_sop_guides.py
+    depends: [rebuild_dashboard]
+
   - id: send_painpoints_for_review
     run: Set-Location C:\Users\Admin\youtube; python scripts\telegram_reporter.py --report comment --send --approve APPROVE
-    depends: [rebuild_dashboard]
+    depends: [build_sop_guides]
 
   # Gửi luôn kết quả dây chuyền sản xuất để Alan có đủ số liệu trước khi duyệt
   - id: send_production_pipeline

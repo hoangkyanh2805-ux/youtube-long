@@ -1,210 +1,246 @@
 {
   "source": "comment + title mining, NOT Keyword Planner",
-  "total_comments": 7937,
-  "total_pain_points": 1848,
+  "total_comments": 8575,
+  "total_pain_points": 2004,
   "top_unigrams": [
     {
       "word": "trading",
-      "freq": 547
-    },
-    {
-      "word": "trade",
-      "freq": 360
+      "freq": 568
     },
     {
       "word": "strategy",
-      "freq": 332
+      "freq": 376
+    },
+    {
+      "word": "trade",
+      "freq": 376
     },
     {
       "word": "market",
-      "freq": 276
+      "freq": 281
     },
     {
       "word": "time",
-      "freq": 225
-    },
-    {
-      "word": "money",
-      "freq": 138
+      "freq": 243
     },
     {
       "word": "candle",
-      "freq": 128
+      "freq": 143
+    },
+    {
+      "word": "money",
+      "freq": 137
     },
     {
       "word": "because",
-      "freq": 127
-    },
-    {
-      "word": "risk",
-      "freq": 127
+      "freq": 136
     },
     {
       "word": "trades",
-      "freq": 118
+      "freq": 136
+    },
+    {
+      "word": "risk",
+      "freq": 135
     },
     {
       "word": "best",
-      "freq": 117
-    },
-    {
-      "word": "real",
-      "freq": 107
+      "freq": 129
     },
     {
       "word": "entry",
-      "freq": 106
-    },
-    {
-      "word": "chart",
-      "freq": 105
+      "freq": 123
     },
     {
       "word": "great",
-      "freq": 103
-    },
-    {
-      "word": "day",
-      "freq": 103
-    },
-    {
-      "word": "understand",
-      "freq": 102
-    },
-    {
-      "word": "work",
-      "freq": 100
+      "freq": 119
     },
     {
       "word": "price",
-      "freq": 99
+      "freq": 113
+    },
+    {
+      "word": "understand",
+      "freq": 110
+    },
+    {
+      "word": "work",
+      "freq": 108
+    },
+    {
+      "word": "chart",
+      "freq": 107
+    },
+    {
+      "word": "real",
+      "freq": 105
+    },
+    {
+      "word": "day",
+      "freq": 105
+    },
+    {
+      "word": "love",
+      "freq": 103
+    },
+    {
+      "word": "first",
+      "freq": 102
     },
     {
       "word": "liquidity",
-      "freq": 97
+      "freq": 100
     },
     {
-      "word": "right",
+      "word": "always",
+      "freq": 96
+    },
+    {
+      "word": "stop",
       "freq": 95
     },
     {
-      "word": "better",
-      "freq": 92
+      "word": "right",
+      "freq": 94
+    },
+    {
+      "word": "trader",
+      "freq": 93
+    },
+    {
+      "word": "account",
+      "freq": 93
     },
     {
       "word": "traders",
       "freq": 92
     },
     {
-      "word": "account",
+      "word": "better",
       "freq": 91
     },
     {
-      "word": "stop",
-      "freq": 90
-    },
-    {
-      "word": "always",
-      "freq": 90
-    },
-    {
-      "word": "first",
-      "freq": 90
-    },
-    {
       "word": "every",
-      "freq": 89
-    },
-    {
-      "word": "trader",
-      "freq": 89
-    },
-    {
-      "word": "love",
-      "freq": 88
-    },
-    {
-      "word": "years",
-      "freq": 83
-    },
-    {
-      "word": "charts",
-      "freq": 83
+      "freq": 90
     },
     {
       "word": "learn",
-      "freq": 83
-    },
-    {
-      "word": "keep",
-      "freq": 80
-    },
-    {
-      "word": "new",
-      "freq": 80
-    },
-    {
-      "word": "learning",
-      "freq": 79
-    },
-    {
-      "word": "loss",
-      "freq": 78
-    },
-    {
-      "word": "people",
-      "freq": 78
+      "freq": 87
     },
     {
       "word": "setup",
-      "freq": 77
+      "freq": 86
+    },
+    {
+      "word": "keep",
+      "freq": 86
+    },
+    {
+      "word": "charts",
+      "freq": 85
+    },
+    {
+      "word": "new",
+      "freq": 85
+    },
+    {
+      "word": "years",
+      "freq": 84
+    },
+    {
+      "word": "ict",
+      "freq": 83
+    },
+    {
+      "word": "loss",
+      "freq": 82
+    },
+    {
+      "word": "people",
+      "freq": 81
+    },
+    {
+      "word": "learning",
+      "freq": 81
+    },
+    {
+      "word": "without",
+      "freq": 80
+    },
+    {
+      "word": "daily",
+      "freq": 79
+    },
+    {
+      "word": "profitable",
+      "freq": 78
+    },
+    {
+      "word": "profit",
+      "freq": 78
     },
     {
       "word": "pat",
       "freq": 76
     },
     {
-      "word": "without",
+      "word": "structure",
       "freq": 75
     },
     {
-      "word": "structure",
-      "freq": 73
-    },
-    {
       "word": "started",
-      "freq": 73
+      "freq": 75
     },
     {
       "word": "think",
-      "freq": 72
+      "freq": 74
     },
     {
-      "word": "profit",
-      "freq": 72
-    },
-    {
-      "word": "daily",
-      "freq": 71
-    },
-    {
-      "word": "ict",
-      "freq": 67
+      "word": "everything",
+      "freq": 70
     },
     {
       "word": "looking",
-      "freq": 65
+      "freq": 70
+    },
+    {
+      "word": "ttrades",
+      "freq": 69
+    },
+    {
+      "word": "win",
+      "freq": 69
+    },
+    {
+      "word": "explain",
+      "freq": 69
     },
     {
       "word": "long",
+      "freq": 66
+    },
+    {
+      "word": "live",
+      "freq": 66
+    },
+    {
+      "word": "start",
       "freq": 65
     },
     {
-      "word": "profitable",
+      "word": "helped",
       "freq": 64
     },
     {
-      "word": "while",
+      "word": "simple",
+      "freq": 64
+    },
+    {
+      "word": "min",
+      "freq": 64
+    },
+    {
+      "word": "high",
       "freq": 64
     },
     {
@@ -212,59 +248,43 @@
       "freq": 63
     },
     {
-      "word": "min",
-      "freq": 63
-    },
-    {
-      "word": "start",
-      "freq": 63
-    },
-    {
-      "word": "live",
-      "freq": 63
-    },
-    {
-      "word": "everything",
-      "freq": 62
-    },
-    {
-      "word": "explain",
-      "freq": 62
-    },
-    {
-      "word": "simple",
-      "freq": 60
-    },
-    {
       "word": "easy",
-      "freq": 60
+      "freq": 63
+    },
+    {
+      "word": "while",
+      "freq": 62
+    },
+    {
+      "word": "content",
+      "freq": 62
+    },
+    {
+      "word": "bias",
+      "freq": 62
+    },
+    {
+      "word": "explained",
+      "freq": 61
     },
     {
       "word": "making",
-      "freq": 59
+      "freq": 61
     },
     {
-      "word": "helped",
-      "freq": 58
+      "word": "move",
+      "freq": 59
     },
     {
       "word": "demand",
       "freq": 58
     },
     {
-      "word": "explained",
+      "word": "losses",
       "freq": 57
     },
     {
-      "word": "win",
-      "freq": 57
-    },
-    {
-      "word": "high",
-      "freq": 57
-    },
-    {
-      "word": "move",
+      "word": "candles",
       "freq": 56
     },
     {
@@ -272,83 +292,103 @@
       "freq": 56
     },
     {
-      "word": "content",
+      "word": "timeframe",
       "freq": 55
-    },
-    {
-      "word": "candles",
-      "freq": 55
-    },
-    {
-      "word": "ttrades",
-      "freq": 54
     },
     {
       "word": "works",
-      "freq": 54
-    },
-    {
-      "word": "swing",
-      "freq": 54
-    },
-    {
-      "word": "bias",
-      "freq": 51
-    },
-    {
-      "word": "timeframe",
-      "freq": 50
-    },
-    {
-      "word": "higher",
-      "freq": 50
-    },
-    {
-      "word": "forex",
-      "freq": 50
-    },
-    {
-      "word": "beginner",
-      "freq": 50
-    },
-    {
-      "word": "last",
-      "freq": 49
-    },
-    {
-      "word": "losses",
-      "freq": 49
-    },
-    {
-      "word": "mentor",
-      "freq": 49
-    },
-    {
-      "word": "year",
-      "freq": 48
-    },
-    {
-      "word": "set",
-      "freq": 48
-    },
-    {
-      "word": "learned",
-      "freq": 48
-    },
-    {
-      "word": "trying",
-      "freq": 48
-    },
-    {
-      "word": "youtube",
-      "freq": 47
+      "freq": 55
     },
     {
       "word": "low",
-      "freq": 47
+      "freq": 55
+    },
+    {
+      "word": "swing",
+      "freq": 55
+    },
+    {
+      "word": "forex",
+      "freq": 54
+    },
+    {
+      "word": "last",
+      "freq": 52
+    },
+    {
+      "word": "higher",
+      "freq": 52
+    },
+    {
+      "word": "beginner",
+      "freq": 52
+    },
+    {
+      "word": "learned",
+      "freq": 52
+    },
+    {
+      "word": "indicator",
+      "freq": 52
+    },
+    {
+      "word": "helpful",
+      "freq": 51
+    },
+    {
+      "word": "youtube",
+      "freq": 51
+    },
+    {
+      "word": "trying",
+      "freq": 51
+    },
+    {
+      "word": "year",
+      "freq": 50
+    },
+    {
+      "word": "find",
+      "freq": 50
+    },
+    {
+      "word": "mentor",
+      "freq": 50
+    },
+    {
+      "word": "set",
+      "freq": 49
+    },
+    {
+      "word": "seen",
+      "freq": 49
     },
     {
       "word": "demo",
+      "freq": 49
+    },
+    {
+      "word": "show",
+      "freq": 49
+    },
+    {
+      "word": "explanation",
+      "freq": 48
+    },
+    {
+      "word": "since",
+      "freq": 47
+    },
+    {
+      "word": "indicators",
+      "freq": 47
+    },
+    {
+      "word": "trend",
+      "freq": 47
+    },
+    {
+      "word": "clear",
       "freq": 47
     },
     {
@@ -356,52 +396,12 @@
       "freq": 47
     },
     {
-      "word": "find",
+      "word": "rate",
       "freq": 46
     },
     {
-      "word": "helpful",
+      "word": "point",
       "freq": 46
-    },
-    {
-      "word": "since",
-      "freq": 46
-    },
-    {
-      "word": "enter",
-      "freq": 46
-    },
-    {
-      "word": "supply",
-      "freq": 46
-    },
-    {
-      "word": "indicator",
-      "freq": 46
-    },
-    {
-      "word": "isnt",
-      "freq": 45
-    },
-    {
-      "word": "show",
-      "freq": 45
-    },
-    {
-      "word": "frame",
-      "freq": 44
-    },
-    {
-      "word": "someone",
-      "freq": 44
-    },
-    {
-      "word": "discipline",
-      "freq": 44
-    },
-    {
-      "word": "trend",
-      "freq": 44
     }
   ]
 }

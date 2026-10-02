@@ -4,11 +4,27 @@
   "top_patterns": [
     {
       "phrase": "ict concepts",
-      "video_count": 8
+      "video_count": 13
     },
     {
       "phrase": "step step",
       "video_count": 4
+    },
+    {
+      "phrase": "trading strategy",
+      "video_count": 4
+    },
+    {
+      "phrase": "daily bias",
+      "video_count": 3
+    },
+    {
+      "phrase": "simplified ict",
+      "video_count": 3
+    },
+    {
+      "phrase": "simplified ict concepts",
+      "video_count": 3
     },
     {
       "phrase": "market structure",
@@ -19,15 +35,51 @@
       "video_count": 3
     },
     {
-      "phrase": "simplified ict",
-      "video_count": 2
-    },
-    {
-      "phrase": "simplified ict concepts",
-      "video_count": 2
-    },
-    {
       "phrase": "trading beginners",
+      "video_count": 3
+    },
+    {
+      "phrase": "fair value",
+      "video_count": 2
+    },
+    {
+      "phrase": "value gaps",
+      "video_count": 2
+    },
+    {
+      "phrase": "fair value gaps",
+      "video_count": 2
+    },
+    {
+      "phrase": "day trade",
+      "video_count": 2
+    },
+    {
+      "phrase": "supply amp",
+      "video_count": 2
+    },
+    {
+      "phrase": "amp demand",
+      "video_count": 2
+    },
+    {
+      "phrase": "strategy works",
+      "video_count": 2
+    },
+    {
+      "phrase": "supply amp demand",
+      "video_count": 2
+    },
+    {
+      "phrase": "best free",
+      "video_count": 2
+    },
+    {
+      "phrase": "free forex",
+      "video_count": 2
+    },
+    {
+      "phrase": "best free forex",
       "video_count": 2
     },
     {
@@ -39,15 +91,51 @@
       "video_count": 2
     },
     {
-      "phrase": "trading strategy",
+      "phrase": "orb trading",
+      "video_count": 2
+    },
+    {
+      "phrase": "orb trading strategy",
+      "video_count": 2
+    },
+    {
+      "phrase": "forex trading",
+      "video_count": 2
+    },
+    {
+      "phrase": "beginners full",
+      "video_count": 2
+    },
+    {
+      "phrase": "full course",
+      "video_count": 2
+    },
+    {
+      "phrase": "forex trading beginners",
+      "video_count": 2
+    },
+    {
+      "phrase": "trading beginners full",
+      "video_count": 2
+    },
+    {
+      "phrase": "beginners full course",
+      "video_count": 2
+    },
+    {
+      "phrase": "ultimate supply",
+      "video_count": 2
+    },
+    {
+      "phrase": "traders fail",
+      "video_count": 2
+    },
+    {
+      "phrase": "day trading",
       "video_count": 2
     },
     {
       "phrase": "ict daily",
-      "video_count": 1
-    },
-    {
-      "phrase": "daily bias",
       "video_count": 1
     },
     {
@@ -171,14 +259,6 @@
       "video_count": 1
     },
     {
-      "phrase": "fair value",
-      "video_count": 1
-    },
-    {
-      "phrase": "value gaps",
-      "video_count": 1
-    },
-    {
       "phrase": "gaps ifvg",
       "video_count": 1
     },
@@ -188,10 +268,6 @@
     },
     {
       "phrase": "inversion fair value",
-      "video_count": 1
-    },
-    {
-      "phrase": "fair value gaps",
       "video_count": 1
     },
     {
@@ -299,10 +375,6 @@
       "video_count": 1
     },
     {
-      "phrase": "day trade",
-      "video_count": 1
-    },
-    {
       "phrase": "trade less",
       "video_count": 1
     },
@@ -328,78 +400,6 @@
     },
     {
       "phrase": "less minute shorts",
-      "video_count": 1
-    },
-    {
-      "phrase": "trading expert",
-      "video_count": 1
-    },
-    {
-      "phrase": "expert reacts",
-      "video_count": 1
-    },
-    {
-      "phrase": "reacts shorts",
-      "video_count": 1
-    },
-    {
-      "phrase": "trading expert reacts",
-      "video_count": 1
-    },
-    {
-      "phrase": "expert reacts shorts",
-      "video_count": 1
-    },
-    {
-      "phrase": "buy sell",
-      "video_count": 1
-    },
-    {
-      "phrase": "sell hold",
-      "video_count": 1
-    },
-    {
-      "phrase": "hold shorts",
-      "video_count": 1
-    },
-    {
-      "phrase": "buy sell hold",
-      "video_count": 1
-    },
-    {
-      "phrase": "sell hold shorts",
-      "video_count": 1
-    },
-    {
-      "phrase": "biggest myths",
-      "video_count": 1
-    },
-    {
-      "phrase": "myths tell",
-      "video_count": 1
-    },
-    {
-      "phrase": "tell day",
-      "video_count": 1
-    },
-    {
-      "phrase": "day traders",
-      "video_count": 1
-    },
-    {
-      "phrase": "traders shorts",
-      "video_count": 1
-    },
-    {
-      "phrase": "biggest myths tell",
-      "video_count": 1
-    },
-    {
-      "phrase": "myths tell day",
-      "video_count": 1
-    },
-    {
-      "phrase": "tell day traders",
       "video_count": 1
     }
   ]

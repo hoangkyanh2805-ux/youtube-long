@@ -2,20 +2,20 @@
 
 ## Fact
 
-- Normalized unique comments: 6834
-- Candidate comments: 1642
+- Normalized unique comments: 6684
+- Candidate comments: 1653
 - Missing content URL: 0
-- Platforms: {'youtube': 6834}
+- Platforms: {'youtube': 6684}
 
 ## Candidate categories
 
-- education_gap: 759
-- strategy_rules: 483
-- other_question_or_pain: 267
+- education_gap: 794
+- strategy_rules: 468
+- other_question_or_pain: 272
 - risk_management: 256
-- entry_timing: 163
-- psychology: 90
-- broker_platform: 45
+- entry_timing: 167
+- psychology: 86
+- broker_platform: 48
 
 ## Top source-backed candidates
 

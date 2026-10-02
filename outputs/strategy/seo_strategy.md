@@ -1,9 +1,9 @@
 # Chiến lược SEO kênh — Azzam
 
 ## Fact — nguồn dữ liệu (số UNIQUE sau dedupe)
-- Comments scrape raw: 11125 (shorts 4389 + long-form 6736)
-- Comments UNIQUE: **7937** (overlap 3188 comment xuất hiện ở cả 2 run — vì top shorts cũng là video long-form)
-- Pain-point candidates raw: 2567 | UNIQUE: **1848** (overlap 719)
+- Comments scrape raw: 11223 (shorts 4389 + long-form 6834)
+- Comments UNIQUE: **8575** (overlap 2648 comment xuất hiện ở cả 2 run — vì top shorts cũng là video long-form)
+- Pain-point candidates raw: 2627 | UNIQUE: **2004** (overlap 623)
 - 4 kênh đối thủ: TTrades (532K subs), Raghee Horner (87.9K), Trade with Pat (419K), JeaFx (876K)
 - Keywords mine từ comment + video title. KHÔNG có Keyword Planner → không có search volume thật, chỉ có tần suất trong dữ liệu.
 
@@ -13,25 +13,25 @@
 
 | # | Keyword | Freq trong comment | Category | Ưu tiên |
 |---|---------|-------------------|----------|---------|
-| 1 | trading | 547 | core | CAO |
-| 2 | strategy | 332 | core | CAO |
-| 3 | liquidity | 97 | ICT/SMC | TRUNG |
-| 4 | market | 276 | core | CAO |
-| 5 | trade | 360 | core | CAO |
-| 6 | entry | 106 | execution | CAO |
-| 7 | risk | 127 | risk | CAO |
-| 8 | structure | 73 | ICT/SMC | TRUNG |
-| 9 | candle | 128 | basic | CAO |
-| 10 | chart | 105 | basic | CAO |
-| 11 | stop | 90 | risk | TRUNG |
-| 12 | timeframe | 50 | strategy | TRUNG |
-| 13 | profit | 72 | outcome | TRUNG |
-| 14 | setup | 77 | strategy | TRUNG |
-| 15 | backtest | 15 | process | THẤP |
+| 1 | trading | 568 | core | CAO |
+| 2 | strategy | 376 | core | CAO |
+| 3 | liquidity | 100 | ICT/SMC | CAO |
+| 4 | market | 281 | core | CAO |
+| 5 | trade | 376 | core | CAO |
+| 6 | entry | 123 | execution | CAO |
+| 7 | risk | 135 | risk | CAO |
+| 8 | structure | 75 | ICT/SMC | TRUNG |
+| 9 | candle | 143 | basic | CAO |
+| 10 | chart | 107 | basic | CAO |
+| 11 | stop | 95 | risk | TRUNG |
+| 12 | timeframe | 55 | strategy | TRUNG |
+| 13 | profit | 78 | outcome | TRUNG |
+| 14 | setup | 86 | strategy | TRUNG |
+| 15 | backtest | 29 | process | THẤP |
 | 16 | broker | 15 | platform | THẤP |
 | 17 | prop | 33 | platform | THẤP |
-| 18 | mentor | 49 | community | TRUNG |
-| 19 | course | 30 | offer | THẤP |
+| 18 | mentor | 50 | community | TRUNG |
+| 19 | course | 32 | offer | THẤP |
 | 20 | robot | 24 | automation | THẤP |
 
 ## 2. Từ khóa dài (long-tail)
@@ -40,61 +40,61 @@
 
 | # | Long-tail phrase | Freq | Dùng cho |
 |---|------------------|------|----------|
-| 1 | stop loss | 43 | Title + Description |
+| 1 | stop loss | 44 | Title + Description |
 | 2 | supply demand | 36 | Title + Description |
 | 3 | market structure | 33 | Title + Description |
-| 4 | risk management | 29 | Title + Description |
-| 5 | daily bias | 23 | Title + Description |
+| 4 | daily bias | 31 | Title + Description |
+| 5 | risk management | 29 | Title + Description |
 | 6 | swing trading | 21 | Title + Description |
-| 7 | trading strategy | 20 | Title + Description |
-| 8 | started trading | 19 | Title + Description |
+| 7 | started trading | 20 | Title + Description |
+| 8 | trading strategy | 19 | Title + Description |
 | 9 | paper trading | 15 | Title + Description |
-| 10 | prop firms | 15 | Title + Description |
-| 11 | support resistance | 13 | Title + Description |
+| 10 | prop firms | 14 | Title + Description |
+| 11 | order block | 13 | Title + Description |
 | 12 | prop firm | 12 | Title + Description |
-| 13 | every day | 12 | Title + Description |
-| 14 | order block | 12 | Title + Description |
+| 13 | entry model | 12 | Title + Description |
+| 14 | every day | 11 | Title + Description |
 | 15 | orb strategy | 11 | Title + Description |
-| 16 | candle candle | 10 | Title + Description |
-| 17 | chart examples | 10 | Title + Description |
-| 18 | learning trade | 9 | Title + Description |
-| 19 | stop losses | 9 | Title + Description |
-| 20 | liquidity sweep | 9 | Title + Description |
-| 21 | trading without | 9 | Title + Description |
-| 22 | trade trade | 8 | Title + Description |
-| 23 | trading years | 8 | Title + Description |
-| 24 | minute scalping | 8 | Title + Description |
-| 25 | per day | 8 | Title + Description |
-| 26 | money trading | 8 | Title + Description |
-| 27 | break structure | 8 | Title + Description |
-| 28 | trading real | 8 | Title + Description |
-| 29 | trading journey | 8 | Title + Description |
-| 30 | ict concepts | 8 | Title + Description |
+| 16 | learning trade | 10 | Title + Description |
+| 17 | stop losses | 10 | Title + Description |
+| 18 | candle candle | 10 | Title + Description |
+| 19 | ict concepts | 10 | Title + Description |
+| 20 | risk reward | 10 | Title + Description |
+| 21 | chart examples | 10 | Title + Description |
+| 22 | trading years | 9 | Title + Description |
+| 23 | liquidity sweep | 9 | Title + Description |
+| 24 | per trade | 9 | Title + Description |
+| 25 | strategy work | 9 | Title + Description |
+| 26 | trading without | 9 | Title + Description |
+| 27 | support resistance | 9 | Title + Description |
+| 28 | trade trade | 8 | Title + Description |
+| 29 | strategy works | 8 | Title + Description |
+| 30 | minute scalping | 8 | Title + Description |
 
 ### 2b. Pattern TIÊU ĐỀ ĐỐI THỦ (mine 1 lần/video) — dùng làm công thức
 
 | # | Title pattern | Số video dùng |
 |---|---------------|---------------|
-| 1 | ict concepts | 8 |
+| 1 | ict concepts | 13 |
 | 2 | step step | 4 |
-| 3 | market structure | 3 |
-| 4 | scalping strategy | 3 |
-| 5 | simplified ict | 2 |
-| 6 | simplified ict concepts | 2 |
-| 7 | trading beginners | 2 |
-| 8 | ever step | 2 |
-| 9 | ever step step | 2 |
-| 10 | trading strategy | 2 |
-| 11 | ict daily | 1 |
-| 12 | daily bias | 1 |
-| 13 | bias ever | 1 |
-| 14 | ict daily bias | 1 |
-| 15 | daily bias ever | 1 |
-| 16 | ict entry | 1 |
-| 17 | entry checklist | 1 |
-| 18 | checklist ict | 1 |
-| 19 | ict entry checklist | 1 |
-| 20 | entry checklist ict | 1 |
+| 3 | trading strategy | 4 |
+| 4 | daily bias | 3 |
+| 5 | simplified ict | 3 |
+| 6 | simplified ict concepts | 3 |
+| 7 | market structure | 3 |
+| 8 | scalping strategy | 3 |
+| 9 | trading beginners | 3 |
+| 10 | fair value | 2 |
+| 11 | value gaps | 2 |
+| 12 | fair value gaps | 2 |
+| 13 | day trade | 2 |
+| 14 | supply amp | 2 |
+| 15 | amp demand | 2 |
+| 16 | strategy works | 2 |
+| 17 | supply amp demand | 2 |
+| 18 | best free | 2 |
+| 19 | free forex | 2 |
+| 20 | best free forex | 2 |
 
 ## 3. Cấu trúc SEO cho từng loại content
 

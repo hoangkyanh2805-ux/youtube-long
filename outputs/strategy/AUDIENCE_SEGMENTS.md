@@ -1,6 +1,6 @@
 # P06 — PHÂN KHÚC KHÁN GIẢ GIÁ TRỊ NHẤT
 
-**Sinh:** 2026-10-02 09:27 UTC  
+**Sinh:** 2026-10-02 09:36 UTC  
 **Nguồn:** 2,627 comment đã chấm điểm · 8 pain cluster · 7,937 comment gốc · analytics 28 ngày thật
 
 > Nguyên tắc: **không mặc định phân khúc đông nhất là giá trị nhất.** Chấm theo nhu cầu, tiền, tiếp cận, cạnh tranh và độ hợp thế mạnh kênh.

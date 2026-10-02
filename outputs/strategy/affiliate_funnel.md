@@ -68,11 +68,11 @@ AFFILIATE (Monetize)   →  Broker IB + Prop firm + Tools (EA, TradingView)
 
 | Sales Angle | Pain cluster | Evidence | Lead magnet | Offer | Affiliate |
 |-------------|--------------|----------|-------------|-------|-----------|
-| SA-07 | education_gap / basic không vững | 1041 | 30-Day Roadmap | Core Course | — |
-| SA-02 | overcomplicating / strategy quá phức tạp | 532 | 1-Setup Template | Complete System | TradingView |
-| SA-03 | risk_management / cháy tài khoản | 488 | Risk Calculator | Complete System | Broker IB |
-| SA-06 | community / cô độc khi trading | 358 | Telegram group access | VIP Mentorship | — |
-| SA-04 | entry_timing / vào lệnh sai thời điểm | 339 | Entry Checklist | Complete System | TradingView |
-| SA-08 | broker_platform / spread, prop firm | 138 | Prop Firm Checklist | — | Prop firm affiliate |
-| SA-05 | psychology / revenge trading, FOMO | 99 | Trading Journal | VIP Mentorship | Journal app |
-| SA-01 | discipline / không theo plan | 90 | Trading Plan Template | Complete System | Journal app |
+| SA-07 | education_gap / basic không vững | 1113 | 30-Day Roadmap | Core Course | — |
+| SA-02 | overcomplicating / strategy quá phức tạp | 593 | 1-Setup Template | Complete System | TradingView |
+| SA-03 | risk_management / cháy tài khoản | 528 | Risk Calculator | Complete System | Broker IB |
+| SA-06 | community / cô độc khi trading | 393 | Telegram group access | VIP Mentorship | — |
+| SA-04 | entry_timing / vào lệnh sai thời điểm | 362 | Entry Checklist | Complete System | TradingView |
+| SA-08 | broker_platform / spread, prop firm | 139 | Prop Firm Checklist | — | Prop firm affiliate |
+| SA-05 | psychology / revenge trading, FOMO | 100 | Trading Journal | VIP Mentorship | Journal app |
+| SA-01 | discipline / không theo plan | 89 | Trading Plan Template | Complete System | Journal app |

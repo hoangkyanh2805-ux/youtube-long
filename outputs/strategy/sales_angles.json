@@ -2,7 +2,7 @@
   {
     "id": "SA-07",
     "pain_cluster": "education_gap / basic không vững",
-    "evidence_count": 1041,
+    "evidence_count": 1113,
     "audience_quote": "I’ve been seriously considering deleting all my trading apps. After 8 months of studying charts, buying courses, and trying to learn the markets, I’m still losing money overall. It feels like every time I enter a trade, the market immediately moves against me. As a beginner, this",
     "sales_angle": "Bạn học SMC/ICT trước khi hiểu BASIC — đó là thứ tự sai",
     "big_promise": "Lộ trình 30 ngày: basic → structure → setup → execution",
@@ -13,8 +13,8 @@
       "Short: Đừng học ICT khi chưa biết cái này",
       "Long: Lộ trình 30 ngày từ 0"
     ],
-    "category_evidence": 862,
-    "keyword_evidence": 579,
+    "category_evidence": 923,
+    "keyword_evidence": 608,
     "evidence_url": "https://www.youtube.com/watch?v=JXHrTloZ-nE",
     "evidence_comment_id": "Ugzm4kv115BYHPVk5J54AaABAg",
     "top_evidence": [
@@ -53,7 +53,7 @@
   {
     "id": "SA-02",
     "pain_cluster": "overcomplicating / strategy quá phức tạp",
-    "evidence_count": 532,
+    "evidence_count": 593,
     "audience_quote": "Nowadays isee young people crazy wanna complex strategy like SMC ICT wcykoff setup without strengthen the basic of market...basic is king guys...even JEA make this video to help out ..please don't skip n understand really well of this valuable video... master market structure -Sn",
     "sales_angle": "Bạn không thiếu strategy — bạn đang có QUÁ NHIỀU strategy",
     "big_promise": "1 setup duy nhất, backtest 100 lệnh, chấp nhận 40% winrate vẫn có lãi",
@@ -64,8 +64,8 @@
       "Short: Xoá 5 indicator này ngay",
       "Long: Từ 10 indicator → 1 setup trong 30 ngày"
     ],
-    "category_evidence": 512,
-    "keyword_evidence": 27,
+    "category_evidence": 571,
+    "keyword_evidence": 30,
     "evidence_url": "https://www.youtube.com/shorts/LclxDYccla8",
     "evidence_comment_id": "UgyUIYU3DEoROf2wb2R4AaABAg",
     "top_evidence": [
@@ -82,6 +82,12 @@
         "comment_id": "UgwiEXTBviOdz20Tkk14AaABAg"
       },
       {
+        "quote": "Amazing video! I actually simplified and made a Notion template from everything I learned from ICT and his students. I think it could help you to plan and journal your trades. It also includes a lot o",
+        "score": "4.441",
+        "url": "https://www.youtube.com/watch?v=Y8DkNYhq0X0",
+        "comment_id": "UgwtNxuid5L7pbIMIoV4AaABAg"
+      },
+      {
         "quote": "Sometimes you have to stop watching and just jump in. Keep it simple. Find one method, stick with it, grow slow. Most folks blow up because they’re trying to get rich in a week. Treat it like building",
         "score": "1.25",
         "url": "https://www.youtube.com/watch?v=T06ayy3-zs8",
@@ -92,20 +98,14 @@
         "score": "4.676",
         "url": "https://www.youtube.com/shorts/YESqIoA7Wyg",
         "comment_id": "Ugyq257suvE_mCku92x4AaABAg"
-      },
-      {
-        "quote": "keep up your work man love your simplifying ICT teaching cuz it gets a bit confusing for some people since i found your channel my ict understanding increased even more thanks for that my G. And if yo",
-        "score": "3.206",
-        "url": "https://www.youtube.com/shorts/YESqIoA7Wyg",
-        "comment_id": "UgxxHr9vjz6ujG9P_XR4AaABAg"
       }
     ]
   },
   {
     "id": "SA-03",
     "pain_cluster": "risk_management / cháy tài khoản",
-    "evidence_count": 488,
-    "audience_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
+    "evidence_count": 528,
+    "audience_quote": "Just did a backtest on this strategy between Feb-23 to half of Aug-23 and only using the 2022 ICT entry model on the retracement to FVG after MSS. Took 50% off at 50% to TP at the same time moving SL to breakeven. Return overall was 24.53% which is decent however most of the prof",
     "sales_angle": "95% trader chết vì position sizing, không phải vì entry sai",
     "big_promise": "Công thức risk cố định để không bao giờ cháy tài khoản",
     "proof_hook": "Cùng 1 setup, cùng winrate — chỉ đổi risk, kết quả khác hoàn toàn",
@@ -115,11 +115,17 @@
       "Short: 1 lệnh này xoá sạch tài khoản",
       "Long: Risk management masterclass"
     ],
-    "category_evidence": 286,
-    "keyword_evidence": 402,
-    "evidence_url": "https://www.youtube.com/watch?v=G2THP1LGPB0",
-    "evidence_comment_id": "Ugy08td1ezgS7drW-Mp4AaABAg",
+    "category_evidence": 309,
+    "keyword_evidence": 431,
+    "evidence_url": "https://www.youtube.com/watch?v=o0v4KQxZbpU",
+    "evidence_comment_id": "UgykjNdXZ7GDOJFaCph4AaABAg",
     "top_evidence": [
+      {
+        "quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
+        "score": "8.722",
+        "url": "https://www.youtube.com/watch?v=G2THP1LGPB0",
+        "comment_id": "Ugy08td1ezgS7drW-Mp4AaABAg"
+      },
       {
         "quote": "Becoming a good trade takes time and patience. When i first got into trading i was liquidated twice, and lost my entire mortgage deposit. I could have given up, but decided to learn how to trade and p",
         "score": "8.641",
@@ -143,19 +149,13 @@
         "score": "7.869",
         "url": "https://www.youtube.com/watch?v=990oOC-bHxA",
         "comment_id": "Ugye2QvBdtvvImHIFft4AaABAg"
-      },
-      {
-        "quote": "big tip is to physically place a SL and TP on the chart as soon as you enter. and DONT move them unless your trialing the stop loss or taking profit earlier because of retracement, ect. never move you",
-        "score": "7.618",
-        "url": "https://www.youtube.com/shorts/THCxYD853JE",
-        "comment_id": "Ugxr80F1TJPRhrCOJVt4AaABAg"
       }
     ]
   },
   {
     "id": "SA-06",
     "pain_cluster": "community / cô độc khi trading",
-    "evidence_count": 358,
+    "evidence_count": 393,
     "audience_quote": "This video is exactly why I’ll never be mad at anyone who creates and sells a course. Everyone is teaching the exact same shit in their courses, but I always say you’re not paying for the “strategies” in the course but instead, you’re paying for a mentor to simplify your learning",
     "sales_angle": "Trading một mình là lý do bạn không tiến bộ",
     "big_promise": "Cộng đồng trader review setup của bạn mỗi ngày",
@@ -166,8 +166,8 @@
       "Short: Trading một mình = thua chậm",
       "Long: Tại sao 90% trader cần cộng đồng"
     ],
-    "category_evidence": 299,
-    "keyword_evidence": 74,
+    "category_evidence": 334,
+    "keyword_evidence": 77,
     "evidence_url": "https://www.youtube.com/shorts/6zTz7WMdMWg",
     "evidence_comment_id": "UgwfL_fzTdUcR32qslp4AaABAg",
     "top_evidence": [
@@ -206,7 +206,7 @@
   {
     "id": "SA-04",
     "pain_cluster": "entry_timing / vào lệnh sai thời điểm",
-    "evidence_count": 339,
+    "evidence_count": 362,
     "audience_quote": "Before entering into any trade, study and understand the market with a trading simulator before diving in with real cash. it's really helpful. However, my portfolio has been stalling this year. I have approximately $150k stagnant in my reserve that needs growth, any suggestions t",
     "sales_angle": "Bạn vào đúng hướng nhưng sai thời điểm — đó là lý do bạn thua",
     "big_promise": "Checklist 5 bước xác nhận entry trước khi bấm nút",
@@ -217,8 +217,8 @@
       "Short: 3 giây trước khi vào lệnh",
       "Long: Entry confirmation A-Z"
     ],
-    "category_evidence": 187,
-    "keyword_evidence": 338,
+    "category_evidence": 202,
+    "keyword_evidence": 361,
     "evidence_url": "https://www.youtube.com/shorts/JD_sWSjIiJE",
     "evidence_comment_id": "Ugxi2h2OOg1WglpybOl4AaABAg",
     "top_evidence": [
@@ -227,6 +227,12 @@
         "score": "8.641",
         "url": "https://www.youtube.com/watch?v=U8xH2dEgH5A",
         "comment_id": "UgwCCo6x_b88UHlnxi14AaABAg"
+      },
+      {
+        "quote": "Really glad you showed trades that had no entry and failed. Showing all the successes of a strategy CAN give the wrong impression that it's flawless.",
+        "score": "7.83",
+        "url": "https://www.youtube.com/watch?v=o0v4KQxZbpU",
+        "comment_id": "UgySfJFgZJm-jLOq_Bt4AaABAg"
       },
       {
         "quote": "big tip is to physically place a SL and TP on the chart as soon as you enter. and DONT move them unless your trialing the stop loss or taking profit earlier because of retracement, ect. never move you",
@@ -245,19 +251,13 @@
         "score": "7.56",
         "url": "https://www.youtube.com/watch?v=Cq9mF42y2UQ",
         "comment_id": "UgwKJHwG0HL2SSNklwJ4AaABAg"
-      },
-      {
-        "quote": "videos like this always hit hard. crazy how everyone says investing “changed their life,” but no one talks about the confusing beginning. I’m still stuck overthinking everything — stocks, crypto, timi",
-        "score": "7.314",
-        "url": "https://www.youtube.com/watch?v=cIv3bcPylr4",
-        "comment_id": "UgxiC6nYvOjA4ZbywLJ4AaABAg"
       }
     ]
   },
   {
     "id": "SA-08",
     "pain_cluster": "broker_platform / spread, prop firm",
-    "evidence_count": 138,
+    "evidence_count": 139,
     "audience_quote": "For what it's worth, I found this useful and helpful! So when you trade, how many screens do you use, and do you trade with the ES on one and the NQ on another, on the same screen, or just switch back and forth occasionally? Also, how do you draw the multi-colored square/rectangl",
     "sales_angle": "Prop firm challenge thất bại không phải do bạn kém — do RULES không phù hợp",
     "big_promise": "Checklist chọn prop firm theo đúng style trading của bạn",
@@ -268,8 +268,8 @@
       "Short: Đừng mua prop challenge trước khi xem cái này",
       "Long: Chọn prop firm đúng chuẩn"
     ],
-    "category_evidence": 54,
-    "keyword_evidence": 138,
+    "category_evidence": 56,
+    "keyword_evidence": 139,
     "evidence_url": "https://www.youtube.com/shorts/q1NmxUTm4n4",
     "evidence_comment_id": "UgxC3T2vCZPrp1y-PVN4AaABAg",
     "top_evidence": [
@@ -308,8 +308,8 @@
   {
     "id": "SA-05",
     "pain_cluster": "psychology / revenge trading, FOMO",
-    "evidence_count": 99,
-    "audience_quote": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain. Ask questions, learn from people doing it, don't let fear stop you. I used to ",
+    "evidence_count": 100,
+    "audience_quote": "Blowed all my accounts using free and paid signal providers. From now on I will stick to my analysis as I generated some profits, but with fear, I trusted signal providers. Lesson learnt",
     "sales_angle": "Revenge trading không phải vấn đề cảm xúc — đó là vấn đề QUY TRÌNH",
     "big_promise": "3 quy tắc chặn đứng revenge trading vĩnh viễn",
     "proof_hook": "Tôi từng mất 3 tài khoản vì revenge trading trong 1 tuần",
@@ -320,10 +320,16 @@
       "Long: Psychology & discipline system"
     ],
     "category_evidence": 0,
-    "keyword_evidence": 99,
-    "evidence_url": "https://www.youtube.com/watch?v=990oOC-bHxA",
-    "evidence_comment_id": "Ugye2QvBdtvvImHIFft4AaABAg",
+    "keyword_evidence": 100,
+    "evidence_url": "https://www.youtube.com/watch?v=G2THP1LGPB0",
+    "evidence_comment_id": "Ugy08td1ezgS7drW-Mp4AaABAg",
     "top_evidence": [
+      {
+        "quote": "Stop being scared of losing money lol. That fear is why most people never even start. We watch others win while we sit back worried about getting scammed. But risk comes before reward, no pain no gain",
+        "score": "7.869",
+        "url": "https://www.youtube.com/watch?v=990oOC-bHxA",
+        "comment_id": "Ugye2QvBdtvvImHIFft4AaABAg"
+      },
       {
         "quote": "Trading advice for anyone new to crypto: try not to focus too much on the 1-minute charts. When I first started trading, I made the mistake of reacting to every small price movement, and it cost me a ",
         "score": "7.211",
@@ -347,19 +353,13 @@
         "score": "6.324",
         "url": "https://www.youtube.com/shorts/JhBX0TQ41H8",
         "comment_id": "UgzfLO5IaMbSkKS_mpt4AaABAg"
-      },
-      {
-        "quote": "Trading advice for anyone new to crypto: try not to focus too much on the 1-minute charts. When I first started trading, I made the mistake of reacting to every small price movement, and it cost me a ",
-        "score": "6.32",
-        "url": "https://www.youtube.com/watch?v=g0BPjHd4OP8",
-        "comment_id": "UgyMVDb-k84gQS7-DFt4AaABAg"
       }
     ]
   },
   {
     "id": "SA-01",
     "pain_cluster": "discipline / không theo plan",
-    "evidence_count": 90,
+    "evidence_count": 89,
     "audience_quote": "I'm actually really good at this TDA. My problem is dicipline. I do not stick to my plan. It almost always does what I think it will when I am planning.then I see a move on the lower time frame,which I trade, and I take the trade instead of being patient. I'm so close to being pr",
     "sales_angle": "Bạn biết strategy đúng nhưng vẫn thua — vì thiếu HỆ THỐNG THỰC THI",
     "big_promise": "Từ trader 'biết nhưng không làm được' → trader có quy trình 15 phút/ngày",
@@ -371,7 +371,7 @@
       "Long: Xây quy trình trading 15 phút/ngày"
     ],
     "category_evidence": 0,
-    "keyword_evidence": 90,
+    "keyword_evidence": 89,
     "evidence_url": "https://www.youtube.com/shorts/GKN-iVjJpyA",
     "evidence_comment_id": "UgwlM_C1qIFY2vrr51t4AaABAg",
     "top_evidence": [

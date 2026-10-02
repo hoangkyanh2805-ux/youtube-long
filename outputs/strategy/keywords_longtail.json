@@ -4,7 +4,7 @@
   "top_longtail": [
     {
       "phrase": "stop loss",
-      "freq": 43,
+      "freq": 44,
       "words": 2
     },
     {
@@ -18,13 +18,13 @@
       "words": 2
     },
     {
-      "phrase": "risk management",
-      "freq": 29,
+      "phrase": "daily bias",
+      "freq": 31,
       "words": 2
     },
     {
-      "phrase": "daily bias",
-      "freq": 23,
+      "phrase": "risk management",
+      "freq": 29,
       "words": 2
     },
     {
@@ -33,12 +33,12 @@
       "words": 2
     },
     {
-      "phrase": "trading strategy",
+      "phrase": "started trading",
       "freq": 20,
       "words": 2
     },
     {
-      "phrase": "started trading",
+      "phrase": "trading strategy",
       "freq": 19,
       "words": 2
     },
@@ -49,11 +49,11 @@
     },
     {
       "phrase": "prop firms",
-      "freq": 15,
+      "freq": 14,
       "words": 2
     },
     {
-      "phrase": "support resistance",
+      "phrase": "order block",
       "freq": 13,
       "words": 2
     },
@@ -63,13 +63,13 @@
       "words": 2
     },
     {
-      "phrase": "every day",
+      "phrase": "entry model",
       "freq": 12,
       "words": 2
     },
     {
-      "phrase": "order block",
-      "freq": 12,
+      "phrase": "every day",
+      "freq": 11,
       "words": 2
     },
     {
@@ -78,7 +78,27 @@
       "words": 2
     },
     {
+      "phrase": "learning trade",
+      "freq": 10,
+      "words": 2
+    },
+    {
+      "phrase": "stop losses",
+      "freq": 10,
+      "words": 2
+    },
+    {
       "phrase": "candle candle",
+      "freq": 10,
+      "words": 2
+    },
+    {
+      "phrase": "ict concepts",
+      "freq": 10,
+      "words": 2
+    },
+    {
+      "phrase": "risk reward",
       "freq": 10,
       "words": 2
     },
@@ -88,12 +108,7 @@
       "words": 2
     },
     {
-      "phrase": "learning trade",
-      "freq": 9,
-      "words": 2
-    },
-    {
-      "phrase": "stop losses",
+      "phrase": "trading years",
       "freq": 9,
       "words": 2
     },
@@ -103,7 +118,22 @@
       "words": 2
     },
     {
+      "phrase": "per trade",
+      "freq": 9,
+      "words": 2
+    },
+    {
+      "phrase": "strategy work",
+      "freq": 9,
+      "words": 2
+    },
+    {
       "phrase": "trading without",
+      "freq": 9,
+      "words": 2
+    },
+    {
+      "phrase": "support resistance",
       "freq": 9,
       "words": 2
     },
@@ -113,7 +143,7 @@
       "words": 2
     },
     {
-      "phrase": "trading years",
+      "phrase": "strategy works",
       "freq": 8,
       "words": 2
     },
@@ -133,12 +163,12 @@
       "words": 2
     },
     {
-      "phrase": "break structure",
+      "phrase": "profitable trader",
       "freq": 8,
       "words": 2
     },
     {
-      "phrase": "trading real",
+      "phrase": "break structure",
       "freq": 8,
       "words": 2
     },
@@ -148,7 +178,7 @@
       "words": 2
     },
     {
-      "phrase": "ict concepts",
+      "phrase": "higher timeframe",
       "freq": 8,
       "words": 2
     },
@@ -168,11 +198,6 @@
       "words": 2
     },
     {
-      "phrase": "entry model",
-      "freq": 8,
-      "words": 2
-    },
-    {
       "phrase": "trading without proper",
       "freq": 8,
       "words": 3
@@ -183,12 +208,22 @@
       "words": 4
     },
     {
-      "phrase": "demand zones",
+      "phrase": "changed trading",
       "freq": 7,
       "words": 2
     },
     {
-      "phrase": "profitable trader",
+      "phrase": "order blocks",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "new trading",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "demand zones",
       "freq": 7,
       "words": 2
     },
@@ -198,7 +233,12 @@
       "words": 2
     },
     {
-      "phrase": "trading isnt",
+      "phrase": "london session",
+      "freq": 7,
+      "words": 2
+    },
+    {
+      "phrase": "best ict",
       "freq": 7,
       "words": 2
     },
@@ -213,27 +253,17 @@
       "words": 2
     },
     {
+      "phrase": "trading real",
+      "freq": 7,
+      "words": 2
+    },
+    {
       "phrase": "start trading",
       "freq": 7,
       "words": 2
     },
     {
-      "phrase": "higher timeframe",
-      "freq": 7,
-      "words": 2
-    },
-    {
-      "phrase": "per trade",
-      "freq": 7,
-      "words": 2
-    },
-    {
-      "phrase": "risk reward",
-      "freq": 7,
-      "words": 2
-    },
-    {
-      "phrase": "strategy work",
+      "phrase": "daily candle",
       "freq": 7,
       "words": 2
     },
@@ -378,6 +408,11 @@
       "words": 2
     },
     {
+      "phrase": "hour candle",
+      "freq": 7,
+      "words": 2
+    },
+    {
       "phrase": "trade while",
       "freq": 6,
       "words": 2
@@ -393,22 +428,17 @@
       "words": 2
     },
     {
-      "phrase": "strategy works",
-      "freq": 6,
-      "words": 2
-    },
-    {
-      "phrase": "new trading",
-      "freq": 6,
-      "words": 2
-    },
-    {
       "phrase": "trade trend",
       "freq": 6,
       "words": 2
     },
     {
       "phrase": "simple strategy",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "trading isnt",
       "freq": 6,
       "words": 2
     },
@@ -443,7 +473,12 @@
       "words": 2
     },
     {
-      "phrase": "daily candle",
+      "phrase": "best strategy",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "trade live",
       "freq": 6,
       "words": 2
     },
@@ -453,6 +488,21 @@
       "words": 2
     },
     {
+      "phrase": "bullet strategy",
+      "freq": 6,
+      "words": 2
+    },
+    {
+      "phrase": "silver bullet strategy",
+      "freq": 6,
+      "words": 3
+    },
+    {
+      "phrase": "risk reward ratio",
+      "freq": 6,
+      "words": 3
+    },
+    {
       "phrase": "nice setup",
       "freq": 6,
       "words": 2
@@ -460,11 +510,6 @@
     {
       "phrase": "risk control",
       "freq": 6,
-      "words": 2
-    },
-    {
-      "phrase": "changed trading",
-      "freq": 5,
       "words": 2
     },
     {
@@ -478,14 +523,14 @@
       "words": 3
     },
     {
-      "phrase": "order blocks",
+      "phrase": "small profit",
       "freq": 5,
       "words": 2
     },
     {
-      "phrase": "small profit",
+      "phrase": "first started trading",
       "freq": 5,
-      "words": 2
+      "words": 3
     },
     {
       "phrase": "trading patience",
@@ -494,6 +539,11 @@
     },
     {
       "phrase": "forex fury",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "entry point",
       "freq": 5,
       "words": 2
     },
@@ -528,12 +578,22 @@
       "words": 3
     },
     {
+      "phrase": "learning trading",
+      "freq": 5,
+      "words": 2
+    },
+    {
       "phrase": "last candle",
       "freq": 5,
       "words": 2
     },
     {
       "phrase": "trade real",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "next day",
       "freq": 5,
       "words": 2
     },
@@ -558,7 +618,7 @@
       "words": 2
     },
     {
-      "phrase": "best strategy",
+      "phrase": "candle high",
       "freq": 5,
       "words": 2
     },
@@ -583,22 +643,22 @@
       "words": 2
     },
     {
+      "phrase": "trading view",
+      "freq": 5,
+      "words": 2
+    },
+    {
+      "phrase": "intraday trading",
+      "freq": 5,
+      "words": 2
+    },
+    {
       "phrase": "learned trade",
       "freq": 5,
       "words": 2
     },
     {
-      "phrase": "trade live",
-      "freq": 5,
-      "words": 2
-    },
-    {
       "phrase": "every trade",
-      "freq": 5,
-      "words": 2
-    },
-    {
-      "phrase": "pat strategy",
       "freq": 5,
       "words": 2
     },
@@ -609,11 +669,6 @@
     },
     {
       "phrase": "trade forex",
-      "freq": 5,
-      "words": 2
-    },
-    {
-      "phrase": "enter trade",
       "freq": 5,
       "words": 2
     },
@@ -668,12 +723,12 @@
       "words": 4
     },
     {
-      "phrase": "looks chart",
+      "phrase": "trading learned",
       "freq": 5,
       "words": 2
     },
     {
-      "phrase": "hour candle",
+      "phrase": "looks chart",
       "freq": 5,
       "words": 2
     },
@@ -699,6 +754,11 @@
     },
     {
       "phrase": "profitable trading",
+      "freq": 4,
+      "words": 2
+    },
+    {
+      "phrase": "profit loss",
       "freq": 4,
       "words": 2
     },
@@ -759,11 +819,6 @@
     },
     {
       "phrase": "trading advice anyone",
-      "freq": 4,
-      "words": 3
-    },
-    {
-      "phrase": "first started trading",
       "freq": 4,
       "words": 3
     },
@@ -944,61 +999,6 @@
     },
     {
       "phrase": "die per day",
-      "freq": 4,
-      "words": 3
-    },
-    {
-      "phrase": "per day small",
-      "freq": 4,
-      "words": 3
-    },
-    {
-      "phrase": "day small pre",
-      "freq": 4,
-      "words": 3
-    },
-    {
-      "phrase": "market moves trade",
-      "freq": 4,
-      "words": 3
-    },
-    {
-      "phrase": "moves trade trend",
-      "freq": 4,
-      "words": 3
-    },
-    {
-      "phrase": "trade trend minute",
-      "freq": 4,
-      "words": 3
-    },
-    {
-      "phrase": "trend minute chart",
-      "freq": 4,
-      "words": 3
-    },
-    {
-      "phrase": "minute chart ema",
-      "freq": 4,
-      "words": 3
-    },
-    {
-      "phrase": "chart ema vwap",
-      "freq": 4,
-      "words": 3
-    },
-    {
-      "phrase": "hard small profit",
-      "freq": 4,
-      "words": 3
-    },
-    {
-      "phrase": "small profit close",
-      "freq": 4,
-      "words": 3
-    },
-    {
-      "phrase": "profit close small",
       "freq": 4,
       "words": 3
     }
