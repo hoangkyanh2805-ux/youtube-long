@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-"""Sentiment Analysis Module — lấy từ JensBender/youtube-channel-analytics.
+"""Sentiment Analysis Module — Local Transformers.
+
+Lấy từ JensBender/youtube-channel-analytics (huggingface_space/).
 
 Models:
-- RoBERTa: cardiffnlp/twitter-roberta-base-sentiment-latest (3-class)
-- DistilBERT: distilbert-base-uncased-finetuned-sst-2-english (2-class)
+- RoBERTa: cardiffnlp/twitter-roberta-base-sentiment-latest (3-class: positive/negative/neutral)
+- DistilBERT: distilbert-base-uncased-finetuned-sst-2-english (2-class: positive/negative)
 
 Usage:
     from sentiment_analyzer import SentimentAnalyzer
@@ -143,7 +145,7 @@ if __name__ == "__main__":
         "Neutral comment about trading.",
     ]
 
-    print("Testing sentiment analysis:")
+    print("Testing sentiment analysis (local model):")
     for text in test_comments:
         result = analyzer.analyze(text)
         print(f"  {text[:50]:50} → {result['label']:10} ({result['score']:.3f})")
